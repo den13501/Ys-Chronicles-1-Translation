@@ -12,9 +12,9 @@
 	<string id="9">大盾</string>
 	<string id="10">銀盾</string>
 	<string id="11">戰盾</string>
-	<string id="12">鎖甲</string>
-	<string id="13">鎧甲</string>
-	<string id="14">反傷甲</string>
+	<string id="12">鎖鍊甲</string>
+	<string id="13">鐵片甲</string>
+	<string id="14">反射皮甲</string>
 	<string id="15">銀甲</string>
 	<string id="16">戰甲</string>
 	<string id="17">力量戒指</string>
@@ -68,9 +68,9 @@
 	<string id="61">價錢合適的小型的劍。
 也可以用於日常生活，
 但面對魔物有些擔心。</string>
-	<string id="62">鋼鐵的長劍。因為劍很寬，
-導致重量十足很難使用，
-但在戰鬥中也能發揮十足的力量。</string>
+	<string id="62">鋼鐵製的長劍。劍身結構較寬，
+較為笨重，不易於使用，
+但是其戰鬥中發揮的力量不可小看。</string>
 	<string id="63">說是從遙遠的東方傳來的
 貴重的刀劍。彎曲的銳刃
 秘藏著巨大的破壞力。</string>
@@ -80,9 +80,9 @@
 	<string id="65">刀身纏繞火焰的最強的魔劍。
 其斬擊能透過物質燒盡對方，
 沒有辦法防御。</string>
-	<string id="66">強化堅硬木材製成的小盾。
-價格合適也方便使用，
-但強度和守備范圍有難點。</string>
+	<string id="66">質地堅硬的木材經過補強製成的小盾牌。
+價格便宜，使用容易，
+但是強度與守備範圍都不甚理想。</string>
 	<string id="67">用鞣皮襯裡的中型的盾牌。
 雖然大卻不重方便使用，
 而且有著優秀的強度。</string>
@@ -95,9 +95,9 @@
 	<string id="70">獲得了燃燒火焰的加護的盾牌。
 秘藏著根據使用者，可以格擋
 各種攻擊的力量。</string>
-	<string id="71">用細致的鐵索編制的防具。
-通氣性好，容易活動，
-但有抗打擊弱的難題。</string>
+	<string id="71">用細細的鐵鍊編織而成的防具。
+通風而便於身體活動，但是，
+缺點是承受打擊的能力較弱。</string>
 	<string id="72">裝有鋼鐵板的鎧甲。
 雖然製作得很結實，
 但需要相當的體力承受重量。</string>
@@ -167,7 +167,7 @@
 	<string id="94">傳承中的樹木的種子。
 內包的果肉說是比任何
 食物都美味。</string>
-	<string id="95">從古傳承的澤辟庫村的寶物。
+	<string id="95">從古傳承的塞皮克村的寶物。
 說是一直守護著村莊免受災難，
 揮動後可以聽到涼爽的聲音。</string>
 	<string id="96">發出動聽的音色的
@@ -249,7 +249,7 @@
 	<string id="135">馬修老人</string>
 	<string id="136">凱因</string>
 	<string id="137">卡琳</string>
-	<string id="138">洛澤提</string>
+	<string id="138">洛賽提</string>
 	<string id="139">迪歐斯</string>
 	<string id="140">皮姆多尼斯</string>
 	<string id="141">莉莎</string>
@@ -330,12 +330,12 @@
 	<string id="328">酒館</string>
 	<string id="329">米內亞城鎮</string>
 	<string id="330">占卜師沙菈的店鋪</string>
-	<string id="331">洛澤提的武器店</string>
-	<string id="332">迪歐斯的防具店</string>
+	<string id="331">洛賽提的武器店</string>
+	<string id="332">迪歐斯防具店</string>
 	<string id="333">庫拉澤的醫院</string>
 	<string id="334">歐曼的酒館</string>
-	<string id="335">皮姆多尼斯的交易所</string>
-	<string id="336">澤辟庫村</string>
+	<string id="335">皮姆的交換所</string>
+	<string id="336">塞皮克村</string>
 	<string id="337">村長的家</string>
 	<string id="338">潔瓦的家</string>
 	<string id="339">盧達的家</string>
@@ -526,7 +526,7 @@
 好像之前放有什麼的像。</string>
 	<string id="2483">被盧達＝潔瑪拜托
 將護衛他達到
-澤辟庫村。</string>
+塞皮克村。</string>
 	<string id="2484">可以看到池底有閃閃發光的東西。</string>
 	<string id="2511">周圍沒有魔物的氣息
 只能聽見葉子摩擦的聲音。</string>
@@ -562,19 +562,19 @@
 	<string id="2782">８８版作廢臺詞</string>
 	<string id="2785">從樹根溢出銀色的光芒。</string>
 	<string id="2786">南 &gt;1米內亞&gt;6        200梅萊
-北 澤辟庫村&gt;5     9庫利梅萊
+北 塞皮克村&gt;5     9庫利梅萊
    拉斯丁礦山  7庫利梅萊</string>
-	<string id="2787">北 澤辟庫村&gt;5     7庫利梅萊
+	<string id="2787">北 塞皮克村&gt;5     7庫利梅萊
    拉斯丁礦山  5庫利梅萊
 南 &gt;1米內亞&gt;6        3庫利梅萊</string>
-	<string id="2788">↑ 澤辟庫村・拉斯丁村方面</string>
-	<string id="2789">東   &lt;2澤辟庫村&gt;5     3庫利梅萊
+	<string id="2788">↑ 塞皮克村・拉斯丁村方面</string>
+	<string id="2789">東   &lt;2塞皮克村&gt;5     3庫利梅萊
 北西 拉斯丁礦山  500梅萊
 南   &lt;1米內亞&gt;6        7庫利梅萊</string>
-	<string id="2790">北 澤辟庫村     &gt;22庫利梅萊
+	<string id="2790">北 塞皮克村     &gt;22庫利梅萊
 西 米內亞        &gt;38庫利梅萊
    &lt;1拉斯丁礦山  &lt;22庫利梅萊</string>
-	<string id="2791">→ 澤辟庫村</string>
+	<string id="2791">→ 塞皮克村</string>
 	<string id="2792">西 米內亞城門 750梅萊
 南 巴爾巴多港&gt;1 5庫利梅萊</string>
 	<string id="2793">↑ 米內亞城門
@@ -1070,7 +1070,7 @@
 	<string id="932">……劍士殿下。
 愿意去尋找
 『伊蘇之書』嗎？</string>
-	<string id="936">澤辟庫村在
+	<string id="936">塞皮克村在
 米內亞北方草原的東北……
 通往山之神殿的途中。</string>
 	<string id="952">請找到『伊蘇之書』。
@@ -1154,7 +1154,7 @@
 	<string id="1252">刻在表面的古代文字
 是祝福的言語嗎。</string>
 	<string id="1256">真是出色的成果……！</string>
-	<string id="1258">需要哪個鎧甲？</string>
+	<string id="1258">你想要哪一個鎧甲？</string>
 	<string id="1265">#02400&gt;4Gold#00&gt;4
 如何？</string>
 	<string id="1276">#022000&gt;4Gold#00&gt;4
@@ -1170,7 +1170,7 @@
 不會讓你吃虧哦。</string>
 	<string id="1315">歡迎再次光臨。</string>
 	<string id="1329">庫拉澤先生，甚至會去到
-沒有醫生的澤辟庫村診療。</string>
+沒有醫生的塞皮克村診療。</string>
 	<string id="1331">艾斯塔里亞的醫生只有巴爾巴多的
 布魯多老師和庫拉澤老師，
 說不定是沒有辦法……</string>
@@ -1412,12 +1412,12 @@
 需要相當的實力覺悟。</string>
 	<string id="1649">你真厲害呢。</string>
 	<string id="1656">拜托了。
-如果去了澤辟庫村的話
+如果去了塞皮克村的話
 可以聽一下父親的商談嗎？</string>
 	<string id="1657">還是第一次見到父親那樣……
 究竟，發生了什麼呢？</string>
 	<string id="1658">拜托了。
-如果去了澤辟庫村的話
+如果去了塞皮克村的話
 可以聽一下父親的商談嗎？</string>
 	<string id="1660">我也要好好道謝才行。
 真的是非常感謝了。</string>
@@ -1708,7 +1708,7 @@
 	<string id="2469">……救…救…</string>
 	<string id="2470">…我……</string>
 	<string id="2471">別光看著，救救我啊&gt;2―&lt;1―&lt;1！</string>
-	<string id="2482">澤辟庫村是哪邊呢？
+	<string id="2482">塞皮克村是哪邊呢？
 您知道的話，能帶我去嗎？</string>
 	<string id="2485">啊啊……盧達！</string>
 	<string id="2486">對不住……
@@ -1881,7 +1881,7 @@
 	<string id="575">艾斯塔里亞是小的島國。</string>
 	<string id="576">人們的住所只有這個巴爾巴多
 和有城墻的米內亞城鎮
-以及在山腳的澤辟庫村而已。</string>
+以及在山腳的塞皮克村而已。</string>
 	<string id="577">在不久之前，還有拉斯丁村……
 但銀礦山封鎖了，而且出現了魔物，
 已經沒有人住了……</string>
@@ -1925,7 +1925,7 @@
 	<string id="599">特別是這個巴爾巴多，被害十分嚴重。</string>
 	<string id="600">雖然米內亞也不比這裡安全，
 但有堅固的城墻守護，在里邊可以安心生活。</string>
-	<string id="601">澤辟庫村雖然只有柵欄，
+	<string id="601">塞皮克村雖然只有柵欄，
 但不知為何，魔物不去靠近。
 也有傳聞說有不可思的鈴鐺守護著村子。</string>
 	<string id="605">不過，你也想當冒失呢。</string>
@@ -2024,7 +2024,7 @@
 從布魯多老師那裡聽說了。</string>
 	<string id="704">自警團的工作之一
 是護送城鎮的人到
-米內亞和澤辟庫村……</string>
+米內亞和塞皮克村……</string>
 	<string id="717">啊啊，明明聽說有銀可以賺錢
 才來到了這樣的邊境來。</string>
 	<string id="720">知道米內亞的叫做皮姆多尼斯的商人嗎？
@@ -2070,7 +2070,7 @@
 開始出現魔物。</string>
 	<string id="788">自警團果然很可靠呢。
 會護送我們到米內亞或
-澤辟庫村哦。</string>
+塞皮克村哦。</string>
 	<string id="790">但是，他言無用……
 男人為了自己而
 冒險這種事……</string>
@@ -2083,7 +2083,7 @@
 過各種的預言……</string>
 	<string id="800">如果，有了想知道的事情的話
 就去拜訪那個占卜師看看吧？</string>
-	<string id="802">澤辟庫村前方的神殿的遺跡中
+	<string id="802">塞皮克村前方的神殿的遺跡中
 並排著一些帶有翅膀的女神像。
 其美麗程度讓人無法相信是這個
 世上的存在。</string>
@@ -2178,7 +2178,7 @@
 『伊蘇』毀滅的理由。</string>
 	<string id="930">……這個水晶球指示著『伊蘇之書』的
 其中一冊在山上的神殿之中。</string>
-	<string id="933">首先請探訪住在#02澤辟庫村#00的叫做
+	<string id="933">首先請探訪住在#02塞皮克村#00的叫做
 
 		#02潔瓦#00的女性看看。</string>
 	<string id="934">我的姑母對神殿與伊蘇的事情
@@ -2219,7 +2219,7 @@
 	<string id="978">我也是從大陸來的。
 因為暴風雨的結界，
 被困在了這個落魄的小國。</string>
-	<string id="983">哦，那個藍寶石的戒指是
+	<string id="983">哦，那個藍寶石戒指是
 多尼斯的東西嗎。
 找到了真是太好了呢。</string>
 	<string id="988">因為你是外人所以不知道吧，
@@ -2340,29 +2340,28 @@
 但強度完全沒有受損。</string>
 	<string id="1255">在裝飾的雕刻之間
 巧妙地刻有祝福的言語。</string>
-	<string id="1263">鎖甲是用鎖鏈編織的鎧甲。
-輕便容易行動，
-而且因為通風性好，不會感到悶熱。</string>
+	<string id="1263">鎖鏈甲是用鎖鏈編織而成的鎧甲。
+輕巧便於活動，
+而且穿起來透氣，不會悶熱。</string>
 	<string id="1270">說來，之前買過了呢。
 我們的商品很結實，
 應該還能用很久呢。</string>
-	<string id="1272">謝謝惠顧。
-愛惜著使用吧。</string>
+	<string id="1272">謝謝。
+請愛惜使用。</string>
 	<string id="1273">好像超出預算了呢。
 不要勉強，從便宜的
 裝備開始買起比較好。</string>
-	<string id="1274">這個鎧甲是
-用薄金屬板組合出來的鎧甲。
-雖然非常沉重，但防御力超群。</string>
-	<string id="1281">反傷甲是值得自豪的作品。
-用特殊的樹脂加工表面而成的皮革鎧甲。
-明明很輕卻擁有鋼鐵以上的硬度。</string>
-	<string id="1294">小盾
-是用鉚釘強化硬木材而成的盾牌。
-輕便靈活。</string>
-	<string id="1301">這個中盾
-是給鞣皮裝上鋼絲的盾牌。
-不光輕便，強度也不一般。</string>
+	<string id="1274">這個金屬板甲是
+用金屬板組合起來的鎧甲。
+穿起來雖然笨重，但是防御力特別優異。</string>
+	<string id="1281">反射皮甲是我們的傑出商品。
+這是表面以特殊樹脂做加工處理的皮甲。
+重量輕，硬度卻在鋼鐵之上。</string>
+	<string id="1294">小盾是以質地堅硬的木材以釘子補強製造的盾牌。
+重量輕，很容易使用哦。</string>
+	<string id="1301">中盾是以皮格為材料，
+插入鐵絲加工製成的盾牌。
+除了重量輕以外，強度也不可小看。</string>
 	<string id="1308">大盾。
 因為是加工鐵板而成的盾牌，
 雖然重但可以防御住任何魔物的一擊哦。</string>
@@ -2468,9 +2467,9 @@
 	<string id="1486">在魔物徘徊之前，
 原野北方的大叔下方
 是大家的游玩場所……</string>
-	<string id="1492">我的爺爺經常跟我講
-艾斯塔里亞的
-童話故事。</string>
+	<string id="1492">我的爺爺常常告訴我
+艾斯塔里亞
+以前的各種傳說哦。</string>
 	<string id="1495">爺爺說
 這個國家的某處
 一直沉睡著銀色的劍。</string>
@@ -2566,14 +2565,14 @@
 魔物會從想不到的地方襲擊過來。</string>
 	<string id="1648">去了滿是魔物的廢坑
 的最深處了嗎……</string>
-	<string id="1653">我的父親在北邊的澤辟庫村
+	<string id="1653">我的父親在北邊的塞皮克村
 擔任村長。</string>
 	<string id="1654">最近，好像有什麼
 深刻的煩惱。</string>
 	<string id="1655">之前見面的時候
 說是
 『很難和村里的人講』……</string>
-	<string id="1659">從澤辟庫村的父親那裡
+	<string id="1659">從塞皮克村的父親那裡
 聽說了。你幫著取回了
 銀鈴對吧。</string>
 	<string id="1665">黃昏時分從廢坑出來的
@@ -3003,7 +3002,7 @@
 你說我們偷了『銀鈴』？</string>
 	<string id="2259">那真是天大的誤會。</string>
 	<string id="2260">我們也知道『銀鈴』
-是澤辟庫村的象征。</string>
+是塞皮克村的象征。</string>
 	<string id="2264">我們還沒有落魄到偷那種東西，
 踐踏別人的心靈。</string>
 	<string id="2265">雖然信不信由你，
@@ -3135,7 +3134,7 @@
 應該很少會有魔物追過來。</string>
 	<string id="2446">……真的可以嗎？
 自警團的人也說過，
-有空的時候會護送到澤辟庫村。</string>
+有空的時候會護送到塞皮克村。</string>
 	<string id="2447">不需要您擔心。
 能想辦法一個人回去。</string>
 	<string id="2448">也想快點
@@ -3149,7 +3148,7 @@
 	<string id="2456">哦哦，亞特魯君。
 還精神嗎？</string>
 	<string id="2457">什麼，剛才的人嗎？
-是澤辟庫村的盧達君。</string>
+是塞皮克村的盧達君。</string>
 	<string id="2460">嗯嗯……
 夢游癥還真是麻煩呢。</string>
 	<string id="2464">剛才的先生，明明還很年輕，
@@ -3157,7 +3156,7 @@
 	<string id="2465">早上起來發現丈夫不在身邊……
 妻子一定會擔心得
 坐立不安吧。</string>
-	<string id="2466">但是，從澤辟庫村來到這裡的路上
+	<string id="2466">但是，從塞皮克村來到這裡的路上
 沒有被魔物所襲擊真是太好了呢。</string>
 	<string id="2473">非、非常感謝。
 雖然不知道您是什麼人，
@@ -3165,7 +3164,7 @@
 	<string id="2475">哦，記得……
 在巴爾巴多的醫院見過您。</string>
 	<string id="2476">……說晚了。
-我是澤辟庫村的盧達＝潔瑪。</string>
+我是塞皮克村的盧達＝潔瑪。</string>
 	<string id="2478">是這樣嗎……
 又讓她擔心了呢。</string>
 	<string id="2479">很慚愧，我好像
@@ -3269,7 +3268,7 @@
 	<string id="2565">那麼，帶上這個吧。</string>
 	<string id="2583">……看來是注意到了呢。</string>
 	<string id="2584">你好，初次見面。
-我是住在澤辟庫村的
+我是住在塞皮克村的
 叫做盧達＝潔瑪的人。</string>
 	<string id="2585">很慚愧，
 我有夢游癥。
@@ -3535,10 +3534,10 @@
 	<string id="973">想要挖掘物</string>
 	<string id="974">來賣東西了</string>
 	<string id="975">離開店鋪</string>
-	<string id="1012">藍寶石的戒指</string>
-	<string id="1013">翅膀</string>
+	<string id="1012">藍寶石戒指</string>
+	<string id="1013">回歸之翼</string>
 	<string id="1014">鏡子</string>
-	<string id="1015">什麼也不買</string>
+	<string id="1015">什麼都不買</string>
 	<string id="1023">購買</string>
 	<string id="1024">不買</string>
 	<string id="1050">購買</string>
@@ -3561,7 +3560,7 @@
 	<string id="1205">短劍</string>
 	<string id="1206">長劍</string>
 	<string id="1207">塔瓦烏茲彎刀</string>
-	<string id="1208">什麼也不買</string>
+	<string id="1208">什麼都不買</string>
 	<string id="1212">購買</string>
 	<string id="1213">不買</string>
 	<string id="1223">購買</string>
@@ -3572,10 +3571,10 @@
 	<string id="1244">購買鎧甲</string>
 	<string id="1245">購買盾牌</string>
 	<string id="1246">離開店鋪</string>
-	<string id="1259">鎖甲</string>
-	<string id="1260">鎧甲</string>
-	<string id="1261">反傷甲</string>
-	<string id="1262">什麼也不買</string>
+	<string id="1259">鎖鍊甲</string>
+	<string id="1260">鐵片甲</string>
+	<string id="1261">反射皮甲</string>
+	<string id="1262">什麼都不買</string>
 	<string id="1266">購買</string>
 	<string id="1267">不買</string>
 	<string id="1277">購買</string>
@@ -3585,7 +3584,7 @@
 	<string id="1290">小盾</string>
 	<string id="1291">中盾</string>
 	<string id="1292">大盾</string>
-	<string id="1293">什麼也不買</string>
+	<string id="1293">什麼都不買</string>
 	<string id="1297">購買</string>
 	<string id="1298">不買</string>
 	<string id="1304">購買</string>
@@ -3718,7 +3717,7 @@
 守護著巴爾巴多的安全。</string>
 	<string id="TEXT_DIARY_DRAKE">住在巴爾巴多港口城市的青年。 
 作為自警團的一員在護衛去往 
-米內亞城鎮與澤辟庫村的居民。
+米內亞城鎮與塞皮克村的居民。
 喜歡年長的女性，
 好像對米內亞里的舞者 
 有意思，
@@ -3884,21 +3883,21 @@
 在從艾斯塔里亞外部前來到此的 
 亞特魯身上看出了什麼， 
 引導其前往有關伊蘇的冒險。</string>
-	<string id="TEXT_DIARY_JEVAH">住在澤辟庫村的老婆婆。 
+	<string id="TEXT_DIARY_JEVAH">住在塞皮克村的老婆婆。 
 是米內亞城鎮的占卜師莎拉
 姨母，對艾斯塔里亞的文化
 與歷史造詣很深。 
 也精通于藥草與占卜的知識，
 受到周圍的村民的
 尊敬。</string>
-	<string id="TEXT_DIARY_LINDA">住在澤辟庫村的女性。 
+	<string id="TEXT_DIARY_LINDA">住在塞皮克村的女性。 
 就算周圍的狀況改變了，
 也保持一如既往的生活腳步
 的主婦。以「更加舒心的家庭」 
 為座右銘度過著每一天。
 是艾魯巴特的妻子，
 馬克的母親。</string>
-	<string id="TEXT_DIARY_CORBO">住在澤辟庫村的老人。 
+	<string id="TEXT_DIARY_CORBO">住在塞皮克村的老人。 
 以前，被魔物襲擊了的時候
 得到了救助，
 從此評價古邦 
@@ -3912,7 +3911,7 @@
 建立著據點。如信條所言， 
 是個注重道義受到部下信任
 的人。</string>
-	<string id="TEXT_DIARY_LUTHER">住在澤辟庫村的吟游詩人。 
+	<string id="TEXT_DIARY_LUTHER">住在塞皮克村的吟游詩人。 
 自從開始出現魔物以後， 
 被夢游癥所困擾，
 在自己毫不知情的時候， 
@@ -4102,7 +4101,7 @@
 偷了， 
 只能自認倒霉。</string>
 	<string id="TEXT_DIARY_CANE">在米內亞的醫院里的青年。 
-在想從澤辟庫村來到米內亞
+在想從塞皮克村來到米內亞
 的途中，被里波爾狂追， 
 受了傷。 
 被襲擊的情景好像成了
@@ -4117,7 +4116,7 @@
 而沒能成功。</string>
 	<string id="TEXT_DIARY_TABITHA">住在米內亞城鎮的女性。 
 巴克的妻子。 
-在擔心身為父親的澤辟庫村
+在擔心身為父親的塞皮克村
 的村長。 
 好像抱著一副深刻的表情 
 吐露出「不能跟村里的人說」 
@@ -4149,7 +4148,7 @@
 防具迷。認為活下來才是 
 勝利，會根據使用人提供 
 合適的防具。 
-武器店的洛澤提的兒子。</string>
+武器店的洛賽提的兒子。</string>
 	<string id="TEXT_DIARY_BETHEL">住在米內亞城鎮的老人。 
 可能多虧庫拉澤醫生的處方， 
 也頗為精神。 
@@ -4184,95 +4183,95 @@
 祈愿著有一天返回拉斯丁村， 
 大家一起過上和以前 
 一樣的生活。</string>
-	<string id="TEXT_DIARY_ROBERTH">澤辟庫村的村長。 
+	<string id="TEXT_DIARY_ROBERTH">塞皮克村的村長。 
 代代相傳的「銀鈴」
 是村子的象征。 
 好像抱有著嚴重的麻煩， 
 在尋找村民以外的 
 可以依靠的人。</string>
-	<string id="TEXT_DIARY_MARK">住在澤辟庫村的男孩子。 
+	<string id="TEXT_DIARY_MARK">住在塞皮克村的男孩子。 
 雖然是村里唯一的孩子， 
 但完全不在意這種事，
 精神地和大自然一起玩耍。 
 非常喜歡湖， 
 總是在享受垂釣和曬太陽的
 樂趣。</string>
-	<string id="TEXT_DIARY_EDDA">住在澤辟庫村的老婆婆。 
+	<string id="TEXT_DIARY_EDDA">住在塞皮克村的老婆婆。 
 喜歡采集山菜與水果的
 婆婆。明明以前能從聳立 
 在草原的大樹上采到美味
 的果實的，但最近不結果了，
 因此感到非常遺憾。 
 艾魯巴特的母親。</string>
-	<string id="TEXT_DIARY_IRIS">住在澤辟庫村的女性。 
+	<string id="TEXT_DIARY_IRIS">住在塞皮克村的女性。 
 丈夫盧達突然消失身影，
 很擔心去沒去危險的 
 地方。 
 聽說是患了夢游病，
 不知道自己去了 
 哪里。</string>
-	<string id="TEXT_DIARY_CLIVE">住在澤辟庫村的男性。 
+	<string id="TEXT_DIARY_CLIVE">住在塞皮克村的男性。 
 雖然一張老年， 
 但勉強還在二十幾歲。最近，
 開始覺得獨身一人很寂寞了。 
-雖然在募集女友，但澤辟庫村
+雖然在募集女友，但塞皮克村
 多為老人，很少有邂逅的機會，
 讓他很是煩惱。</string>
-	<string id="TEXT_DIARY_ROHAN">住在澤辟庫村的老人。 
+	<string id="TEXT_DIARY_ROHAN">住在塞皮克村的老人。 
 認為既然真有魔物的話， 
 那麼曾經拯救了艾斯塔里亞 
 的存在應該也是真的吧， 
 期待著記錄在古文書上的
 「女神」的出現 。</string>
-	<string id="TEXT_DIARY_PARMA">住在澤辟庫村的少女。 
+	<string id="TEXT_DIARY_PARMA">住在塞皮克村的少女。 
 因為是老人比較多的村落， 
 所以一直都很擔心有沒有人 
 身體不適。 
 因為村長的樣子很奇怪， 
 所以很擔心是不是身體 
 哪里出了問題。</string>
-	<string id="TEXT_DIARY_KRONEN">住在澤辟庫村的老人。 
+	<string id="TEXT_DIARY_KRONEN">住在塞皮克村的老人。 
 年輕的時候，作為礦工 
 曾在銀礦上工作來著。 
 說是當時，在礦山的深處 
 安置有兩座女神像，
 但不知何時
 少了一座。</string>
-	<string id="TEXT_DIARY_DEMI">住在澤辟庫村的女性。 
+	<string id="TEXT_DIARY_DEMI">住在塞皮克村的女性。 
 雖然性格內斂，但對誰 
 都很溫柔，被大家所仰慕。 
 有想要詢問的事情的話， 
 會推薦你去尋找叫做潔瓦的 
 博聞強識的人。</string>
-	<string id="TEXT_DIARY_PABLO">住在澤辟庫村的老人。 
+	<string id="TEXT_DIARY_PABLO">住在塞皮克村的老人。 
 在棧橋垂下釣線是 
 每天的功課，戰果 
 基本都是零蛋。 
 雖然不知道是在釣魚 
 還是在曬太陽，但本人 
 根本無所謂的樣子。</string>
-	<string id="TEXT_DIARY_LUCIA">住在澤辟庫村的老婆婆。 
+	<string id="TEXT_DIARY_LUCIA">住在塞皮克村的老婆婆。 
 深信宗教的性格，堅信
 是村子的寶物「銀鈴」 
 在保護村子免受魔物侵襲。 
 實際上銀鈴釋放的清脆的 
 音色中確實有著什麼裨益 
 的樣子。</string>
-	<string id="TEXT_DIARY_ELBERT">住在澤辟庫村的青年。 
+	<string id="TEXT_DIARY_ELBERT">住在塞皮克村的青年。 
 作為少數的村子里的年輕人， 
-為防止魔物入侵澤辟庫村 
+為防止魔物入侵塞皮克村 
 在巡邏。不久前，目擊到
 黑色斗篷的可疑男子去了北方。 
 琳達的丈夫， 
 馬克的父親。</string>
-	<string id="TEXT_DIARY_SOYA">住在澤辟庫村的老婆婆。 
+	<string id="TEXT_DIARY_SOYA">住在塞皮克村的老婆婆。 
 喜歡怪談，有什麼不可思議
 的事的話，立刻就說是幽靈 
 作祟。雖然會忠告人說神殿 
 中棲息著頭巾的亡靈， 
 但不親眼見證一下的話， 
 也不知道真假。</string>
-	<string id="TEXT_DIARY_TOVE">住在澤辟庫村的老婆婆。 
+	<string id="TEXT_DIARY_TOVE">住在塞皮克村的老婆婆。 
 上年紀後也不失豁達的 
 精神的老婆婆。 
 認為魔物和盜賊
@@ -4617,7 +4616,7 @@
 	<string id="CHR_MIN1_WOMAN">塔比薩</string>
 	<string id="CHR_MIN5_CHIEF">瑪魯賽爾鎮長</string>
 	<string id="CHR_MIN5_OLDWOMAN">帕梅拉</string>
-	<string id="CHR_ROSETTI">洛澤提</string>
+	<string id="CHR_ROSETTI">洛賽提</string>
 	<string id="CHR_DIOS">迪歐斯</string>
 	<string id="CHR_MIN4_OLDMAN">佩特魯老人</string>
 	<string id="CHR_MIN4_WOMAN">伊蒂雅</string>
@@ -4822,11 +4821,11 @@
 	<string id="SC_CLAUSECLINIC">Clause's clinic</string>
 	<string id="JIS_SC_OHMANPUB">歐曼的酒館</string>
 	<string id="SC_OHMANPUB">Ohman's pub</string>
-	<string id="JIS_SC_ROSETTIWEAPONRY">洛澤提的武器店</string>
+	<string id="JIS_SC_ROSETTIWEAPONRY">洛賽提的武器店</string>
 	<string id="SC_ROSETTIWEAPONRY">Rosetti's weaponry</string>
-	<string id="JIS_SC_DIOSARMORY">迪歐斯的防具店</string>
+	<string id="JIS_SC_DIOSARMORY">迪歐斯防具店</string>
 	<string id="SC_DIOSARMORY">Dios's armory</string>
-	<string id="JIS_SC_PIMBARTER">皮姆多尼斯的交易所</string>
+	<string id="JIS_SC_PIMBARTER">皮姆的交換所</string>
 	<string id="SC_PIMBARTER">Pim the Barter</string>
 	<string id="JIS_SC_BUCKHOME">巴克的家</string>
 	<string id="SC_BUCKHOME">Buck's home</string>
@@ -4860,7 +4859,7 @@
 	<string id="SC_WAREHOUSEF2">Warehouse F2</string>
 	<string id="JIS_SC_PLAIN">草原</string>
 	<string id="SC_PLAIN">Plain</string>
-	<string id="JIS_SC_ZEPTIKVILLAGE">澤辟庫村</string>
+	<string id="JIS_SC_ZEPTIKVILLAGE">塞皮克村</string>
 	<string id="SC_ZEPTIKVILLAGE">Zeptik village</string>
 	<string id="JIS_SC_JEVAHOME">潔瓦的家</string>
 	<string id="SC_JEVAHOME">Jevah's home</string>
