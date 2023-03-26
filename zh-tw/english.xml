@@ -1,0 +1,5312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dict>
+	<string id="0">古代伊蘇毀滅前兆.</string>
+	<string id="1">讀取中...</string>
+	<string id="2">短劍</string>
+	<string id="3">長劍</string>
+	<string id="4">塔瓦烏茲彎刀</string>
+	<string id="5">銀劍</string>
+	<string id="6">焰劍</string>
+	<string id="7">小盾</string>
+	<string id="8">中盾</string>
+	<string id="9">大盾</string>
+	<string id="10">銀盾</string>
+	<string id="11">戰盾</string>
+	<string id="12">鎖甲</string>
+	<string id="13">鎧甲</string>
+	<string id="14">反傷甲</string>
+	<string id="15">銀甲</string>
+	<string id="16">戰甲</string>
+	<string id="17">力量戒指</string>
+	<string id="18">環甲</string>
+	<string id="19">時間戒指</string>
+	<string id="20">治癒戒指</string>
+	<string id="21">惡魔戒指</string>
+	<string id="22">伊蘇之書</string>
+	<string id="23">伊蘇之書</string>
+	<string id="24">伊蘇之書</string>
+	<string id="25">伊蘇之書</string>
+	<string id="26">伊蘇之書</string>
+	<string id="27">伊蘇之書</string>
+	<string id="28">寶箱鑰匙</string>
+	<string id="29">牢屋鑰匙</string>
+	<string id="30">神殿鑰匙</string>
+	<string id="31">象牙鑰匙</string>
+	<string id="32">大理石鑰匙</string>
+	<string id="33">達姆鑰匙</string>
+	<string id="34">水晶</string>
+	<string id="35">羅妲之果</string>
+	<string id="36">銀鈴</string>
+	<string id="37">銀口琴</string>
+	<string id="38">&lt;1偶像</string>
+	<string id="39">杖</string>
+	<string id="40">眼鏡</string>
+	<string id="41">藍 護身符</string>
+	<string id="42">紅寶石</string>
+	<string id="43">藍寶石戒指</string>
+	<string id="44">項鏈</string>
+	<string id="45">金之臺座</string>
+	<string id="46">治療 藥劑</string>
+	<string id="47">回歸之翼</string>
+	<string id="48">錘子</string>
+	<string id="49">魔法鏡</string>
+	<string id="50">信號 的 面具</string>
+	<string id="51">藍 項鏈</string>
+	<string id="52">中世紀動物譜 藥劑</string>
+	<string id="53">紙片</string>
+	<string id="54">金墜飾</string>
+	<string id="55">青色封面的書</string>
+	<string id="56">紅色封面的書</string>
+	<string id="57">藍色封面的書</string>
+	<string id="58">黃色封面的書</string>
+	<string id="59">綠色封面的書</string>
+	<string id="60">黑色封面的書</string>
+	
+	
+	
+	
+	<string id="61">價錢合適的小型的劍。
+也可以用於日常生活，
+但面對魔物有些擔心。</string>
+	<string id="62">鋼鐵的長劍。因為劍很寬，
+導致重量十足很難使用，
+但在戰鬥中也能發揮十足的力量。</string>
+	<string id="63">說是從遙遠的東方傳來的
+貴重的刀劍。彎曲的銳刃
+秘藏著巨大的破壞力。</string>
+	<string id="64">裝飾華麗的長劍。
+刀身釋放的白銀光輝中
+寄宿著毀滅邪惡的力量。</string>
+	<string id="65">刀身纏繞火焰的最強的魔劍。
+其斬擊能透過物質燒盡對方，
+沒有辦法防御。</string>
+	<string id="66">強化堅硬木材製成的小盾。
+價格合適也方便使用，
+但強度和守備范圍有難點。</string>
+	<string id="67">用鞣皮襯裡的中型的盾牌。
+雖然大卻不重方便使用，
+而且有著優秀的強度。</string>
+	<string id="68">用鋼鐵做成的大型的盾牌。
+非常重，使用起來很困難，
+但擁有卓越的防御力。</string>
+	<string id="69">製作精美的白銀的盾牌。
+為了抵抗邪惡，
+刻有對女神的祈禱。</string>
+	<string id="70">獲得了燃燒火焰的加護的盾牌。
+秘藏著根據使用者，可以格擋
+各種攻擊的力量。</string>
+	<string id="71">用細致的鐵索編制的防具。
+通氣性好，容易活動，
+但有抗打擊弱的難題。</string>
+	<string id="72">裝有鋼鐵板的鎧甲。
+雖然製作得很結實，
+但需要相當的體力承受重量。</string>
+	<string id="73">用特別的樹脂強化的鎧甲。
+不光是輕便易動，
+而且比鋼鐵鎧甲還結實。</string>
+	<string id="74">製作精美的白銀鎧甲。
+內含女神的祝福，
+裝備的人類不受邪氣侵犯。</string>
+	<string id="75">獲得了燃燒火焰的加護的鎧甲。
+擁有對各種攻擊的抗性，
+抗拒任何敵人。</string>
+	<string id="76">青銅的戒指。寄宿有倍増
+力量與潛在能力的能量，
+在戰鬥中會起到很大幫助。</string>
+	<string id="77">用黃銅製成的魔法的戒指。
+在周圍張開結界，
+從外部的攻擊傷害減半。</string>
+	<string id="78">用珊瑚削制而成的戒指。
+通過時間洪流的重壓，
+延遲周圍的邪惡魔物的動作。</string>
+	<string id="79">被寄予神圣祝福的戒指。
+在被邪氣所污染了的場所，
+也能夠得到治癒與安詳。</string>
+	<string id="80">將裝備者浸染邪氣，
+毀滅其身心的恐怖戒指。
+閃耀著不詳的光芒。</string>
+	<string id="81">皮面上有著美麗的圖案的
+古文書。寫有已經遺失的
+文字嗎，無法閱讀。</string>
+	<string id="82">皮面上有著美麗的圖案的
+古文書。寫有已經遺失的
+文字嗎，無法閱讀。</string>
+	<string id="83">皮面上有著美麗的圖案的
+古文書。寫有已經遺失的
+文字嗎，無法閱讀。</string>
+	<string id="84">皮面上有著美麗的圖案的
+古文書。寫有已經遺失的
+文字嗎，無法閱讀。</string>
+	<string id="85">皮面上有著美麗的圖案的
+古文書。寫有已經遺失的
+文字嗎，無法閱讀。</string>
+	<string id="86">皮面上有著美麗的圖案的
+古文書。寫有已經遺失的
+文字嗎，無法閱讀。</string>
+	<string id="87">用青銅制造的萬能鑰匙。
+可以打開全部同種類的
+寶箱上的鎖。</string>
+	<string id="88">到處帶有銹斑的，
+粗制的沉甸甸的鐵鑰匙。
+可以打開地下牢的門。</string>
+	<string id="89">紅寶石和金的細工很精美的鑰匙。
+插入的部分成扭曲的，
+極其復雜的形狀。</string>
+	<string id="90">用淡黃白色的象牙製作成的鑰匙。
+丁寧地雕刻有互相糾纏成條紋狀的
+纖細的圖案。</string>
+	<string id="91">翠色的鮮艷的大理石鑰匙。
+擁有艷麗的光澤，前端成
+三叉戟似的形狀。</string>
+	<string id="92">用閃耀藍光的礦石做成的鑰匙。
+刻有在艾斯塔里亞的遺跡中，
+到處可見的不可思議的紋章。</string>
+	<string id="93">用奇妙的裝飾品固定住的
+大粒的輝水晶。放在陽光下
+可以看到中心看到璀璨星光。</string>
+	<string id="94">傳承中的樹木的種子。
+內包的果肉說是比任何
+食物都美味。</string>
+	<string id="95">從古傳承的澤辟庫村的寶物。
+說是一直守護著村莊免受災難，
+揮動後可以聽到涼爽的聲音。</string>
+	<string id="96">發出動聽的音色的
+銀質的古老口琴。
+泛有純白色的光輝。</string>
+	<string id="97">模仿古代的翼龍的青銅像。
+秘藏有消除所有者的氣息的
+不可思議的能力。</string>
+	<string id="98">魔道師所攜帶的那樣的短杖。
+可以感受到沙拉所給的水晶
+類似的匠心。</string>
+	<string id="99">上年頭的古舊的單片鏡。
+雖然像是用於讀書的東西，
+但鏡片沒有度數。</string>
+	<string id="100">嘉瑪家系傳承的驅魔之物。
+纏繞著凜凜的青白光輝以及
+些許冷氣。</string>
+	<string id="101">帶有金的裝飾的大顆的紅玉。
+好像保存狀態不錯，
+表面沒有顯眼的傷痕。</string>
+	<string id="102">鑲有藍色寶石的戒指。
+內側刻有像是贈送者
+留下的信息。</string>
+	<string id="103">金的首飾。
+鑲嵌有很多小顆的紅寶石，
+有被胡亂地對待過的痕跡。</string>
+	<string id="104">純金制的豪華臺座。
+雖然有放上球體的凹槽，
+但不知道具體用途。</string>
+	<string id="105">煎熬紅洋地黃葉而成的
+鮮紅的飲用藥物。擁有
+瞬間恢復身心不適的效力。</string>
+	<string id="106">模仿翅膀的魔法護符。
+使用後能一瞬間歸還到
+米內亞城鎮。</string>
+	<string id="107">常見的鐵質的榔頭。
+有相當的重量，用於
+敲碎巖石什麼的東西。</string>
+	<string id="108">一時間靜止住映照進來的
+光景的鏡子。耐久力有界限，
+使用數次後會壞掉。</string>
+	<string id="109">埋有翡翠的石面具。
+雖然會看不見生物的姿態，
+但能看到隱藏道路。</string>
+	<string id="110">閃爍藍光的礦石的首飾。
+秘藏著強力的破邪之力，
+無效化邪惡的陷阱。</string>
+	<string id="111">說是偉大的傳道師調和的
+飲用藥物。可以對應戰鬥
+過的經驗獲得魔物的情報。</string>
+	<string id="112">在１張紙片上寫有
+幾行都不懂的文字。</string>
+
+
+
+
+	<string id="113">亞特魯</string>
+	<string id="114">愛拉</string>
+	<string id="115">醫師布魯多</string>
+	<string id="116">史拉夫</string>
+	<string id="117">醫師庫拉澤</string>
+	<string id="118">莎拉</string>
+	<string id="119">蕾雅</string>
+	<string id="120">達尼</string>
+	<string id="121">蓋歐魯古老人</string>
+	<string id="122">菲娜</string>
+	<string id="123">盧達＝潔瑪</string>
+	<string id="124">多奇</string>
+	<string id="125">古邦</string>
+	<string id="126">潔瓦</string>
+	<string id="127">拉瓦</string>
+	<string id="128">羅貝盧斯村長</string>
+	<string id="129">里卡魯德</string>
+	<string id="130">賽扎魯</string>
+	<string id="131">礦工達古</string>
+	<string id="132">切斯特</string>
+	<string id="133">賽歐德亞</string>
+	<string id="134">布隆</string>
+	<string id="135">馬修老人</string>
+	<string id="136">凱因</string>
+	<string id="137">卡琳</string>
+	<string id="138">洛澤提</string>
+	<string id="139">迪歐斯</string>
+	<string id="140">皮姆多尼斯</string>
+	<string id="141">莉莎</string>
+	<string id="142">歐曼</string>
+	<string id="143">多尼斯</string>
+	<string id="144">亞蕾克</string>
+	<string id="145">愛麗絲</string>
+	<string id="146">盜賊盧剛</string>
+	<string id="147">盜賊魔鋼</string>
+	<string id="148">帕布羅老人</string>
+	<string id="149">舞者妮可</string>
+	<string id="150">謝利爾</string>
+	<string id="151">漁家佩特羅</string>
+	<string id="152">弗蘭</string>
+	<string id="153">阿西亞</string>
+	<string id="154">馬魯克</string>
+	<string id="155">杰拉爾德</string>
+	<string id="156">斯特凡</string>
+	<string id="157">杰伊科布</string>
+	<string id="158">德雷克</string>
+	<string id="159">達莉婭婆婆</string>
+	<string id="160">帕斯特魯老人</string>
+	<string id="161">貿易商梅宋</string>
+	<string id="162">西魯比亞</string>
+	<string id="163">特蘭斯</string>
+	<string id="164">蕾貝卡</string>
+	<string id="165">普里姆</string>
+	<string id="166">阿謝爾</string>
+	<string id="167">約翰</string>
+	<string id="168">盧卡</string>
+	<string id="169">尤里烏斯</string>
+	<string id="170">科內爾</string>
+	<string id="171">漢斯</string>
+	<string id="172">黑絲塔克</string>
+	<string id="173">班戈爾頭目</string>
+	<string id="174">法娜</string>
+	<string id="175">歐羅拉</string>
+	<string id="176">費蘭慈老人</string>
+	<string id="177">塔比薩</string>
+	<string id="178">巴克</string>
+	<string id="179">弗雷迪</string>
+	<string id="180">瑪薩</string>
+	<string id="181">夏露穆</string>
+	<string id="182">佩特魯老人</string>
+	<string id="183">伊蒂雅</string>
+	<string id="184">帕梅拉</string>
+	<string id="185">瑪魯賽爾鎮長</string>
+	<string id="186">艾皮</string>
+	<string id="187">夏洛特</string>
+	<string id="188">哈里森老人</string>
+	<string id="189">拉翰老人</string>
+	<string id="190">庫洛內恩老人</string>
+	<string id="191">克虜伯老人</string>
+	<string id="192">特備婆婆</string>
+	<string id="193">露琪亞婆婆</string>
+	<string id="194">索亞婆婆</string>
+	<string id="195">艾魯巴特</string>
+	<string id="196">庫賴布</string>
+	<string id="197">帕爾瑪</string>
+	<string id="198">德米</string>
+	<string id="199">琳達</string>
+	<string id="200">馬克</string>
+	<string id="201">艾達婆婆</string>
+	<string id="202">歐魯巴斯</string>
+	<string id="203">蝶</string>
+	<string id="204">克九</string>
+	<string id="205">毗沙門</string>
+	<string id="206">凱瑟</string>
+	<string id="207">湯米</string>
+	<string id="208">鷗</string>
+	<string id="209">咪咪克</string>
+	<string id="210">達爾克＝法克特</string>
+	<string id="323">民房</string>
+	<string id="324">巴爾巴多港口城市</string>
+	<string id="325">布魯多的醫院</string>
+	<string id="326">自警團的據點</string>
+	<string id="327">自警團的武器庫</string>
+	<string id="328">酒館</string>
+	<string id="329">米內亞城鎮</string>
+	<string id="330">占卜師沙菈的店鋪</string>
+	<string id="331">洛澤提的武器店</string>
+	<string id="332">迪歐斯的防具店</string>
+	<string id="333">庫拉澤的醫院</string>
+	<string id="334">歐曼的酒館</string>
+	<string id="335">皮姆多尼斯的交易所</string>
+	<string id="336">澤辟庫村</string>
+	<string id="337">村長的家</string>
+	<string id="338">潔瓦的家</string>
+	<string id="339">盧達的家</string>
+	<string id="340">盜賊據點</string>
+	<string id="341">草原</string>
+	<string id="342">羅妲之樹</string>
+	<string id="343">廢坑</string>
+	<string id="344">神殿</string>
+	<string id="345">第1層</string>
+	<string id="346">第2層</string>
+	<string id="347">第3層</string>
+	<string id="348">達姆之塔</string>
+	<string id="349">地下牢</string>
+	<string id="350">拉德之塔</string>
+	<string id="351">測試地圖</string>
+	<string id="352">哈達爾之章</string>
+	<string id="353">托瓦之章</string>
+	<string id="354">達比之章</string>
+	<string id="355">梅薩之章</string>
+	<string id="356">潔瑪之章</string>
+	<string id="357">法克特之章</string>
+	
+	
+	<string id="358">
+入手了。</string>
+	<string id="359">
+購買了。</string>
+	<string id="360">
+嘗試買了。</string>
+	<string id="361">
+發現了。</string>
+	<string id="362">
+借入了。</string>
+	<string id="363">
+代管了。</string>
+	<string id="364">
+取回了。</string>
+	<string id="365">
+授予了。</string>
+	<string id="366">
+接收了。</string>
+	<string id="367">
+#021200&gt;4Gold#00&gt;4的價格出手了。</string>
+	<string id="368">
+#02500&gt;4Gold#00&gt;4的價格出手了。</string>
+	<string id="369">
+#022000&gt;4Gold#00&gt;4的價格出手了。</string>
+	<string id="370">
+#021320&gt;4Gold#00&gt;4的價格出手了。</string>
+	<string id="371">
+#02550&gt;4Gold#00&gt;4的價格出手了。</string>
+	<string id="372">
+#022200&gt;4Gold#00&gt;4的價格出手了。</string>
+	<string id="373">裝在里邊。
+因為已經擁有了就留下吧。</string>
+	<string id="374">伴隨著刺痛，戒指緊緊
+套在手指上。已經摘不下來了。</string>
+	<string id="375">獲得了不可思議的知覺力。
+顯示著狀態數值進行戰鬥看看吧。</string>
+	<string id="376">用青銅打造出來的小鑰匙。
+正好握在掌中。</string>
+	<string id="377">沉甸甸的鐵製鑰匙。
+有些生銹了。</string>
+	<string id="378">施加了金的細工和紅寶石的鑰匙。
+拆入的部分扭曲著。</string>
+	<string id="379">削磨上等的象牙製成的鑰匙。
+雕刻有精致的細工。</string>
+	<string id="380">用翠綠色的大理石製成的鑰匙。
+前端分成三個叉。</string>
+	<string id="381">用青白色的礦石製成的鑰匙。
+刻印有和神殿大門相同的
+紋章。</string>
+	<string id="382">水晶的中心部分
+和星星一樣閃耀。</string>
+	<string id="383">翼龍的紅色瞳孔
+隱約地閃耀著光芒。</string>
+	<string id="384">拿著柄端的部分試著揮動，
+但並沒有發生特別的事情。</string>
+	<string id="385">中心的大個的青玉，
+釋放著神圣的光輝。</string>
+	<string id="386">艾斯塔里亞產的大個的紅寶石。
+感覺值很高的價格。</string>
+	<string id="387">純金屬製的豪華的臺座。
+一只手無法拿起來的重量。</string>
+	<string id="388">沒有看起來那麼重。
+感覺不是純金屬的。</string>
+	<string id="389">戒指的內側刻有
+『多尼斯注入愛意』
+……的文字。</string>
+	<string id="390">通過面具看到的風景
+感覺顏色暗淡，掉色。</string>
+	<string id="391">中心的藍色寶石
+釋放著清澈的光芒。</string>
+	<string id="392">感覺很結實的錘子。
+應該能用來破壞掉什麼。</string>
+	<string id="393">寫有數行形狀奇特的
+不可思議的古代文字。</string>
+
+
+
+
+	<string id="394">體力不斷回復……</string>
+	<string id="395">上著鎖。</string>
+	<string id="396">箱子是空的。</string>
+	<string id="397">什麼都不買</string>
+	<string id="398">購買</string>
+	<string id="399">不買</string>
+	<string id="400">什麼也不賣</string>
+	<string id="401">販賣</string>
+	<string id="402">不賣</string>
+	<string id="403">停止對話</string>
+	<string id="404">停止購物</string>
+	<string id="405">主選單</string>
+	<string id="406">是</string>
+	<string id="407">否</string>
+	<string id="408">出去</string>
+	<string id="409">停止</string>
+	<string id="410">要怎麼做？</string>
+	
+	
+	
+	
+	<string id="411">不存在數碼音響裝置，或被其他軟件
+占用了。現在無法通過數碼音響演奏背景音樂。</string>
+	<string id="412">不存在光盤音頻，或被其他軟件
+占用了。現在無法通過光盤演奏背景音樂。</string>
+	<string id="417">亞特魯試著摸了摸身體。
+……雖然身體關節很痛，
+但並不至於不能動。</string>
+	<string id="427">亞特魯向史拉夫道謝，
+報上了自己的名字。</string>
+	<string id="429">亞特魯將自己從普羅瑪洛克
+乘小船來到艾斯塔里亞的事情
+告訴了布魯多等人。</string>
+	<string id="440">亞特魯受到了精心的照顧，
+眼看著好了起來。</string>
+	<string id="442">然後數日後……</string>
+	<string id="457">要怎麼做？</string>
+	<string id="492">要怎麼做？</string>
+	<string id="971">要怎麼做？</string>
+	<string id="1173">要怎麼做？</string>
+	<string id="1242">要怎麼做？</string>
+	<string id="1320">要怎麼做？</string>
+	<string id="1369">要怎麼做？</string>
+	<string id="1446">#021500&gt;4Gold#00&gt;4接收了。</string>
+	<string id="1807">帶著她脫身</string>
+	<string id="1808">之後肯定會來救助</string>
+	<string id="1816">決定將被抓的
+少女菲娜護送
+到安全的場所。</string>
+	<string id="1839">不能放下她不管。</string>
+	<string id="1841">不能放下她
+一個人回去。</string>
+	<string id="1842">看來這個東西
+無法運送兩個
+人。</string>
+	<string id="1843">不能放下她
+一個人回去。</string>
+	<string id="1845">不能再帶她去危險的
+地方了。</string>
+	<string id="1847">不能放下她不管。</string>
+	<string id="1848">發現了藏在墻後的房間。</string>
+	<string id="1859">她沒有跟過來。
+好像把她拋下了。</string>
+	<string id="1860">她沒有跟過來。
+從剛才的房間
+不安地看著這邊。</string>
+	<string id="1886">菲娜閉上眼睛&gt;2癱瘓下來。
+試著觸摸額頭後感到很燙。</string>
+	<string id="1887">幸好，附近有潔瓦的家。</string>
+	<string id="1888">亞特魯背起菲娜，
+決定前往潔瓦家。</string>
+	<string id="1897">是藥效出來了嗎，
+菲娜發出了平穩的
+睡息……</string>
+
+
+
+
+	<string id="1948">要怎麼做？</string>
+	<string id="1980">要怎麼做？</string>
+	<string id="2010">要怎麼做？</string>
+	<string id="2051">要怎麼做？</string>
+	<string id="2117">要怎麼做？</string>
+	<string id="2124">要怎麼做？</string>
+	<string id="2180">要怎麼做？</string>
+	<string id="2443">有兩個石造的臺座。
+好像之前放有什麼的像。</string>
+	<string id="2483">被盧達＝潔瑪拜托
+將護衛他達到
+澤辟庫村。</string>
+	<string id="2484">可以看到池底有閃閃發光的東西。</string>
+	<string id="2511">周圍沒有魔物的氣息
+只能聽見葉子摩擦的聲音。</string>
+	<string id="2513">可以聽到摻雜著風聲
+在嘟囔著什麼的聲音。</string>
+	<string id="2515">可以聽到摻雜著風聲
+跟亞特魯搭話的聲音。</string>
+	<string id="2516">從大樹的根部，溢出銀色的光芒。</string>
+	<string id="2518">已經聽不到那不可思議的
+聲音了……</string>
+	<string id="2571">亞特魯確認了裝備。
+……注意到有些東西
+不見了。</string>
+	<string id="2573">又有裝備被翻動了的痕跡。</string>
+	<string id="2574">通路上沒有
+活動的東西的氣息。</string>
+	<string id="2575">鐵格子很牢固，
+怎麼搖也一動不動。</string>
+	<string id="2576">也看不到像是門的東西。</string>
+	<string id="2577">嚴密的石堆的墻壁。
+附有濕的灰塵。</string>
+	<string id="2578">看不到窗戶與排水溝。
+也感覺不到空氣的流動。</string>
+	<string id="2779">從男人的披風中發現了最終章。</string>
+
+
+
+
+	<string id="2780">亞特魯重合六本書後
+溢出了非常耀眼的光芒，
+周圍被柔和的安詳感所包圍。</string>
+	<string id="2781">觸碰到門的瞬間，手臂產生劇痛。</string>
+	<string id="2782">８８版作廢臺詞</string>
+	<string id="2785">從樹根溢出銀色的光芒。</string>
+	<string id="2786">南 &gt;1米內亞&gt;6        200梅萊
+北 澤辟庫村&gt;5     9庫利梅萊
+   拉斯丁礦山  7庫利梅萊</string>
+	<string id="2787">北 澤辟庫村&gt;5     7庫利梅萊
+   拉斯丁礦山  5庫利梅萊
+南 &gt;1米內亞&gt;6        3庫利梅萊</string>
+	<string id="2788">↑ 澤辟庫村・拉斯丁村方面</string>
+	<string id="2789">東   &lt;2澤辟庫村&gt;5     3庫利梅萊
+北西 拉斯丁礦山  500梅萊
+南   &lt;1米內亞&gt;6        7庫利梅萊</string>
+	<string id="2790">北 澤辟庫村     &gt;22庫利梅萊
+西 米內亞        &gt;38庫利梅萊
+   &lt;1拉斯丁礦山  &lt;22庫利梅萊</string>
+	<string id="2791">→ 澤辟庫村</string>
+	<string id="2792">西 米內亞城門 750梅萊
+南 巴爾巴多港&gt;1 5庫利梅萊</string>
+	<string id="2793">↑ 米內亞城門
+ &lt;3※足下注意</string>
+	<string id="2794">↑ 拉斯丁礦山</string>
+	<string id="2795">自警團集合所</string>
+	<string id="2796">武器倉庫</string>
+	<string id="2797">好像上著鎖。</string>
+	<string id="2798">帶著扭曲形狀的鑰匙孔。
+感覺里邊有什麼的氣息。</string>
+	<string id="2799">使用了神殿鑰匙。</string>
+	<string id="2800">上了鎖的牢房。
+深處好像有什麼。</string>
+
+
+
+
+	<string id="2801">使用了牢屋鑰匙。</string>
+	<string id="2802">好像上著鎖。
+感覺到從內部有什麼的氣息。</string>
+	<string id="2803">使用了象牙鑰匙。</string>
+	<string id="2804">好像上著鎖。</string>
+	<string id="2806">在通路深處感覺到驚人的殺氣。
+強大的力量將要被喚醒。</string>
+	<string id="2807">畫有奇妙的紋章的門。
+感覺到從內部有什麼的氣息。</string>
+	<string id="2808">使用了達姆鑰匙。</string>
+	<string id="2809">試著敲了門，沒有一點反應。
+對面好像是巖壁……</string>
+	<string id="2810">上邊有放過什麼像的
+痕跡。</string>
+	<string id="2811">緊閉著……</string>
+	<string id="2812">試著推了門，但巖石門毫不動彈。
+也沒有鑰匙孔的樣子。</string>
+	<string id="2815">甜美芳醇的味感在口中散開。
+一剎那……奇妙的感覺穿過
+亞特魯的背脊。</string>
+	<string id="2816">哪都都沒有受傷，
+不需要使用吧。</string>
+	<string id="2817">『伊蘇之書』
+打開這充滿謎題的古文書看了看。
+書寫有亞特魯所不知道的文字……</string>
+	<string id="211">※※※※※※※※※※※※※</string>
+	<string id="212">啊啦…？</string>
+	<string id="213">什麼啊…是你啊？</string>
+	<string id="214">什麼啊…是你做的嗎？</string>
+	<string id="215">啊啊，很忙，很忙……</string>
+	<string id="216">…請不要胡鬧。</string>
+	<string id="217">這是…鏡子的力量呢。</string>
+	<string id="218">啊咿？</string>
+	<string id="219">哦，不行不行…</string>
+	<string id="221">哦…剛才那是…？</string>
+	<string id="222">嗯？　你做的嗎是？</string>
+	<string id="223">喂…什麼意思？</string>
+	<string id="224">不要用得那麼浪費。</string>
+	<string id="225">哦，你持有很罕見的東西呢？</string>
+	<string id="226">剛才那是……你嗎？</string>
+	<string id="227">嗝…什麼…？</string>
+	<string id="228">嗚〜喝多了嗎〜？</string>
+	<string id="229">哈…不行不行…</string>
+	<string id="230">……奇怪？</string>
+	
+	
+	
+	
+	<string id="231">目眩…</string>
+	<string id="232">嘶嘶…</string>
+	<string id="233">嗯…？</string>
+	<string id="234">呼呼…</string>
+	<string id="235">吼誒…？</string>
+	<string id="236">喂喂…別嚇我。</string>
+	<string id="237">你是什麼意思？</string>
+	<string id="238">呵呵…立刻就用了嗎？</string>
+	<string id="239">真奇怪呢…？</string>
+	<string id="240">呣……？</string>
+	<string id="241">嗚呀啊…？</string>
+	<string id="242">剛才的氣息是…？</string>
+	<string id="243">啊啦…？</string>
+	<string id="244">那家伙現身了嗎！？</string>
+	<string id="245">什麼…剛才的氣息？</string>
+	<string id="246">Ｚｚｚｚ……</string>
+	<string id="247">什…什麼啊？</string>
+	<string id="248">呼誒誒…？</string>
+	<string id="249">什麼啊…？</string>
+	<string id="250">是錯覺嗎…？</string>
+	<string id="251">剛才那是…什麼…？</string>
+	<string id="252">嗚呀啊！？</string>
+	<string id="253">誒…真奇怪呢…？</string>
+	<string id="254">嗯——？</string>
+	<string id="255">什、什麼啊…？</string>
+	<string id="256">哦呀…？</string>
+	<string id="257">我也上年齡了嗎…？</string>
+	<string id="258">怎、怎麼了，你們…？</string>
+	<string id="259">嗚哇哇…！</string>
+	<string id="260">啊啦啦…？</string>
+	<string id="261">…發生了什麼？</string>
+	<string id="262">是錯覺嗎…</string>
+	<string id="263">呀嗯…！</string>
+	<string id="264">哦哣哣…</string>
+	<string id="265">誒——？</string>
+	<string id="266">真奇怪呢…？</string>
+	<string id="267">什麼啊…？</string>
+	<string id="268">…是太累了嗎？</string>
+	<string id="269">哇…！</string>
+	<string id="270">嗚誒……</string>
+	<string id="271">哦哣哣…！</string>
+	<string id="272">哦啦…什麼？</string>
+	<string id="273">呀…！</string>
+	<string id="274">哦呀…這是鏡子的…</string>
+	<string id="275">真奇怪呢…？</string>
+	<string id="276">怎麼了…！</string>
+	<string id="277">剛才那是…什麼？</string>
+	<string id="278">是錯覺嗎…？</string>
+	<string id="279">討厭…好恐怖…</string>
+	<string id="280">嗯…？</string>
+	<string id="281">？？？</string>
+	<string id="282">啊啦啊啦…？</string>
+	<string id="283">這究竟是…？</string>
+	<string id="284">怎、怎麼回事！？</string>
+	<string id="285">……啊啦？</string>
+	<string id="286">什麼啊，剛才那是…？</string>
+	<string id="287">吼哇哇哇哇…！</string>
+	<string id="288">什麼，剛才的是？</string>
+	<string id="289">嗯嗯，這是…</string>
+	<string id="290">…是什麼呢？</string>
+	<string id="291">嗯…剛才的是…？</string>
+	<string id="292">有鬼啊〜！</string>
+	<string id="293">發生了什麼！？</string>
+	<string id="294">咿誒誒誒誒…！？</string>
+	<string id="295">呀啊啊啊！？</string>
+	<string id="296">是、是錯覺吧…</string>
+	<string id="297">剛才那是什麼…？</string>
+	<string id="298">哇哦…！？</string>
+	<string id="299">…真吵呢。</string>
+	<string id="300">啪唧啪唧…</string>
+	<string id="301">啪噠啪噠…</string>
+	<string id="302">嗚〜嗯？</string>
+	<string id="303">哦嘿！？</string>
+	<string id="304">噗嚕噗嚕…</string>
+	<string id="305">喵？</string>
+	<string id="306">咪？</string>
+	<string id="307">………</string>
+	<string id="308">無聊的餘興到此結束…</string>
+	<string id="309">在哪里呢…？</string>
+	<string id="310">亞特魯…在哪里…？</string>
+	<string id="311">………</string>
+	<string id="312">好恐怖…</string>
+	<string id="313">啊啊…</string>
+	<string id="314">那個人…
+絕對會來的。</string>
+	<string id="315">………</string>
+	<string id="316">我…我…</string>
+	<string id="317">…討厭…好恐怖……</string>
+	<string id="318">時間…停止了…？</string>
+	<string id="319">…呼嗚呼嗚……</string>
+	<string id="320">亞特魯，怎麼了？</string>
+	<string id="321">…請不要亂鬧。</string>
+	<string id="322">…是錯覺嗎…？</string>
+	<string id="414">哦哦，醒過來了呢。</string>
+	
+	
+	
+	
+	<string id="415">滿身的青腫，還是
+不要勉強的比較好</string>
+	<string id="416">如何？
+有沒有特別疼的地方？</string>
+	<string id="418">放心吧。
+這裡是港口城市巴爾巴多的醫院。</string>
+	<string id="419">……老爹！
+他醒了嗎？</string>
+	<string id="420">哦哦史拉夫，真早呢。
+自警團的集會怎麼樣了？</string>
+	<string id="421">一如既往。
+沒有進展。</string>
+	<string id="422">方才，
+剛剛起來。</string>
+	<string id="423">回過神來了嗎，太好了！</string>
+	<string id="424">說來，還沒有自我介紹呢。
+我的名字是布魯多。
+是這家醫院的主人。</string>
+	<string id="425">這是我的兒子史拉夫。
+是他將倒在海濱附近的
+森林中的你抬到這裡來的。</string>
+	<string id="426">襲擊你的里波爾們
+已經被我們趕走了。
+……真是危險關頭呢。</string>
+	<string id="428">亞特魯嗎……不錯的名字。
+好像沒見過你，從哪里而來的？</string>
+	<string id="430">居然是……從外邊的世界進來的嗎！</string>
+	<string id="431">這真是…讓人吃驚。
+居然有人突破『嵐之結界』
+從外面進來……</string>
+	<string id="432">兩位怎麼了！？</string>
+	<string id="433">唉呀，囉嗦的護士大人
+過來了……</string>
+	<string id="435">史拉夫，他可是傷員哦？
+要好好讓人家休息
+才行啊。</string>
+	<string id="436">這真是，疏忽了。</string>
+	<string id="437">今天就這樣吧。</string>
+	<string id="438">總之，先好好休息吧。
+之後會再來的。</string>
+
+
+
+
+	<string id="466">真是不知道像誰了……</string>
+	<string id="468">那也是傷病剛好。</string>
+	<string id="472">什麼，哪裡都沒有受傷哦？</string>
+	<string id="480">……吃到苦頭了的話，
+就稍微老實一點吧。</string>
+	<string id="481">哦，又想接受周密的
+治療了嗎？</string>
+	<string id="483">在這座城鎮裡是不需要的吧？</string>
+	<string id="484">雖然也理解想要四處活動的心情
+但要適可而止哦。</string>
+	<string id="506">但是，不可以急躁哦。
+首先跟各種各樣的人對話看看吧。
+自然會找到應該前進的道路吧。</string>
+	<string id="507">首先跟各種各樣的人對話看看吧。
+自然會找到應該前進的道路吧。</string>
+	<string id="509">聽說在米內亞發生了事件。
+雖然不知道是什麼人……但真是過分。</string>
+	<string id="510">身體的狀況看起來沒大礙呢。
+感到不舒服了的話可以隨時來。</string>
+	<string id="512">從史拉夫那裡聽到了你的活躍表現哦。
+說實話……雖然最初很擔心一直在看著，
+但現在看起來已經非常可靠了呢。</string>
+	<string id="513">已經沒有多囉嗦的打算了。
+和自己的體力多談談，
+去自己所能去到的地方吧。</string>
+	<string id="519">要去米內亞嗎？
+病才剛好，不要太勉強。</string>
+	<string id="521">啊啦，看起來很精神呢。
+狀態如何？</string>
+	<string id="522">不是又受傷了嘛！
+不能因為年輕就總是蠻幹啊。</string>
+	<string id="524">在米內亞好像發生了不得了的事情呢。
+巴爾巴多城鎮不會有事吧……</string>
+	<string id="525">這裡巴爾巴多，
+有史拉夫所在的自警團在保護，
+一定沒事的吧。</string>
+	<string id="527">亞特魯，一段時間不見，
+表情也變得非常嚴謹了呢。
+……一定吃了不少苦吧。</string>
+	<string id="528">亞特魯，請一定要小心。
+受傷了的話請不要勉強，
+休養身體也是很重要的。</string>
+	<string id="536">……啊啦？
+不是已經痊癒了嘛。</string>
+	<string id="537">傷勢已經痊癒了哦。</string>
+	<string id="543">嗯，這樣就可以了。
+不要太蠻幹了。
+衡量自己的實力也是必要的。</string>
+	<string id="544">什麼？
+才剛治療過吧。
+比我先癡呆怎麼行。</string>
+	<string id="546">米內亞的庫拉澤醫院裡
+應該還有餘裕才對，
+可以幫忙從那裡拿來嗎。</string>
+	<string id="547">是嗎，又要出去嗎。
+不能過於勉強哦。</string>
+	<string id="563">想問什麼？</string>
+	<string id="574">恩，在通過銀獲益的時候，
+大家都一直為賺錢四處奔走。
+這種程度的事，說不定正好。</string>
+	<string id="587">非常危險不是能四處走動的狀態。</string>
+	<string id="594">現在大多數的人都徹底放棄了。
+……這正是我無法容忍的地方。</string>
+	<string id="603">……這裡什麼也沒有。
+自己的城鎮自己保護。
+只能如此吧？</string>
+	<string id="622">……再見了。
+偶爾露個頭哦。</string>
+	<string id="626">是嗎，回頭再來哦。</string>
+	<string id="658">亞特魯，收下這把劍吧。</string>
+	<string id="667">……那麼再見了。
+有什麼事的話，再來倉庫。</string>
+	<string id="685">一定……要回來哦！</string>
+	<string id="690">如你所見，開店停業中
+畢竟因為暴風雨的結界
+沒有船來了呢……</string>
+	<string id="693">要喝點什麼嗎？</string>
+	<string id="694">雖然沒有客人很輕松，
+但太閑了也是問題……</string>
+	<string id="695">米內亞城鎮如何了？
+沒有魔物的話，
+我也想去玩呢。</string>
+
+
+
+
+	<string id="696">啊啊……真是閑啊。
+有什麼有趣的事的話，
+跟我講講哦。</string>
+	<string id="697">去米內亞城鎮中的
+歐曼酒館看了嗎？
+聽說一如既往地繁盛……</string>
+	<string id="698">歐曼真讓人羨慕。
+這裡在沒暴風雨的結界的時候
+也不輸給那裡……</string>
+	<string id="701">史拉夫救的人，
+是你嗎？
+確實是很少見的
+鮮艷的紅髮呢。</string>
+	<string id="702">叫做亞特魯嗎……
+總之，請多關照了。</string>
+	<string id="703">嗯？ ……怎麼了？
+找我有什麼事嗎？</string>
+	<string id="705">魔物有時會忽略我，
+瞄準後方被保護的人，
+進行襲擊。
+非常地狡猾。</string>
+	<string id="706">保護他人的竅門，就是隨時
+將自己置身于敵人和同伴之間吧。</string>
+	<string id="707">總之那群家伙很狡猾。
+出到城鎮外邊後，隨時都不能大意。</string>
+	<string id="710">在從這裡監視城鎮外的情況。
+魔物想要侵入進來的話，
+一眼就能看出來。</string>
+	<string id="711">雖然認為魔物不會從
+白天就襲擊過來……
+但畢竟不能大意。</string>
+	<string id="712">雖然是無聊的工作，
+但為了城鎮的安全必須有人來做。
+……不能掉以輕心。</string>
+	<string id="713">最近，沒有魔物的襲擊。
+但是，這邊放松下來了的話，
+會想算計好了似的襲擊過來……
+如同被誰操縱著一般。</string>
+	<string id="714">這座城鎮沒有米內亞那樣的城墻，
+需要我們自警團來保護。</string>
+	<string id="718">想要快點回到大陸。
+只要沒有這可恨的結界……</string>
+	<string id="719">你也是從大陸來的吧？
+來艾斯塔里亞做什麼？</string>
+	<string id="721">雖然聽說很有勢力，
+但肯定在背地做著骯臟的事情。
+不然的話，
+交易所不可能掙錢。</string>
+	<string id="722">啊啊……就沒有什麼能
+回大陸的辦法嗎……</string>
+	<string id="725">因為我們是一家子的人，
+所以不能迅速搬家，
+反而算是幸運的。</string>
+	<string id="726">你要去米內亞嗎？
+小心草原的魔物吧。</string>
+	<string id="727">真是的，說到我家的人，
+就知道叨叨絮絮地發牢騷……
+要不加入自警團，要不去打漁，
+多活動活動身體多好。</string>
+	<string id="728">我也找找有沒有能夠
+幫到城鎮的事情如何……</string>
+	<string id="731">爸爸總是在說要離開這個國家的事。
+我並不想回去啊。
+明明難得地交了好朋友……</string>
+	<string id="732">啊〜啊，去找旁邊的孩子玩玩嗎。</string>
+	<string id="736">雖然跟我說要一起住……
+但別開玩笑了。
+我絕對不打算
+離開這裡。</string>
+	<string id="737">這個歲數了，沒有要
+離開住慣了的家的想法。</string>
+	<string id="738">我從這裡出生，
+在這裡長大。</string>
+	<string id="740">孫子也是正是愛玩的時候，
+有一天會離開這座城鎮吧……
+沒有我跟著的話，真是擔心啊。</string>
+	<string id="741">希望能活得好好的。
+……孫子的事情稍微有些擔心啊。</string>
+	<string id="744">比起害怕魔物的侵入惶恐地生活，
+不如乾脆巴爾巴多里的所有人，
+全搬去米內亞如何？</string>
+	<string id="745">不論怎麼努力，
+結果都是無法戰勝魔物的……</string>
+	<string id="746">你也怎麼想吧？</string>
+	<string id="748">說是礦山附近的村落
+被魔物毀滅了呢……</string>
+	<string id="749">你也好，史拉夫也好……
+為什麼能那麼積極向上呢？</string>
+	<string id="753">但是，我家還有孩子在……
+果然有城墻的米內亞
+更加安全嗎？</string>
+	<string id="755">明明說過那麼多次，
+城鎮外很危險了……
+回來之後一定要狠狠教訓一番。</string>
+	<string id="760">我希望結界不要消失呢。
+消失了的話，旁邊的女孩子
+的一家人說過要乘船回去的。</string>
+	<string id="761">……希望，
+結界不要消失呢……</string>
+
+
+
+
+	<string id="764">肉也是極品的味道呢。
+因為會成為魔物的餌料，
+所以像這樣在城鎮中飼養著。</string>
+	<string id="769">一直從事銀的交易，
+明明剛想要拓展一下的。
+……真是遺憾。</string>
+	<string id="770">啊啊，要怎麼辦才好。
+……果然只能成為漁家了嗎。</string>
+	<string id="773">畢竟活著才有未來。
+還是逃走的比較好。</string>
+	<string id="775">雖然對這城鎮也有留戀……
+但不能重蹈拉斯丁村的覆轍。</string>
+	<string id="777">魔物和盜賊嗎……
+兩邊都很麻煩呢……</string>
+	<string id="780">現在的話，只是普通的漁村……
+那個時期真是讓人懷念。</string>
+	<string id="781">呼嗚……
+只是半年……
+感覺有些寂寞呢。</string>
+	<string id="782">暴風雨的結界是因為什麼呢？
+只要明白這點的話，
+這個國家應該也會變回原樣。</string>
+	<string id="785">和在米內亞的朋友也
+有段時間沒見了。
+現在也不知道怎麼樣了……</string>
+	<string id="786">米內亞城鎮有著出色的城墻，
+所以應該比這裡安全。</string>
+	<string id="787">但是，有傳言在米內亞城鎮
+經常有盜賊出沒……</string>
+	<string id="789">但是，不能隨便拜托呢。
+果然，不太好吧？</string>
+	<string id="791">感覺，有些高興呢。</string>
+	<string id="798">可是，看起來非常有精神哦？
+多虧了布魯多老師的治療吧。</string>
+	<string id="801">不過，也是身體狀態
+恢復之後的事情了。</string>
+	<string id="803">可是，從那個神殿的大小來看
+感覺里邊意外地很狹窄呢。
+不過畢竟是以前的事情，記不清了。</string>
+	<string id="807">有了暴風雨的結界後
+反而能捕捉到更多的魚了。
+真是諷刺呢。</string>
+	<string id="808">雖然因為暴風雨的結界，
+無法進行貿易了，
+但至少不必擔心餓死。</string>
+	<string id="810">乾脆，就這樣
+回到過去也挺好吧？</string>
+	<string id="813">加入自警團，
+用劍帥氣地
+趕走魔物。</string>
+	<string id="816">說是因為有魔物出沒。
+真是無聊呢……</string>
+	<string id="822">貧窮倒是什麼事……
+有些受不了沒有活力這點。</string>
+	<string id="823">干發呆也不是個事，
+拜托史拉夫讓我也
+加入自警團嗎。</string>
+	<string id="829">雖然溫柔也可靠，
+但是關于這方面很古板。</string>
+	<string id="834">嗚〜為什麼你可以
+我就不行呢。</string>
+	<string id="837">嗚〜為什麼你可以
+我就不行呢。</string>
+	<string id="839">我的故鄉在遙遠的北方。</string>
+	<string id="840">……故鄉的姐姐，活得還好嗎。</string>
+	<string id="841">啊&gt;2―&lt;1―&lt;1嗯！　好閑。
+要閑死了！</string>
+	<string id="849">沒有那個的話……我……
+已經……不知道如何是好了……</string>
+	<string id="852">為了演奏出那個旋律……
+必須要有銀口琴。</string>
+	<string id="855">不論是什麼細小的事情都可以。
+……還請……拜托了。</string>
+	<string id="873">非常感謝您幫我
+找到了口琴。</string>
+	<string id="875">不……什麼事也沒有。
+請您不要在意……</string>
+	<string id="879">亞特魯。
+幫我找到口琴，
+真的……非常感謝。</string>
+	<string id="884">非常感謝您特意幫我。</string>
+	<string id="887">但是，對不起……
+好像不能那樣做了……</string>
+	<string id="901">有想要拜托你的事情。</string>
+	<string id="902">……請多多幫忙了。
+
+		#02劍#00和#02鎧甲#00，以及#02盾牌#00收齊後
+再來一次這裡。</string>
+	<string id="909">開門見山，劍士殿下
+知道『伊蘇之書』
+這個東西嗎？</string>
+	<string id="914">在此，能拜托劍士殿下……
+去尋找一下『伊蘇之書』
+看看嗎？</string>
+	<string id="925">這樣嗎……真是遺憾。
+本以為是劍士殿下的話一定可以的。</string>
+	<string id="932">……劍士殿下。
+愿意去尋找
+『伊蘇之書』嗎？</string>
+	<string id="936">澤辟庫村在
+米內亞北方草原的東北……
+通往山之神殿的途中。</string>
+	<string id="952">請找到『伊蘇之書』。
+詳情之後會說明。</string>
+	<string id="954">請找到『伊蘇之書』。
+詳情之後會說明。</string>
+	<string id="959">請收下這本書。
+是她臨死之前給我保管的。</string>
+	<string id="962">本以為是玩笑的，
+忘記她是占卜師了。
+如果當時更認真地對待了的話……</string>
+	<string id="965">是你的話
+說不定明白她
+想要說什麼呢……</string>
+	<string id="966">……討厭年長的女性？……</string>
+	<string id="980">同樣是異邦人。
+便宜算你？</string>
+	<string id="985">咿呀，幫人做好事
+真是心情愉快呢。</string>
+	<string id="991">真是可惡……
+那種家伙，速度抓起來
+判絞刑就好了啊。</string>
+	<string id="993">你去過神殿是。
+有沒有什麼挖掘品？
+高價買你的？</string>
+	<string id="994">雖然一直在留意那個神殿，
+但因為魔物無法靠近。
+有沒有得到什麼好貨色？</string>
+	<string id="1000">……偷偷告訴你別跟別人說，
+那個女人好像和盜賊有勾結。
+說不定內部鬧矛盾了哦。</string>
+	<string id="1002">你真是人不貌相，好厲害啊。
+居然從那個廢坑活著回來了……</string>
+	<string id="1003">廢坑有沒有什麼好東西？
+讓我高價買下吧。</string>
+	<string id="1007">嗯……是錯覺嗎？</string>
+	<string id="1011">現在有的，
+差不多這個程度吧。</string>
+	<string id="1022">#021000&gt;4Gold#00&gt;4。</string>
+	<string id="1026">#02900&gt;4Gold#00&gt;4如何。</string>
+	<string id="1049">#02200&gt;4Gold#00&gt;4。</string>
+	<string id="1053">#02180&gt;4Gold#00&gt;4如何。</string>
+	<string id="1070">#02500&gt;4Gold#00&gt;4。</string>
+	<string id="1074">#02450&gt;4Gold#00&gt;4如何。</string>
+	<string id="1098">想賣什麼？</string>
+	<string id="1109">#021200&gt;4Gold#00&gt;4
+買下吧。</string>
+	<string id="1113">#021320&gt;4Gold#00&gt;4
+幫你買下。</string>
+	<string id="1133">#02500&gt;4Gold#00&gt;4可以的話
+就買下來。</string>
+	<string id="1137">#02550&gt;4Gold#00&gt;4可以的話
+就買下來。</string>
+	<string id="1156">#022000&gt;4Gold#00&gt;4
+讓我買下吧。</string>
+	<string id="1160">#022200&gt;4Gold#00&gt;4
+讓我買下吧。</string>
+	<string id="1169">嗯，這邊感覺沒有想要的東西。</string>
+	<string id="1186">但是我的店里，
+放有更適合實戰的劍哦。
+方便的話，就來看看吧。</string>
+	<string id="1189">總算是成功入手了塔瓦烏茲彎刀。
+可以的話，不把它買下來嗎？</string>
+	<string id="1191">繞到後背或側面，瞄準要害。
+這樣做的話，這邊也有勝算。</string>
+	<string id="1195">這可是很難見到的東西。
+在哪里得到的？</string>
+	<string id="1196">灣曲刀和普通的劍不同
+雖然用起來很困難……但你應該可以。</string>
+	<string id="1201">雖然長年經營武器店到現在，
+但還是第一次見到這麼厲害的劍……！</string>
+	<string id="1202">好好珍惜那把劍吧。
+一定會成為你的力量的吧。</string>
+	<string id="1204">想要哪把劍？</string>
+	<string id="1211">#02500&gt;4Gold#00&gt;4如何？</string>
+	<string id="1222">#022000&gt;4Gold#00&gt;4如何？</string>
+	<string id="1233">#025000&gt;4Gold#00&gt;4如何？</string>
+	<string id="1238">等您下次光臨！</string>
+	<string id="1250">雖說『進攻是最好的防守』，
+但被魔物圍困起來了的話，就完了吧？</string>
+	<string id="1252">刻在表面的古代文字
+是祝福的言語嗎。</string>
+	<string id="1256">真是出色的成果……！</string>
+	<string id="1258">需要哪個鎧甲？</string>
+	<string id="1265">#02400&gt;4Gold#00&gt;4
+如何？</string>
+	<string id="1276">#022000&gt;4Gold#00&gt;4
+如何？</string>
+	<string id="1283">#025000&gt;4Gold#00&gt;4
+不會讓你吃虧哦。</string>
+	<string id="1289">想要哪柄盾牌呢？</string>
+	<string id="1296">#02700&gt;4Gold#00&gt;4
+如何？</string>
+	<string id="1303">#022000&gt;4Gold#00&gt;4
+如何？</string>
+	<string id="1310">#026000&gt;4Gold#00&gt;4
+不會讓你吃虧哦。</string>
+	<string id="1315">歡迎再次光臨。</string>
+	<string id="1329">庫拉澤先生，甚至會去到
+沒有醫生的澤辟庫村診療。</string>
+	<string id="1331">艾斯塔里亞的醫生只有巴爾巴多的
+布魯多老師和庫拉澤老師，
+說不定是沒有辦法……</string>
+	<string id="1334">這種事情……</string>
+	<string id="1336">有藥嗎？
+為了在關鍵時刻不感到困擾，
+請留心隨時帶在身上吧。</string>
+	<string id="1337">庫拉澤先生還是老樣子。
+我也要努力幫上些老師的
+忙才行……</string>
+	<string id="1340">啊啦？
+沒有受傷哦？</string>
+	<string id="1343">#0250&gt;4Gold#00&gt;4的花費
+沒有問題嗎？</string>
+	<string id="1351">治療結束了哦。
+		已經沒事了吧？</string>
+	<string id="1357">#02300&gt;4Gold#00&gt;4
+是很適合的價格，
+要如何呢？</string>
+	<string id="1366">還請保重。</string>
+	<string id="1381">最近，好像有盜賊
+出沒于這座城鎮呢。
+以為你是一伙的了。</string>
+	<string id="1385">說不定除了盜賊以外，
+還有不妙的家伙們……</string>
+	<string id="1386">喲，亞特魯。
+偶爾在我店里歇歇啊。
+非常歡迎你。</string>
+	<string id="1388">如何，你也幫幫忙嗎？</string>
+	<string id="1391">……沒見過的面孔呢？</string>
+	<string id="1397">如何，
+一起喝個嗎？</string>
+	<string id="1406">盜賊騷亂之後是殺人事件嗎……
+真是不平穩的世道呢。</string>
+	<string id="1407">偷竊不是盜賊的行為的話……
+究竟犯人是誰呢？</string>
+	<string id="1414">光是知道是實際存在的就可以了。
+精彩的放到後邊。</string>
+	<string id="1420">啊啊……要怎麼做才好。</string>
+	<string id="1422">哥哥！　愿意
+聽下我的煩惱嗎？</string>
+	<string id="1429">我已經回不去家了……
+可惡，果然這也是
+盜賊的作為吧。</string>
+	<string id="1433">那群盜賊，不至於非要從
+我這樣的庶民手裡偷戒指吧。</string>
+	<string id="1437">………
+…哈啊〜沒有戒指的話…我……</string>
+	<string id="1439">真是的，多尼斯那家話也真是讓人困擾。
+我說，亞特魯。能想辦法幫幫他嗎？</string>
+	<string id="1450">慶祝找到了戒指，
+再來一杯吧！</string>
+	<string id="1451">哦哦，亞特魯。
+戒指交給娘了。
+謝謝你，多虧了你了。</string>
+	<string id="1453">嗚〜。
+喝的太多了嗎。好惡心……噗。</string>
+	<string id="1455">什麼〜？　誒……
+頭兒在找我來著？
+……差不多還是回去的比較好吧。</string>
+	<string id="1457">喂，稍微等一下！</string>
+	<string id="1466">這前方全是魔物。
+別太勉強去趟米內亞比較好。</string>
+	<string id="1469">雖然用鶴嘴鎬迎戰來著，
+但完全不是對手的樣子。</string>
+	<string id="1470">說是光是保住了性命，
+就已經是意外收獲了。</string>
+	<string id="1471">明明比力量的話哥哥是城鎮第一的……</string>
+	<string id="1474">蕾雅姐姐，
+接龍太強了。
+畢竟是大人，
+希望能手下留情呢。</string>
+	<string id="1477">蕾雅姐姐，
+接龍意外地很弱呢。
+不過不像我哥哥那樣
+耍賴，已經很出色了。</string>
+	<string id="1480">蕾雅姐姐，
+猜拳太強了。
+畢竟是大人，
+希望能手下留情呢。</string>
+	<string id="1483">蕾雅姐姐，
+猜拳意外地很弱呢。
+不過不像我哥哥那樣
+耍賴，已經很出色了。</string>
+	<string id="1488">因為大人們不讓離開城鎮
+最近，沒有去。</string>
+	<string id="1489">爬過一次那個樹的話
+其他樹就完全不放在眼里了。</string>
+	<string id="1493">最喜歡的是，很久以前
+收拾掉了魔物軍團的
+『銀色之劍』的故事。</string>
+	<string id="1496">只要有那個，
+魔物全都會被切成兩半。
+要是真的有就好了。</string>
+	<string id="1502">……好厲害&gt;1―&lt;1―&lt;1―。
+那麼，哥哥的話，
+能夠收拾掉魔物吧？</string>
+	<string id="1503">魔物什麼的不在話下對吧！</string>
+	<string id="1513">去看看嘛！</string>
+	<string id="1514">占卜的店鋪
+在城鎮的西南角落。
+去看看嘛！</string>
+	<string id="1515">呵呵，占卜姐姐，
+是個美人吧。</string>
+	<string id="1517">莎拉姐姐
+去了哪里呢……？</string>
+	<string id="1523">雖然說不定是眼睛的錯覺，
+不過還真是瘆人的家伙……</string>
+	<string id="1524">說不定，那個黑斗篷的男人
+就是傳說的盜賊呢。</string>
+	<string id="1526">可惡！
+雖然是有過不好的預感……</string>
+	<string id="1530">盡說些『世界將毀滅』什麼的
+奇妙的話語……</string>
+	<string id="1532">魔物的數量也不斷增加中，
+這米內亞內部
+也完全不安全啊！</string>
+	<string id="1535">甚至賣出撿到的東西，
+真是個厚臉皮的家伙呢。</string>
+	<string id="1536">真是的，都不能安穩地
+丟東西了呢。</string>
+	<string id="1537">返還給施主的想法……
+不可能有對吧。</string>
+	<string id="1538">雖然想在交易所賣寶石的，
+但價格商量得不順利，
+果然還是放了賣掉的念頭。</string>
+	<string id="1539">再多糾纏一下的話，
+說不定就成了呢……</string>
+	<string id="1541">真是執著呢，實在不是我能模仿的。</string>
+	<string id="1542">真虧的那家伙讓步了呢……
+實在不是我能模仿的。</string>
+	<string id="1545">以前的人類真是很厲害呢。
+建立起直入云霄的那樣的
+塔……</string>
+	<string id="1546">雖然達姆之塔從北邊的村子
+爬上山道就能到達了，
+但好像有盜賊把那裡當基地了。
+不要接近的比較好。</string>
+	<string id="1547">說來，看著那個塔
+會感到有種寒氣呢。
+究竟是為什麼呢？</string>
+	<string id="1552">最近，騷擾城鎮的盜賊們
+好像會從那個方向前來。</string>
+	<string id="1553">城墻就算對魔物有用，
+也不能阻止住盜賊的樣子呢。</string>
+	<string id="1556">不過話說，被偷的
+盡是銀制品呢……
+有什麼原因嗎？</string>
+	<string id="1559">但是就算搶走了銀，
+也有暴風雨的結界
+無法進行貿易呢。</string>
+	<string id="1560">雖然有很多想要的東西，
+但是要先有錢才行呢……</string>
+	<string id="1561">啊〜啊，能不能快點景氣起來呢。</string>
+	<string id="1565">那個混賬，
+剛想著表情有點陰郁，
+就不知道翹班去哪里了。</string>
+	<string id="1567">因為說是弄丟了送給
+夫人的戒指才為他
+睜只眼閉只眼的！</string>
+	<string id="1572">我嗎？
+我是醫生庫拉澤。</string>
+	<string id="1573">喂，不要搗亂！
+我真的很忙。</string>
+	<string id="1574">喂喂，
+你受傷了的話會幫你診治的，
+現在先躲開這裡！</string>
+	<string id="1575">不快點去的話會趕不上的&gt;2―&lt;1―&lt;1！
+我就此失禮了。</string>
+	<string id="1578">我嗎？
+我是醫生庫拉澤。</string>
+	<string id="1581">我嗎？
+我是醫生庫拉澤。</string>
+	<string id="1583">現在在診察。
+稍微安靜一點！</string>
+	<string id="1587">是的，就好像完成了
+自己的使命一般……</string>
+	<string id="1593">確實，這座城鎮有城墻的保護，
+但也不能就這樣蜷在里邊吧。
+就沒有什麼能夠清光魔物的辦法嗎……</string>
+	<string id="1594">光是魔物的話就算了
+最近，城鎮里不斷發生盜竊事件。
+真是的……堆成山的問題。</string>
+	<string id="1596">總之，就算有城墻的守護，
+也不能安心這麼回事嗎……</string>
+	<string id="1602">能夠建造出那麼大的
+石造墻壁，還真是
+不可思議呢。</string>
+	<string id="1603">那麼大的墻壁，
+是怎麼造出來的呢？</string>
+	<string id="1605">也沒辦法呢。
+再堅固的城墻也無法
+在內部發生的災難……</string>
+	<string id="1608">雖然勸說那裡沒有城墻很危險，
+來這邊一起住吧，
+但就是頑固地不肯聽話啊……</string>
+	<string id="1609">雖然也理解不想離開
+住慣了的家的心情……
+但那不能和生命比吧？</string>
+	<string id="1610">怎麼說服的母親呢……</string>
+	<string id="1613">好像差不多在城墻內
+玩膩了。
+也沒辦法，畢竟就連身為
+大人的我們都快要窒息了……</string>
+	<string id="1616">就算想要建造南門，
+但也因為城墻太結實無法破壞的樣子。
+因為現在有魔物出沒，反而得救了就是了。</string>
+	<string id="1622">有急病患者的話，
+會立刻趕過來呢。
+真是讓人感激的人。</string>
+	<string id="1623">不過，愿意趕來任何地方，
+也就是說不常待在醫院里呢。</string>
+	<string id="1624">這之後庫拉澤先生
+就會過來診察。
+隨時都會為我們趕來。
+真的是非常值得感激的人。</string>
+	<string id="1625">老師調和的藥物，
+馬上就會治好傷。</string>
+	<string id="1626">能安心的生活多虧了老師。
+真的是非常值得感激的人。</string>
+	<string id="1631">究竟是住在什麼地方啊……
+就算是悲傷的通知也要去傳達呢。</string>
+	<string id="1633">雖然想著要通知那個孩子的
+親戚才行的……
+這樣啊，你幫著傳達了嗎。</string>
+	<string id="1634">那個親戚也很痛苦吧，
+我認為一定很感謝你傳達了此事。</string>
+	<string id="1641">幸運的是，礦山的魔物
+好像沒有出到外邊的打算。
+也有怕陽光的說法。</string>
+	<string id="1642">不過，我認為也沒有有要事
+要去那種地方的家伙。</string>
+	<string id="1644">礦山一片漆黑，異常錯綜復雜。
+尋求銀，隨意地向前挖掘後。</string>
+	<string id="1645">內部感覺就算是熟悉的人，
+也會迷失掉自己的所在。
+況且現在還是魔物的巢穴。</string>
+	<string id="1647">如果，去廢坑的話，
+需要相當的實力覺悟。</string>
+	<string id="1649">你真厲害呢。</string>
+	<string id="1656">拜托了。
+如果去了澤辟庫村的話
+可以聽一下父親的商談嗎？</string>
+	<string id="1657">還是第一次見到父親那樣……
+究竟，發生了什麼呢？</string>
+	<string id="1658">拜托了。
+如果去了澤辟庫村的話
+可以聽一下父親的商談嗎？</string>
+	<string id="1660">我也要好好道謝才行。
+真的是非常感謝了。</string>
+	<string id="1662">我們曾一直住在拉斯丁村。
+直到……村子被魔物毀滅為止……</string>
+	<string id="1666">我們曾居住的拉斯丁村
+因為那群家伙……</string>
+	<string id="1667">打倒了蝙蝠的頭領了嗎。
+謝謝你……死去的拉斯丁村的
+人們也能得以超度吧。</string>
+	<string id="1671">說想要回到原來的家後
+媽媽和爺爺都會露出悲傷的表情。
+這是為什麼呢……？</string>
+	<string id="1672">沒有蝙蝠的話
+就能回到原來的家了嗎？</string>
+	<string id="1677">雖然為了報恩想努力
+幫助找到口琴……</string>
+	<string id="1678">說來，聽說那個口琴也
+是用銀造出來的吧？
+說不定和盜賊騷亂有什麼關聯呢。</string>
+	<string id="1680">聽到那個曲子後，會有一種心情舒坦，
+從內心涌現出生存的力量的感覺。
+真想再聽一次啊……</string>
+	<string id="1682">非常喜歡姐姐的口琴☆
+能快點找到就好了呢！</string>
+	<string id="1685">因為那群家伙，礦山被封鎖了。
+怎麼能不喝！</string>
+	<string id="1687">……話雖如此，
+視野那麼差的話會被反打呢。</string>
+	<string id="1688">嘎〜〜〜〜！
+怎麼能不喝！</string>
+	<string id="1690">……一堆一堆的嗎，是呢〜。</string>
+	<string id="1698">但是，最近沒有聽到
+那清澄的音色……</string>
+	<string id="1699">雖然光是看也能保養眼睛，
+但那音色又是別有一番滋味呢。</string>
+	<string id="1701">雖然試著搭話看了看
+但感覺很難接近呢。</string>
+	<string id="1705">因為感覺眼神很恐怖，
+沒能搭話……</string>
+	<string id="1706">嗚〜〜嗯。
+雖然你也是那樣，
+但畢竟年齡小……</string>
+	<string id="1707">鄰居……真是可憐……</string>
+	<string id="1709">但是……比我還小呢……</string>
+	<string id="1711">……再當作男孩子對待會不會失禮呢。</string>
+	<string id="1719">偶爾露個面吧。
+那家伙也會高興的。</string>
+	<string id="1725">就算有城墻，都是這個狼狽樣。
+我們更加無法放松呢。</string>
+	<string id="1730">呼，滲入到五臟六腑呢。</string>
+	<string id="1732">喲，小哥。
+你也來一杯如何？</string>
+	<string id="1733">未成年？  １７歲……真年輕呢。
+我１７歲的時候在做什麼呢？
+人類上年紀還真是快呢。</string>
+	<string id="1737">雖然主人是年輕的女性，
+但絕對是有兩下子的。
+在不知道該去哪里的時候
+去找她談談吧。</string>
+	<string id="1739">莎拉好像在努力防止在
+這個國家不斷發生的災難呢。
+還請幫助回應她的期待吧。</string>
+	<string id="1744">非常有學者風范
+也說了要去達姆之塔的話。
+希望沒有事……</string>
+	<string id="1745">分散了的老爺爺沒事嗎？</string>
+	<string id="1747">雖然我曾想在這島嶼做向導的話，
+不會沒飯吃，
+但關鍵的旅客不來的話……</string>
+	<string id="1750">旅行者，待在城鎮中是安全的。
+好好地享受一番忘記煩惱吧。</string>
+	<string id="1751">占卜師姐姐的事情真是遺憾呢。
+明明還那麼地年輕……</string>
+	<string id="1752">來這裡的客人們的表情
+也一天比一天陰暗了。
+沒有什麼歡快的話題嗎。</string>
+	<string id="1761">嗯，從以前就一直仍在
+倉房的角落裡，
+應該不是高價的東西……</string>
+	<string id="1762">魔物和盜賊……
+真是不太平呢。</string>
+	<string id="1770">感覺像是為了交到你
+的手里，才從我家代代
+相傳下來的……</string>
+	<string id="1773">那把盾牌比起待在倉庫裡，
+更適合被拿在你的手裡。</string>
+	<string id="1775">嗯。和你融為一體了的感覺呢。</string>
+	<string id="1783">托福只是受了點小傷，
+那到底是什麼……？</string>
+	<string id="1784">嗯，總之撿條小命真是太好了。</string>
+	<string id="1791">嘶嘶……</string>
+	<string id="1797">嘶咔……</string>
+	<string id="1812">無法相信……
+居然能從這裡出去……</string>
+	<string id="1828">我想一定會有什麼用。</string>
+	<string id="1833">亞特魯，一定要平安無事啊……</string>
+	<string id="1850">我想一定會有什麼用。</string>
+	<string id="1854">那個…亞特魯……
+很窄……</string>
+	<string id="1858">那個…亞特魯……
+那個面具……有些嚇人。</string>
+	<string id="1861">這前方……很恐怖……</string>
+	<string id="1869">……什麼，你說你知道？
+那麼就好說了。
+說出理由，讓那孩子歇歇。</string>
+	<string id="1870">在磨蹭個什麼。
+快點帶過去啊！</string>
+	<string id="1876">拋開把人帶來這種地方的
+薄情的哥哥，
+和我喝喝茶嗎？</string>
+	<string id="1881">放心吧。
+我們雖然壞，但只針對有錢人。</string>
+	<string id="1885">請不要……在…意…</string>
+	<string id="1957">看來，看來有可疑的家伙們
+在盯著呢。</string>
+	<string id="1964">……真是努力了呢。
+好了，快點將那本書交給莎拉吧。</string>
+	<string id="1976">…………</string>
+	<string id="2016">說不定那個孩子的眼中清楚地映照著
+迫近而來的災難的真身呢……</string>
+	<string id="2027">讀哪個呢？</string>
+	<string id="2061">如果，你發現了#02羅妲之果#00
+說不定能聽他跟你說話。</string>
+	<string id="2071">是你的話，進到那『惡魔之塔』
+也一定不會有事吧。</string>
+	<string id="2074">千萬要小心行事哦。</string>
+	<string id="2090">我能夠向前前進了。</string>
+	<string id="2096">然後請再來……見我一次。</string>
+	<string id="2097">亞特魯，請加油吧。
+我一直都在等待著……</string>
+	<string id="2101">要讀哪個？</string>
+	<string id="2140">真是對不住啊。
+忘掉剛才的話吧……</string>
+	<string id="2142">是、是嗎……</string>
+	<string id="2185">…………</string>
+	<string id="2199">雖然不知道是誰……
+一定找出算清這筆賬。</string>
+	<string id="2201">帶上那個的話，
+聽說能發現隱藏的門哦。</string>
+	<string id="2214">……絕對……不能原諒…！</string>
+	<string id="2236">那個我來幫你收著。</string>
+	<string id="2244">……好，去吧！
+安全第一哦！</string>
+	<string id="2252">憑那種裝備
+沒可能相抗衡。</string>
+	<string id="2262">我們還不至於落魄到
+偷那種東西踐踏人心的地步。</string>
+	<string id="2276">很難認為魔物會有那樣的智慧。
+這也是『那家伙』的所謂嗎……</string>
+	<string id="2284">真的有那樣的女神的話，
+也不至於現在這樣恐懼地
+生活吧……</string>
+	<string id="2285">真的有魔物的話，
+感覺有女神也很正常吧。
+這個想法很愚蠢嗎？</string>
+	<string id="2290">感覺，莫名地變得開心了。</string>
+	<string id="2291">我老了，說不定沒多少時候了。
+但是，永遠都不會忘記今天的。
+哈哈哈。</string>
+	<string id="2295">某日，一邊的女神像忽然
+消失不見了。
+世間還真是有怪事呢。</string>
+	<string id="2296">抱著黑色的珠子的另一個女神像
+現在也應該在礦山的深處……
+因為出現了魔物，所以一直被放置著。</string>
+	<string id="2297">不忍心將那個女神像扔在
+魔物群中。
+你能代替我將其運出來嗎？</string>
+	<string id="2299">只是，那張臉……
+感覺在哪里見過……
+不過……可能只是錯覺。</string>
+	<string id="2300">雖然有感覺在哪里見過……
+但沒有理由會忘記那麼漂亮的姑娘啊。</string>
+	<string id="2301">嗯嗯……
+果然是我的錯覺呢。</string>
+	<string id="2307">我以前，差點被魔物襲擊到的時候，
+古邦救了我。</string>
+	<string id="2308">如果，有機會的話，
+就試著說說真心話吧。</string>
+	<string id="2312">雖然最近，接連發生偷盜事件，
+但很難相信是那個男人的所謂。</string>
+	<string id="2316">實際上，也存在著去了神殿後
+就沒有再回來了的人。</string>
+	<string id="2319">虧你平安無事地回來了呢啊。</string>
+	<string id="2321">聽說會聽到乘著溫暖的風的，
+像是碎碎細語一般的聲音。
+感覺很滲人呢……</string>
+	<string id="2326">但是不可思議的是，
+至今村落也沒有被襲擊過。
+說是村子的寶貝『銀鈴』的音色
+會趕走魔物的原因。</string>
+	<string id="2327">如果真的是那樣的話，真是感激啊。</string>
+	<string id="2331">為什麼特意建在那種
+危險的地方呢？</string>
+	<string id="2332">魔物也好，盜賊也好……
+完全不知道在想什麼。</string>
+	<string id="2341">在我小時候，
+結得果子還是非常美味的……
+但現在很難能采到了呢。</string>
+	<string id="2352">明明那邊現在只有魔物
+或盜賊的才對……
+究竟是什麼人？</string>
+	<string id="2353">嗯，不管怎樣，
+反正不是正常的家伙呢。</string>
+	<string id="2354">潔瓦家里的女孩，
+失憶了？
+明明那麼可愛的，真是可憐。</string>
+	<string id="2358">啊啊……
+我也想要要是自己不見了
+會真心為我擔心的女朋友
+啊。</string>
+	<string id="2360">叫做『菲娜』。
+名字也很可愛吧？
+沒什麼辦法處好關系嗎。</string>
+	<string id="2364">『用我的全部財產，，
+　能滿足那群家伙嗎？』
+……雖然如此自言自語過。</string>
+	<string id="2366">直到最近，
+明明還都是臉色發青的……
+解決了煩心事了嗎？</string>
+	<string id="2376">對艾斯塔里亞的歷史也很熟悉，
+小時候經常聽她講。
+說是在遙遠的以前，在這片土地上
+有著女神治理的美麗的國家什麼的……</string>
+	<string id="2377">有什麼想問的事情的話，
+就試著拜訪潔瓦吧。</string>
+	<string id="2381">和她立刻就成了朋友。
+真的是非常溫柔的好孩子……</string>
+	<string id="2382">好好慰勞下她吧。
+雖然表現得很平靜，
+但其實是非常不安的才對。</string>
+	<string id="2386">米內亞比這座村落有
+更多的有錢人的樣子，
+說不定更容易被瞄準。</string>
+	<string id="2387">說道在這村里感覺會被偷的東西，
+也就是羅貝盧斯村長家里的
+『銀鈴』了吧？</string>
+	<string id="2393">特別是棧橋的上邊，
+真是絕好的曬太陽場所。</string>
+	<string id="2395">但是，基本都會有先到的人呢。</string>
+	<string id="2397">昨天，在棧橋的地方，
+一起曬了太陽。
+這算是約會嗎？</string>
+	<string id="2400">ＺＺＺ……</string>
+	<string id="2404">ＺＺＺ……</string>
+	<string id="2408">看來，盧達好像患有
+夢游癥……
+真是的……去了哪里呢？</string>
+	<string id="2409">希望沒去到什麼
+危險的地方……</string>
+	<string id="2410">啊啊……真擔心……</string>
+	<string id="2414">誒，不明白嗎……</string>
+	<string id="2415">盧達，在回到這個村子之前，
+不是又在哪里迷路了吧……</string>
+	<string id="2416">沒事嗎……</string>
+	<string id="2421">…………</string>
+	<string id="2423">艾斯塔里亞很小，
+所以很少有能藏身的地方。
+究竟去了哪里？</string>
+	<string id="2425">我們也受到過莎拉小姐
+的各種照顧。
+……絕對會替她報仇的。</string>
+	<string id="2429">嗯，加油吧。
+別有送掉性命就行，
+有等待你歸來的人吧？</string>
+	<string id="2434">………</string>
+	<string id="2436">不要想進去的
+比較好哦。
+雖然要先『能進去』再說。</string>
+	<string id="2438">是個有著少見的
+力量和氣度的人，
+但現在已經不在這裡了……</string>
+	<string id="2442">然後，隨時注意持有物品。
+不要忘記一瞬的閃失就有可能喪命！</string>
+	<string id="2452">那麼，失禮了。</string>
+	<string id="2454">啊啊，這真是失禮了……</string>
+	<string id="2458">好像患有夢游癥，
+在這附近晃蕩的時候
+被自警團的人發現了。</string>
+	<string id="2461">嗯，盧達君的話，
+感覺臉色挺健康的，
+倒是沒那麼擔心……</string>
+	<string id="2462">總之，健康是最重要的。
+亞特魯君也注意身體啊。</string>
+	<string id="2467">希望能順利地達到
+夫人所在的地方呢……</string>
+	<string id="2469">……救…救…</string>
+	<string id="2470">…我……</string>
+	<string id="2471">別光看著，救救我啊&gt;2―&lt;1―&lt;1！</string>
+	<string id="2482">澤辟庫村是哪邊呢？
+您知道的話，能帶我去嗎？</string>
+	<string id="2485">啊啊……盧達！</string>
+	<string id="2486">對不住……
+讓你擔心了呢。</string>
+	<string id="2488">真的是…非常擔心啊……！</string>
+	<string id="2490">這邊的亞特魯，
+將我從魔物手中救了出來。</string>
+	<string id="2492">謝謝你……
+救了我的丈夫
+真是不知如何感謝才好……</string>
+	<string id="2495">承蒙您的照顧了。</string>
+	<string id="2504">……那種感覺很強烈。</string>
+	<string id="2506">雖然家里什麼也沒有，
+還請好好休息。</string>
+	<string id="2509">啊啊，真是不安……
+捆在床上如何？</string>
+	<string id="2528">虧你能進到如此
+危險的地方呢。</string>
+	<string id="2530">丟失了重要的東西
+非常不妙……</string>
+	<string id="2568">那個首飾有著驅魔的力量。
+會保護你不收邪惡的陷阱的傷害才對。</string>
+	<string id="2569">……對不住。
+讓我思考一下事情。</string>
+	<string id="2588">一下就被抓住……
+扔進了地下牢。</string>
+	<string id="2596">在即將被魔物抓到的排列著石像的地方，
+看到了持有手杖的老人。
+雖然在通路的途中看丟了……</string>
+	<string id="2606">好了，在里邊的人也快點逃。</string>
+	<string id="2607">啊啊，雖然非常不好意思，
+但請順帶把這個像送到拉瓦。</string>
+	<string id="2608">爺爺沒了這個很是困擾呢。</string>
+	<string id="2609">詳情會在之後聽的，快點走吧。
+不知道魔物什麼時候會來。</string>
+	<string id="2611">我和你不同不是劍士。
+會努力不被魔物發現地
+偷偷逃走。</string>
+	<string id="2612">給我適可而止！！
+破壞這個墻壁也是非常麻煩的啊。</string>
+	<string id="2614">啊啊？　空殼嗎？
+那家伙確實被扔進來了才對……</string>
+	<string id="2615">真是的，給我適可而止啊！！
+多次破壞這個墻壁可是非常麻煩的啊。</string>
+	<string id="2617">嗚哦！　沒有任何人！
+…呃，喂，使用偶像藏起來了嗎？
+不是玩的時候吧！？</string>
+	<string id="2630">可是……說不定是時候了。</string>
+	<string id="2635">……這是在以前從頭兒的
+老媽那裡聽來的事情。</string>
+	<string id="2645">聽好……絕對不能死！</string>
+	<string id="2652">一定要多加小心。</string>
+	<string id="2661">然後，你的臉色也很差。
+稍微休息一下吧。</string>
+	<string id="2664">只能破壞掉那個，應該就不會響了……</string>
+	<string id="2674">有種，不祥的預感。
+請一定要救救她。</string>
+	<string id="2677">亞特魯，求你。
+一定要救救被帶到
+這個塔里來的女孩。</string>
+	<string id="2686">雖然現在已經遺失掉了……</string>
+	<string id="2702">我的話沒有事。
+會想辦法應對的。</string>
+	<string id="2719">說的話有點長了，
+傷開始痛起來了……</string>
+	<string id="2722">好了，在魔物沒來的時候趕緊走吧。
+不快點的話，被抓住的女孩會被殺掉的。</string>
+	<string id="2726">得到全部的書後，
+也請一定讓我讀讀……</string>
+	<string id="2735">那個護符的話，說不定……</string>
+	<string id="2742">亞特魯君……請千萬要小心。</string>
+	<string id="2765">亞特魯……
+請用那雙眼睛確認真實。</string>
+	<string id="2771">不是用相同的庫蕾莉亞製成的裝備的話
+很難與之對抗吧。</string>
+	<string id="2777">#03就憑那點力量敢挑戰我……
+一邊悔恨自己的無能，一邊落入深淵吧。</string>
+	<string id="2778">#03六冊的書集齊的時候，將孕育出龐大的力量。
+……雖然你永遠都沒有目睹它的機會了！</string>
+	<string id="2784">因為我解除了惡魔的封印，
+那個女孩也從沉睡中醒了過來。
+不過，失去了伊蘇的時代
+的記憶。
+殺了你之後，那個女孩就
+收下來作為我的婢女了。
+那麼，差不多要上嘍！</string>
+	<string id="434">啊啊！
+囉嗦是什麼意思？
+真是的……</string>
+	<string id="443">哦哦，亞特魯君。
+可以起來了嗎。</string>
+	<string id="444">不好好躺著是不行的哦。</string>
+	<string id="445">嗯。</string>
+	<string id="446">只是在城鎮裡散散步的
+適當的運動的話沒事吧。</string>
+	<string id="447">而且，讓這個歲數的少年
+老老實實地一直待在船上
+也有些殘酷了。</string>
+	<string id="448">……亞特魯君，#02港口的倉庫#00，
+現在是自警團集合所。</string>
+	<string id="449">史拉夫應該在那裡
+有不明白的事情的話就問那家伙吧。</string>
+	<string id="450">千萬別勉強自己。</string>
+	<string id="452">亞特魯。
+城鎮外有魔物出沒很危險。
+請小心。</string>
+	<string id="463">史拉夫那家伙，雖然
+建立自警團擴大了勢力……</string>
+	<string id="464">但那家伙好像總有把事情
+全當成是自己的責任的傾向……</string>
+	<string id="465">而且，是個頑固的人。
+完全不聽我的話。</string>
+	<string id="467">亞特魯。
+請不要因為年輕就過分相信自己的體力哦。</string>
+	<string id="473">這究竟是怎麼回事！
+明明那麼讓你靜養！</string>
+	<string id="474">愛拉……給他進行治療。</string>
+	<string id="475">明白了！
+消毒……（擦擦）
+涂藥……（抹抹）</string>
+	<string id="476">繃帶……（纏纏）</string>
+	<string id="482">作為恢復藥的原料的洋地黃
+用光了。</string>
+	<string id="488">那把劍是……</string>
+	<string id="489">這樣嗎，想要親眼艾斯塔里亞
+的情況嗎……</string>
+	<string id="490">既然你如此下定決心我不會阻止。
+但是，一定要小心哦。</string>
+	<string id="503">暴風雨的結界也好，魔物也好……
+現在，在這個艾斯塔里亞
+正發生著什麼不得了的事情。</string>
+	<string id="504">你之所以流落到這片土地，
+說不定也是有著什麼的指引。</string>
+	<string id="533">什麼，這種程度的擦傷。
+用不著我上場。</string>
+	<string id="534">好。
+那麼，亞特魯。
+請不要動哦。</string>
+	<string id="535">不行，老實待著！</string>
+	<string id="539">哦，這一定很痛吧。
+消毒…涂藥…繃帶……</string>
+	<string id="540">嗯，擦傷而已。
+光抹藥就可以了。</string>
+	<string id="545">對不住啊。
+作為恢復藥的原料的洋地黃
+用光了。</string>
+	<string id="552">喲，亞特魯！
+已經可以動了嗎？</string>
+	<string id="553">我來訪病房的時候，你總是在睡著。
+一定是非常疲憊吧。</string>
+	<string id="554">話說……外邊的人是怎麼看
+艾斯塔里亞的呢。</string>
+	<string id="555">能夠告訴我麼？</string>
+	<string id="557">……被詛咒的國家嗎？
+也差不多呢。</string>
+	<string id="558">果然不能期待外邊的人呢。
+只能靠我們想辦法了嗎……</string>
+	<string id="559">好，雖然也算不上是交換，
+只要我知道什麼都可以告訴你哦？</string>
+	<string id="561">喲，亞特魯，已經很精神了嘛。
+還有什麼疑問嗎？</string>
+	<string id="569">巴爾巴多，是艾斯塔里亞唯一的港口城市。</string>
+	<string id="570">雖然很久以前只是蕭條的漁村，
+自從在艾斯塔里亞發現銀之後，
+巴爾巴多作為貿易港口發展了。</string>
+	<string id="571">……話雖如此，但在出現暴風雨的結界後，
+沒有來訪過一艘船，
+銀也無法向外輸出了。</string>
+	<string id="572">托福，又變回了原來的漁村……</string>
+	<string id="575">艾斯塔里亞是小的島國。</string>
+	<string id="576">人們的住所只有這個巴爾巴多
+和有城墻的米內亞城鎮
+以及在山腳的澤辟庫村而已。</string>
+	<string id="577">在不久之前，還有拉斯丁村……
+但銀礦山封鎖了，而且出現了魔物，
+已經沒有人住了……</string>
+	<string id="578">你流落到的地方被稱為
+『白色牧神海灘』。</string>
+	<string id="579">是像鋪滿了珍珠貝殼一般
+潔白美麗的海濱。
+如果沒有魔物的話，是最適合散步的場所了。</string>
+	<string id="580">從這個城鎮往北走，在草原的前方
+有著叫做米內亞的被城墻所包圍的城鎮。
+有什麼的目的的話，可以在這裡進行準備。</string>
+	<string id="582">剩下的還有，是呢……
+艾斯塔里亞的名物『達姆之塔』。</string>
+	<string id="583">剩下的還有，是呢……
+艾斯塔里亞的名物『達姆之塔』。
+		你來這裡之後也見過了吧？</string>
+	<string id="584">感覺直通云霄的巨大的古代遺跡。
+好像在天氣好的日子里，都能從
+大海對面的普羅瑪洛克的港口看到。</string>
+	<string id="585">嗯，雖然名勝不少……
+但出現暴風雨的結界之後，
+那一帶充滿了魔物。</string>
+	<string id="588">記得……那應該是半年前左右的事情。</string>
+	<string id="589">在承載著銀的商船
+從巴爾巴多的港口出發的夜晚，
+……發生了暴風雨。</string>
+	<string id="590">被暴風雨席卷的船只嚴重毀壞，
+流落到了白色牧神海灘。</string>
+	<string id="591">雖然最初大家都認為只是不幸的事故，
+那天以後，全部的船只都會遇到同樣的
+事故……</string>
+	<string id="592">那便是暴風雨的結界的始端。
+艾斯塔里亞的人們
+無法從這座島踏出一步。</string>
+	<string id="595">和暴風雨的結界同時期，
+艾斯塔里亞開始出現魔物了。</string>
+	<string id="596">襲擊你的野狗也是其中一種。
+被稱為『里波爾』。</string>
+	<string id="598">雖然魔物最初只是徘徊于山道，
+不久就開始襲擊人類的村莊。</string>
+	<string id="599">特別是這個巴爾巴多，被害十分嚴重。</string>
+	<string id="600">雖然米內亞也不比這裡安全，
+但有堅固的城墻守護，在里邊可以安心生活。</string>
+	<string id="601">澤辟庫村雖然只有柵欄，
+但不知為何，魔物不去靠近。
+也有傳聞說有不可思的鈴鐺守護著村子。</string>
+	<string id="605">不過，你也想當冒失呢。</string>
+	<string id="606">冒著生命危險
+挑戰暴風雨的結界……</string>
+	<string id="607">你不會說是想要
+周游艾斯塔里亞
+的各地吧？</string>
+	<string id="608">還是放棄……那個念頭吧。
+最終只會被魔物襲擊，遇到惡果而已。</string>
+	<string id="609">……比起那個，如何。
+沒有打算加入這裡的自警團嗎？
+你的話感覺很有毅力……</string>
+	<string id="611">……明白了。
+這樣啊，沒有改變決心的打算嗎。</string>
+	<string id="612">真是不了不起的家伙。
+突破了暴風雨的結界也
+是天大的奇跡了。</string>
+	<string id="613">雖然只是我的直覺……
+感覺你將會遇到不可思議的命運。</string>
+	<string id="614">……首先離開巴爾巴多，向北方前行。
+走一段路程後可以看到#02米內亞城鎮#00的城墻。</string>
+	<string id="615">米內亞是艾斯塔里亞內最大的城鎮。
+你想知道的情報也一定會在那裡吧。</string>
+	<string id="616">對了……帶上這個吧。</string>
+	<string id="619">算是我的餞別禮。
+是這裡的自警團用的東西，
+雖然小但是非常好用。</string>
+	<string id="620">很遺憾沒有多余的防具。
+米內亞內有很好的防具店
+掙錢在那裡購買吧。</string>
+	<string id="624">保重啊，亞特魯。
+經過巴爾巴多的時候，記得露個面。</string>
+	<string id="628">亞特魯……
+什麼都不說就離開巴爾巴多
+真冷淡呢。</string>
+	<string id="629">但是，看起來很精神比什麼都重要。
+算是放心了。</string>
+	<string id="633">偶爾來我這裡露個面哦。</string>
+	<string id="635">聽說你在巡回艾斯塔里亞的各地。
+如何，有什麼進展嗎？</string>
+	<string id="640">喲，看起來很有精神呢。
+如何，艾斯塔里亞？</string>
+	<string id="642">又煩惱的事情的話，隨時過來。
+說不定能幫到你。</string>
+	<string id="644">喲，這不是亞特魯嗎。
+有什麼奇怪的事情嗎？</string>
+	<string id="645">怎麼了，一副認真的表情……
+究竟發生了什麼事？</string>
+	<string id="647">從我們的人那裡聽說
+好像在米內亞發生了什麼事件。</string>
+	<string id="648">亞特魯……
+你要是知道什麼詳情的話
+可以告訴我嗎？</string>
+	<string id="651">嗚〜嗯……
+真是童話的世界呢。</string>
+	<string id="652">暴風雨的結界也算上……
+究竟在這個國家發生著什麼事情？</string>
+	<string id="653">但是……果然好像有著
+不可思議的命運等著你呢。</string>
+	<string id="656">……亞特魯，有時間嗎？
+跟我過來一下。</string>
+	<string id="660">……這個是在半年前
+巡視白色牧神海灘的時候，
+在岸邊撿到的。</string>
+	<string id="661">恐怕是被卷入暴風雨的結界的商船
+上的東西吧。</string>
+	<string id="662">好像是從東方傳來的劍。
+彎曲的刀刃有著驚人的鋒利程度，
+但是相對的很難使用。</string>
+	<string id="663">但是，是你的話一定能用好它才是。
+希望能在和魔物的戰鬥中起到作用。</string>
+	<string id="664">呵呵……真是不可思議。
+看著積極向前的你的話，
+不自覺地想去應援。</string>
+	<string id="669">亞特魯，加油吧。
+是你的話說不定能解開
+這個被詛咒的艾斯塔里亞的謎題。</string>
+	<string id="673">……是嗎。
+那個『惡魔之塔』……</string>
+	<string id="674">但是……亞特魯。
+真是變成了一副好面貌呢。
+嗯，真是讓人……認不出來了。</string>
+	<string id="675">雖然最初只認為是個
+血氣方剛的少年……
+但現在你的眼中沒有迷茫十分平靜。</string>
+	<string id="677">我已經沒有什麼可教導你的了。</string>
+	<string id="678">用自己的雙眼去確認在艾斯塔里亞
+發生的異變的真相吧。</string>
+	<string id="680">一定要……回來哦！</string>
+	<string id="682">我已經沒有什麼可教導你的了。</string>
+	<string id="683">用自己的雙眼去確認在艾斯塔里亞
+發生的異變的真相吧。</string>
+	<string id="688">那個紅髮……
+這樣嗎，你就是亞特魯君吧？
+從布魯多老師那裡聽說了。</string>
+	<string id="704">自警團的工作之一
+是護送城鎮的人到
+米內亞和澤辟庫村……</string>
+	<string id="717">啊啊，明明聽說有銀可以賺錢
+才來到了這樣的邊境來。</string>
+	<string id="720">知道米內亞的叫做皮姆多尼斯的商人嗎？
+那家伙和我在同一時期，
+來到了艾斯塔里亞。</string>
+	<string id="724">曾經在這個巴爾巴多，
+除了我們的人，還有很多貿易商。
+但是，想要通過船只離開這裡，
+結果被暴風雨吞沒了……</string>
+	<string id="735">我的兒子夫婦，
+住在米內亞城鎮。</string>
+	<string id="739">米內亞的兒子夫婦，
+都健康嗎……</string>
+	<string id="743">史拉夫雖然干得不錯
+但也只是臨陣磨槍……</string>
+	<string id="747">去了米內亞？
+你不害怕……魔物嗎？</string>
+	<string id="752">這裡是生育我們的城鎮……
+可以的話不想轉移到別處。</string>
+	<string id="754">我家的孩子真是的，
+居然想帶著鄰居家的小姐
+前去米內亞。</string>
+	<string id="757">哥哥，從外邊來的嗎？
+暴風雨的結界很厲害嗎？</string>
+	<string id="762">這家伙叫做皮卡德。
+是從很久以前就在這個國家飼養的家畜了。</string>
+	<string id="767">因為無法出船，
+就沒有港口的工作了。</string>
+	<string id="772">在草原，小心藍色的頭的魔物哦。
+在還不習慣戰鬥的時候，
+說不定完全傷不到它。
+ </string>
+	<string id="774">史拉夫也真是的，
+明明可以再放松一些的。
+關鍵時刻，這裡的全部居民
+也可以一起避難到米內亞。</string>
+	<string id="776">但是傳言說，盜賊好像
+四處騷擾著米內亞城鎮……</string>
+	<string id="779">真是懷念半年前……
+大型的商船不斷地前來，
+巴爾巴多也非常地熱鬧來著。</string>
+	<string id="784">半年左右之前，北方的街道
+開始出現魔物。</string>
+	<string id="788">自警團果然很可靠呢。
+會護送我們到米內亞或
+澤辟庫村哦。</string>
+	<string id="790">但是，他言無用……
+男人為了自己而
+冒險這種事……</string>
+	<string id="795">哦，沒見過的面孔呢……</string>
+	<string id="796">這樣嗎，被運送到布魯多老師
+那裡的年經人嗎……
+聽說遇到了很不幸的災難呢。</string>
+	<string id="799">聽說北方#02米內亞城鎮#00內的占卜師，
+就這次暴風雨的結界與出現的魔物曾進行
+過各種的預言……</string>
+	<string id="800">如果，有了想知道的事情的話
+就去拜訪那個占卜師看看吧？</string>
+	<string id="802">澤辟庫村前方的神殿的遺跡中
+並排著一些帶有翅膀的女神像。
+其美麗程度讓人無法相信是這個
+世上的存在。</string>
+	<string id="806">我從很久以前開始
+就在這裡打漁了……</string>
+	<string id="809">不管怎麼說
+巴爾巴多原本只是
+普通的漁村。</string>
+	<string id="812">如果我再
+大一些的話。</string>
+	<string id="815">想去米內亞玩的時候，
+被鄰居家的媽媽阻止了。</string>
+	<string id="819">發生暴風雨的結界之前，
+這個酒館也曾非常繁盛哦。</string>
+	<string id="826">史拉夫真是的〜〜！</string>
+	<string id="828">我說想加入自警團，結果被說
+『輪不到小孩子出場』！</string>
+	<string id="831">話說，你多大？</string>
+	<string id="832">誒……17歲？
+和我只差１歲而已啊！</string>
+	<string id="848">我是身為詩人的蕾雅。
+僅次于生命的#02銀口琴#00
+被什麼人偷走了……</string>
+	<string id="850">我至今為止……
+尋求某個旋律旅行至今。</string>
+	<string id="851">艾斯塔里亞遺失了的
+很久很久以前的……旋律。</string>
+	<string id="853">劍士大人……
+如果，聽說了銀口琴的傳聞
+可以告訴給我嗎？</string>
+	<string id="854">多麼小的細節都沒有關系。
+……還請……拜托了。</string>
+	<string id="858">啊……
+您幫著找到了口琴啊！</string>
+	<string id="859">誒……在廢坑的深處嗎？
+是這樣嗎……果然……</string>
+	<string id="860">但是，找到了真是太好了。
+真的是……非常地感謝。</string>
+	<string id="862">那個……劍士大人。
+可以告訴我您的名字嗎？</string>
+	<string id="864">亞特魯…嗎。
+……真是動聽的名字呢。</string>
+	<string id="865">……亞特魯。
+作為發現了口琴的回禮。</string>
+	<string id="866">還請您……聽上一曲。</string>
+	<string id="868">我是身為詩人的蕾雅。
+僅次于生命的銀口琴
+被什麼人偷走了……</string>
+	<string id="869">沒有那個的話……我……
+已經……不知如何是好了……</string>
+	<string id="871">啊……
+那是我的口琴……
+啊啊……真是偶然！</string>
+	<string id="874">……亞特魯。
+難道說，你……</string>
+	<string id="877">巴久＝巴德特……
+沒看到那凄慘的大地的傷痕，
+就有種胸口撕裂的心情。</string>
+	<string id="881">那首詩……
+是很久以前，我所寫下的。</string>
+	<string id="885">吶……菲娜。
+命運的紡車還是回轉了……</string>
+	<string id="886">至少，希望至少能讓你……
+繼續這樣目睹夢境……</string>
+	<string id="894">啊啊……你……！？</string>
+	<string id="895">你不是艾斯塔里亞的人吧？</string>
+	<string id="896">難道是穿越了暴風雨的結界……
+來到了艾斯塔里亞的嗎？</string>
+	<string id="897">女神……感謝您……
+我是多麼期待著這一天啊。</string>
+	<string id="898">你正是……我一直在尋找的人。</string>
+	<string id="899">……還請，拜托您了。
+
+		#02作為劍士的裝備#00整理好後
+能請您再來一次這裡嗎？</string>
+	<string id="907">劍士殿下……
+您能來真是太好了。</string>
+	<string id="912">……能迅速展開話題幫了大忙。
+其實我接受到了『伊蘇之書』的一冊
+沉睡在山上的神殿中的啟示。</string>
+	<string id="918">真的愿意幫忙嗎！？
+劍士殿下……真是非常感謝……</string>
+	<string id="919">請您帶上這個東西。
+在神殿中會成為你的路標吧。</string>
+	<string id="926">『伊蘇』是傳說中在這片土地上的……
+遠古時代的王國的名字。</string>
+	<string id="927">記錄著這失去的歷史的東西
+便是『伊蘇之書』了。</string>
+	<string id="928">是在什麼時候由誰寫的，
+並不確定。</string>
+	<string id="929">但是，說是分為六冊的書上記載著
+『伊蘇』毀滅的理由。</string>
+	<string id="930">……這個水晶球指示著『伊蘇之書』的
+其中一冊在山上的神殿之中。</string>
+	<string id="933">首先請探訪住在#02澤辟庫村#00的叫做
+
+		#02潔瓦#00的女性看看。</string>
+	<string id="934">我的姑母對神殿與伊蘇的事情
+有很多了解。
+一定會成為你的力量吧。</string>
+	<string id="938">啊啊……你……！？</string>
+	<string id="939">你不是艾斯塔里亞的人吧？</string>
+	<string id="940">難道是穿越了暴風雨的結界……
+來到了艾斯塔里亞的嗎？</string>
+	<string id="941">女神……感謝您……
+我是多麼期待著這一天啊。</string>
+	<string id="942">你正是……我一直在尋找的人。</string>
+	<string id="943">其實……有事情，
+想拜托劍士殿下。</string>
+	<string id="947">劍士殿下，如何了？
+找到了『伊蘇之書』嗎？</string>
+	<string id="948">……什麼？
+神殿的地下關押著少女……</string>
+	<string id="949">難道說……</string>
+	<string id="950">劍士殿下……！
+看來事態緊急。</string>
+	<string id="953">劍士殿下……！
+看來事態緊急。</string>
+	<string id="957">你就是亞特魯吧。
+……有不幸的消息。</string>
+	<string id="958">莎拉被什麼人
+所殺害了。
+真是可憐……</string>
+	<string id="960">……如果自己身上發生了什麼事，
+請將這個交給叫做亞特魯的紅髮劍士，
+莎拉是這樣微笑著對我說的。</string>
+	<string id="963">說來……
+聽說莎拉臨死前留下了
+『#02去廢坑#00』的言語。</string>
+	<string id="969">呵呵呵，有什麼要事嗎？</string>
+	<string id="977">哦，紅髮還真是少見。
+不是艾斯塔里亞的人吧？</string>
+	<string id="978">我也是從大陸來的。
+因為暴風雨的結界，
+被困在了這個落魄的小國。</string>
+	<string id="983">哦，那個藍寶石的戒指是
+多尼斯的東西嗎。
+找到了真是太好了呢。</string>
+	<string id="988">因為你是外人所以不知道吧，
+最近盜賊們四下騷擾米內亞。</string>
+	<string id="989">這個交易所在出現結界之前
+就收到了侵害。</string>
+	<string id="990">金臺座，銀鎧甲……盡是高價的東西。</string>
+	<string id="998">說來，聽說身為占卜師的女人被殺了呢。</string>
+	<string id="999">沒有預判到自己的死也就是說
+占卜的本領也是貓膩。</string>
+	<string id="1004">哦呀，那個銀鎧甲……
+感覺在哪里見到過。</string>
+	<string id="1005">但是從這裡偷走的鎧甲，
+沒有那麼閃亮……</string>
+	<string id="1017">將這個藍寶石
+送給那個她如何？
+一定會很高興的哦。</string>
+	<string id="1019">將這個藍寶石
+送給那個她如何？
+現在給你優惠價。</string>
+	<string id="1020">呵呵呵，真是敵不過你呢。</string>
+	<string id="1030">呵呵呵，多謝惠顧。</string>
+	<string id="1031">錢不夠哦。
+不好意思，一個子也不能少。
+誰讓我這邊也是做生意的。</string>
+	<string id="1038">不買嗎？</string>
+	<string id="1039">……你來搗亂的嗎？</string>
+	<string id="1040">…………</string>
+	<string id="1041">……呵呵，真是輸給你了。</string>
+	<string id="1042">東西都有著自己的行價。</string>
+	<string id="1044">這家伙是不可思議的物品。
+不論在哪里都能一瞬間回到城里。</string>
+	<string id="1046">這家伙是不可思議的物品。
+不論在哪里都能一瞬間回到城里。
+如何，算你便宜哦。</string>
+	<string id="1047">呵呵呵，真是敵不過你呢。</string>
+	<string id="1056">之前賣掉的東西，
+好像還能用呢。</string>
+	<string id="1063">……呵呵，真是輸給你了。</string>
+	<string id="1065">這個鏡子擁有定住魔物的行動的力量。
+非常方便。
+不過使用多次後會碎掉。</string>
+	<string id="1067">這個鏡子擁有定住魔物的行動的力量。
+雖然使用多次後會碎掉，但非常方便。
+如何，算你便宜哦。</string>
+	<string id="1068">呵呵呵，真是敵不過你呢。</string>
+	<string id="1083">……呵呵，真是輸給你了。</string>
+	<string id="1104">這真是出色的紅玉。
+個頭大，裝飾也很漂亮。</string>
+	<string id="1106">這真是出色的紅玉。
+個頭大，裝飾也很漂亮。
+是你的話特別高價買你的。</string>
+	<string id="1107">呵呵呵，看來你是個懂得物品價值的家伙呢。</string>
+	<string id="1115">呵呵……謝謝嘍。</string>
+	<string id="1122">不賣嗎？</string>
+	<string id="1123">……你是來搗亂的嗎？</string>
+	<string id="1124">…………</string>
+	<string id="1125">……呵呵，真會賣呢。</string>
+	<string id="1126">就算死纏著不放也不會給再多了。</string>
+	<string id="1128">真是有夠陳舊的項鏈呢。
+石頭的個頭也很小，傷痕也不少。</string>
+	<string id="1130">真是有夠陳舊的項鏈呢。
+石頭的個頭也很小，傷痕也不少。
+但是，是你的話特別高價買你的。</string>
+	<string id="1131">呵呵呵，看來你是個懂得物品價值的家伙呢。</string>
+	<string id="1145">……呵呵，真會賣呢。</string>
+	<string id="1148">這、這個臺座……
+為什麼會在你手上？</string>
+	<string id="1149">沉落在池子里了嗎……
+這個臺座稍微有些內情。
+真是虧你能找到它啊。</string>
+	<string id="1150">沉落在池子里了嗎……
+真是虧你能找到它啊。</string>
+	<string id="1152">這、這個臺座……
+為什麼會在你手上？</string>
+	<string id="1153">沉落在池子里了嗎……
+真是虧你能找到它啊。
+是你的話，會特別放寬條件買下的。</string>
+	<string id="1154">呵呵呵，看來你是個懂得物品價值的家伙呢。</string>
+	<string id="1168">……呵呵，真會賣呢。</string>
+	<string id="1171">哦哦，歡迎！</string>
+	<string id="1184">拿著非常不錯的劍呢。
+巴爾巴多的自警團所使用的東西嗎。</string>
+	<string id="1190">不論持有多麼優秀的劍，
+從正面挑戰兇惡的魔物
+都是自殺行為。</string>
+	<string id="1194">那把長劍是……
+真是驚人呢，那是東方的灣曲刀啊！</string>
+	<string id="1199">這、這把劍怎麼回事！？
+刀身泛著微光啊！</string>
+	<string id="1200">不光是用銀制造的物品而已……
+明顯地秘藏著什麼『力量』……</string>
+	<string id="1209">短劍雖然小
+但很輕很容易使用。
+也可以作為日用品使用哦。</string>
+	<string id="1216">什麼啊，不是已經有了嗎。
+不需要兩三把吧？</string>
+	<string id="1218">哦，多謝惠顧！</string>
+	<string id="1219">好像錢不夠呢。
+幫你留著，下次再來哦。</string>
+	<string id="1220">這把長劍，
+是適合劍士的實戰性長劍。
+以結實的鋼鐵鑄造為傲。</string>
+	<string id="1228">對不住，塔瓦烏茲彎刀是東方的國家的劍
+因為暴風雨的結界而沒有商船來往後
+很難入手。</string>
+	<string id="1230">入手後會給你留著的，現在先忍忍吧。</string>
+	<string id="1231">塔瓦烏茲彎刀是從東方傳來的灣曲刀。
+和普通的劍不同使用起來很困難，
+但我保證鋒利程度。</string>
+	<string id="1240">喲，歡迎光臨。</string>
+	<string id="1249">比起武器優先選擇防具的話
+更能提高生存率喲。</string>
+	<string id="1251">嗯……那柄白銀的盾牌
+好像有著神圣的加護呢。</string>
+	<string id="1253">……真是令人神往的鎧甲呢。</string>
+	<string id="1254">雖然好像是用銀打造出來的東西，
+但強度完全沒有受損。</string>
+	<string id="1255">在裝飾的雕刻之間
+巧妙地刻有祝福的言語。</string>
+	<string id="1263">鎖甲是用鎖鏈編織的鎧甲。
+輕便容易行動，
+而且因為通風性好，不會感到悶熱。</string>
+	<string id="1270">說來，之前買過了呢。
+我們的商品很結實，
+應該還能用很久呢。</string>
+	<string id="1272">謝謝惠顧。
+愛惜著使用吧。</string>
+	<string id="1273">好像超出預算了呢。
+不要勉強，從便宜的
+裝備開始買起比較好。</string>
+	<string id="1274">這個鎧甲是
+用薄金屬板組合出來的鎧甲。
+雖然非常沉重，但防御力超群。</string>
+	<string id="1281">反傷甲是值得自豪的作品。
+用特殊的樹脂加工表面而成的皮革鎧甲。
+明明很輕卻擁有鋼鐵以上的硬度。</string>
+	<string id="1294">小盾
+是用鉚釘強化硬木材而成的盾牌。
+輕便靈活。</string>
+	<string id="1301">這個中盾
+是給鞣皮裝上鋼絲的盾牌。
+不光輕便，強度也不一般。</string>
+	<string id="1308">大盾。
+因為是加工鐵板而成的盾牌，
+雖然重但可以防御住任何魔物的一擊哦。</string>
+	<string id="1318">你好，怎麼了？</string>
+	<string id="1328">自從開始出現魔物之後，
+不斷出現傷員，非常繁忙。</string>
+	<string id="1330">庫拉澤老師，非常慢
+反而待在醫院里的時間更少了。</string>
+	<string id="1332">我……原來時不時地就會去
+莎拉小姐的店鋪玩的。</string>
+	<string id="1333">明明這之前還非常高興地說
+『總算是發現了一直尋找的人』的……</string>
+	<string id="1341">老師現在外出出診中。
+可以的話，我可以進行治療？</string>
+	<string id="1347">不要動，
+請老實地待著……</string>
+	<string id="1350">好了，這樣就可以了。
+還請千萬不要亂來哦。</string>
+	<string id="1352">啊啦……錢不夠嗎？</string>
+	<string id="1353">嗯嗯，那樣的話
+就無法治療傷口了呢。</string>
+	<string id="1354">呵呵，騙人的☆
+不會放著眼前的傷員不管的。</string>
+	<string id="1355">我們的藥是煎煮只生長在高山上的
+紅洋地黃的葉子而成的東西。
+不論什麼傷都會立刻治好哦。</string>
+	<string id="1361">啊啦……
+已經有了哦？</string>
+	<string id="1364">給你。
+請珍惜著使用。</string>
+	<string id="1365">啊啦……
+好像錢不夠呢。</string>
+	<string id="1375">你不是這座城鎮的人把。
+究竟是從哪里來的？</string>
+	<string id="1376">……巴爾巴多？</string>
+	<string id="1377">是嗎，穿越結界漂流過來的
+紅髮小子就是你嗎！</string>
+	<string id="1378">呀啊，巴爾巴多的自警團的人
+之前來到米內亞的時候，
+說了關于你的傳言。</string>
+	<string id="1379">不好意思啊，用懷疑的語氣詢問你。</string>
+	<string id="1384">聽說了占卜師被殺了的消息嗎？
+最初雖然認為是盜賊的所為，
+但聽說完全沒有偷走值錢的東西。</string>
+	<string id="1387">盜賊們好像隨心所欲地在放肆呢。
+之後有必要好好整治一下盜賊呢……</string>
+	<string id="1395">我是亞蕾克。
+是被雇來整治盜賊的人。</string>
+	<string id="1400">好像很久以前在這個國家中
+有棵叫做『羅妲』的樹。</string>
+	<string id="1401">聽說其果實和種子比任何
+食物都要美味。</string>
+	<string id="1403">一次也好，真想品嘗看看啊。
+你沒有見過類似的樹嗎？</string>
+	<string id="1408">嗯，不會勉強你的。</string>
+	<string id="1409">什麼……！
+這就是羅妲之果嗎！？</string>
+	<string id="1410">拜、拜托了。
+一點點也好……</string>
+	<string id="1411">……不，果然還是算了。</string>
+	<string id="1413">稍微吃到一點的程度，
+反而會留下迷戀。</string>
+	<string id="1425">我的名字是多尼斯。</string>
+	<string id="1426">為了送給母親而花掉所有的私房錢
+購買了的藍寶石戒指，卻不小心給弄
+丟了。</string>
+	<string id="1428">我已經回不去家了……
+可惡，這果然也是
+盜賊的所為吧。</string>
+	<string id="1432">啊啊……
+要怎麼辦才好。
+找不到戒指的話就回不去家……</string>
+	<string id="1435">……嗚〜咕…喲亞特魯。
+什麼啊？　一副陰沉的臉。啦，好好熱鬧熱鬧。
+嗚〜咕。</string>
+	<string id="1436">喂喂，多尼斯。你…喝得太多了。
+我說，亞特魯。能想辦法幫幫忙嗎？</string>
+	<string id="1438">啊啊〜。
+要怎麼跟娘說明才好。</string>
+	<string id="1440">什麼嘛，真是冷淡的小哥呢……</string>
+	<string id="1441">戒指被販賣在交易所？
+于是你幫我買回來了嗎！</string>
+	<string id="1442">非、非常感謝……
+這樣一來，就有臉見娘了。</string>
+	<string id="1443">這是一點謝禮。
+還請一定收下！</string>
+	<string id="1460">孩子不可以出去
+父母有這麼對你說過吧？</string>
+	<string id="1461">…………</string>
+	<string id="1462">……奇怪？</string>
+	<string id="1463">這、這真是對不起。</string>
+	<string id="1464">不管怎麼說，
+把你當孩子對待的話會很失禮呢。</string>
+	<string id="1465">沒見過的面孔，從巴爾巴多來的嗎？</string>
+	<string id="1468">我的哥哥，
+一直在礦山工作來著，
+被從洞的深處出來的魔物
+打成了重傷。</string>
+	<string id="1473">在和蕾雅姐姐玩。</string>
+	<string id="1476">在和蕾雅姐姐玩。</string>
+	<string id="1479">在和蕾雅姐姐玩。</string>
+	<string id="1482">在和蕾雅姐姐玩。</string>
+	<string id="1486">在魔物徘徊之前，
+原野北方的大叔下方
+是大家的游玩場所……</string>
+	<string id="1492">我的爺爺經常跟我講
+艾斯塔里亞的
+童話故事。</string>
+	<string id="1495">爺爺說
+這個國家的某處
+一直沉睡著銀色的劍。</string>
+	<string id="1498">爺爺說
+這個國家的某處
+一直沉睡著銀色的劍。</string>
+	<string id="1500">有那個的話，
+魔物也都能輕松打倒。
+要是真的存在就好了呢。</string>
+	<string id="1501">誒！　這就是那把劍嗎？</string>
+	<string id="1510">哥哥，難道是劍士？</string>
+	<string id="1512">那個啊，占卜師姐姐
+一直在尋找旅行的劍士！</string>
+	<string id="1516">雖然去找莎拉姐姐
+玩了，
+但誰都不在……</string>
+	<string id="1521">最近，經常看到
+披著黑斗篷的外人。
+說到那個斗篷，
+表面泛著青色的光芒呢。</string>
+	<string id="1525">直到最近還徘徊在城鎮里的
+黑斗篷男子，不再出現了。
+正好是從莎拉被殺的時候。</string>
+	<string id="1529">最近，占卜師姐姐的樣子
+有些奇怪呢。</string>
+	<string id="1531">在艾斯塔里亞上
+究竟發生了什麼事……</string>
+	<string id="1534">剛才看到交易所的主人
+在路邊撿到了戒指。
+那之後，去店鋪看了看，
+發現被狡猾地放到了架子上。</string>
+	<string id="1540">什麼〜〜！
+那家伙接受了討價？</string>
+	<string id="1544">像是今天的好天氣的話
+能夠從城墻上看到巨大的
+『達姆之塔』。</string>
+	<string id="1550">位于北方的山道的對面存在
+被稱為『巴久＝巴德特』的
+擂缽狀的巨大的洞。</string>
+	<string id="1555">說不定，她的口琴也被
+傳言中的盜賊偷走了呢。</string>
+	<string id="1558">自從銀礦山被封鎖後
+物價上漲得非常厲害。
+真是讓人受不了啊。</string>
+	<string id="1564">有看到過獨眼的男子嗎？
+叫做多尼斯……</string>
+	<string id="1566">多尼斯那家伙，
+又不知道去哪里了！</string>
+	<string id="1571">稍微，讓開一下！
+有傷員了。</string>
+	<string id="1577">稍微，讓開一下！
+現在去出診。</string>
+	<string id="1580">稍微，讓開一下！
+來診察了。</string>
+	<string id="1585">去了沙拉的店鋪……
+還那麼年輕……真是可惜。</string>
+	<string id="1586">……唯一的救贖，
+算是那張安詳的表情了吧。</string>
+	<string id="1591">自從魔物出現以來，
+從巴爾巴多與拉斯丁村
+移居來了很多人。</string>
+	<string id="1595">關于占卜師被殺一事……
+還沒有發現任何關于
+兇手的線索。</string>
+	<string id="1600">米內亞的歷史很長哦。
+居然城墻是在很久很久
+以前就有了的。</string>
+	<string id="1604">自從發生了占卜師的事件，
+城鎮中的人們
+好像都非常地不安。</string>
+	<string id="1607">我的母親，
+在巴爾巴多一個人生活著。</string>
+	<string id="1612">自從出現魔物以後，
+禁止了全部孩子
+出門……</string>
+	<string id="1615">城墻外側的道路很狹窄，
+通過需要費一份力。
+發生結界之前，將采掘出來的銀
+運送到巴爾巴多是很辛苦的事情。</string>
+	<string id="1620">在這座城鎮中有叫做
+庫拉澤的名醫。
+老師調和出來的藥物，
+會立刻治好傷口。</string>
+	<string id="1629">真是恐怖的事件。
+雖然有些古怪，
+但是個性格很溫柔的姑娘……</string>
+	<string id="1630">說來……以前聽說過
+那個孩子在哪里有著親戚。</string>
+	<string id="1639">絕對不要去礦山的比較好。
+那裡的魔物不是一般的強。
+一下就會被打倒的。</string>
+	<string id="1646">總之，因為視野有限，
+魔物會從想不到的地方襲擊過來。</string>
+	<string id="1648">去了滿是魔物的廢坑
+的最深處了嗎……</string>
+	<string id="1653">我的父親在北邊的澤辟庫村
+擔任村長。</string>
+	<string id="1654">最近，好像有什麼
+深刻的煩惱。</string>
+	<string id="1655">之前見面的時候
+說是
+『很難和村里的人講』……</string>
+	<string id="1659">從澤辟庫村的父親那裡
+聽說了。你幫著取回了
+銀鈴對吧。</string>
+	<string id="1665">黃昏時分從廢坑出來的
+蝙蝠可不普通……
+非常兇猛，會襲擊人和家畜。</string>
+	<string id="1676">拉斯丁村被毀滅，
+移居到這座城鎮的時候，
+真是被詩人的曲子治癒了。</string>
+	<string id="1684">我一直在銀礦山工作來著。
+但是半年前，從坑道的深處
+涌現出了大量的魔物！</string>
+	<string id="1686">可惡〜一定殺掉混賬魔物〜〜！</string>
+	<string id="1689">什麼！　你去了礦山的深處？
+……那麼，魔物呢？</string>
+	<string id="1696">知道在城墻的角落，
+吹著口琴的女吟游詩人嗎？</string>
+	<string id="1697">雖然本人也是美人，但演奏的曲子
+更是美麗動聽到讓人出神的程度。</string>
+	<string id="1700">在城墻上看到吟游詩人了。
+以一副悲傷的表情
+眺望著山的方向……</string>
+	<string id="1704">看到了非常帥氣的男人！
+純黑的斗篷非常相襯，
+真是個帥哥……</string>
+	<string id="1708">雖然之前看到的身披
+黑色斗篷的人是個帥哥，
+但你也是個不錯的男人呢。</string>
+	<string id="1710">啊啦，些許不見，
+變得強壯了呢。</string>
+	<string id="1712">雖然不知道是為了誰在努力，
+但是很帥氣哦。</string>
+	<string id="1715">喲，這不是亞特魯嗎！
+不記得了嗎，在巴爾巴多的倉庫見過吧？</string>
+	<string id="1716">並不是來玩的。
+因為自警團的要事而來的。</string>
+	<string id="1718">說來，史拉夫
+在擔心你哦。</string>
+	<string id="1721">喲，這不是亞特魯嗎！
+不記得了嗎，在巴爾巴多的倉庫見過吧？</string>
+	<string id="1722">並不是來玩的。
+因為自警團的要事而來的。</string>
+	<string id="1724">好像這邊發生了
+很嚴重的事件呢……</string>
+	<string id="1728">嗯咕，嗯咕，嗯咕，嗯咕……</string>
+	<string id="1729">噗哈〜〜〜〜！</string>
+	<string id="1736">去占卜的店鋪看看了嗎？</string>
+	<string id="1738">莎拉所說的旅行的劍士殿下
+就是你吧。</string>
+	<string id="1741">我的工作是艾斯塔里亞的名勝向導。</string>
+	<string id="1742">因為暴風雨的結界和魔物現在失業中。</string>
+	<string id="1743">……說來，在暴風雨的結界出現之前，曾給
+一名奇怪的老爺子帶路到山上的遺跡中過。</string>
+	<string id="1746">達姆之塔，白色牧神的海灘。
+古代的神殿，巴久＝巴德特。</string>
+	<string id="1749">歡迎光臨。
+啊啦，陌生的面孔呢？</string>
+	<string id="1756">你為我在哪里受的傷？
+只是待在家里，就不知道被什麼人襲擊了！</string>
+	<string id="1759">因為是從後方被擊打的，
+所以沒能看到臉……
+但那一定是傳言中的盜賊！</string>
+	<string id="1760">從古傳下來的
+銀色的盾牌被偷了……</string>
+	<string id="1764">那柄盾牌是從我家被偷的東西……</string>
+	<string id="1766">……居然，
+被藏在了神殿的地下！
+真是不可思議……</string>
+	<string id="1767">…………</string>
+	<string id="1768">年輕人，可以的話
+就由你使用那柄盾牌如何？</string>
+	<string id="1778">草原的野犬『里波爾』，
+總之，速度很快要小心哦。</string>
+	<string id="1781">我也被那群家伙圍困，變得這副慘樣。</string>
+	<string id="1782">不過話說……逃到草原的
+巨樹的附近後，
+里波爾就不追過來了。</string>
+	<string id="1786">呣嗚呣嗚……</string>
+	<string id="1788">…………</string>
+	<string id="1789">誒嘿嘿，真是困擾呢……</string>
+	<string id="1790">………………</string>
+	<string id="1793">嗯嗯，嗯嗯……</string>
+	<string id="1795">救命……有狗，里波爾……</string>
+	<string id="1796">…………</string>
+	<string id="1800">你、你是……誰……？</string>
+	<string id="1802">我的名字是……菲娜。
+從很久以前就被關在了這裡。</string>
+	<string id="1803">把我關起來的是披著
+黑斗篷的男人……</string>
+	<string id="1804">是個自由地操縱魔物的非常恐怖的人。</string>
+	<string id="1805">待在這裡的話，你也會很危險的。
+不用管我……請快點走吧。</string>
+	<string id="1810">愿意……幫助我嗎？</string>
+	<string id="1813">亞特魯……</string>
+	<string id="1814">非常感謝……</string>
+	<string id="1818">請不要在意……
+我的事情。</string>
+	<string id="1819">比起那個，您說過
+在尋找著什麼吧？</string>
+	<string id="1820">在這個神殿的地下，
+好像設置有各種各樣的機關。</string>
+	<string id="1821">聽說不識破機關的話，
+有進不去的地方……</string>
+	<string id="1822">請拿著這個。</string>
+	<string id="1826">這個面具是那個黑斗篷的人
+收放在這個房間里的……</string>
+	<string id="1830">亞特魯……
+請快點離開這裡。</string>
+	<string id="1831">被看守的魔物發現了的話會很不妙的。</string>
+	<string id="1834">亞特魯，平安無事嗎？</string>
+	<string id="1835">太好了……</string>
+	<string id="1836">找到要找的東西了是吧。</string>
+	<string id="1837">……誒，愿意帶我離開這裡？</string>
+	<string id="1849">這個面具是那個黑斗篷的人
+收放在這個房間里的……</string>
+	<string id="1852">走到了死胡同呢……</string>
+	<string id="1856">走到了死胡同呢……</string>
+	<string id="1864">這不是帶女人來的地方。</string>
+	<string id="1865">話說，沒事嗎？
+那邊的小姐，臉色很差的樣子……</string>
+	<string id="1866">在山腳的村子里有叫做潔瓦的老婆婆。</string>
+	<string id="1872">哦哦，歡迎來到這邋遢的地方。</string>
+	<string id="1873">不過，小姐。
+沒聽聞過嗎？</string>
+	<string id="1874">這裡是惡名昭著的盜賊的據點哦。</string>
+	<string id="1878">留下金錢和女人！</string>
+	<string id="1879">要是被這麼威脅了的話怎麼辦？
+真是沒有警戒心。</string>
+	<string id="1882">…………</string>
+	<string id="1883">沒、沒事的……亞特魯。</string>
+	<string id="1884">只是稍微有些疲憊而已……</string>
+	<string id="1889">……好像睡得很好呢。</string>
+	<string id="1890">藥物也起效了的樣子，
+睡一晚上就會恢復精神了吧。</string>
+	<string id="1891">不過……真是越聽越覺得不可思議呢。</string>
+	<string id="1893">在長時間被封印了的地下的圣域中
+居然在不知不覺間被魔物筑巢了……</string>
+	<string id="1894">而且，那個孩子一直
+被困在那個圣域之中……
+嗯嗯……全是搞不懂的事情呢。</string>
+	<string id="1898">那個孩子就交給我照顧吧。</string>
+	<string id="1899">不需要擔心。
+經過一段時間後就會醒來吧。</string>
+	<string id="1903">亞特魯……</string>
+	<string id="1904">從地下牢將我救出來，
+真的是非常感覺。
+非常地……高興。</string>
+	<string id="1905">我……只記得
+我的名字叫做菲娜。</string>
+	<string id="1906">曾過著什麼樣的生活……
+又為什麼還會被困在神殿之中……</string>
+	<string id="1907">……都完全沒有印象。</string>
+	<string id="1909">我……究竟是……</string>
+	<string id="1911">……這裡是美好的村落呢。
+潔瓦和大家都是非常親切
+的人。</string>
+	<string id="1912">感覺已經很久沒有如此
+心情安詳過了。</string>
+	<string id="1913">記憶什麼的，想不起來也沒事……
+能就這樣和平地生活下去的話……</string>
+	<string id="1914">時不時地……就會這樣想。</string>
+	<string id="1919">你，不是艾斯塔里亞的人吧？
+還真是有罕見的事呢……
+『暴風雨的結界』居然會漏掉人。</string>
+	<string id="1920">如果，對自己的道路很迷茫的話
+就去拜訪米內亞城鎮內的占卜師吧。
+會給予你什麼建議的吧。</string>
+	<string id="1924">那個水晶是莎拉的……</string>
+	<string id="1925">這樣嗎，你是莎拉找到的劍士吧。</string>
+	<string id="1926">準備去找在神殿中的
+『伊蘇之書』嗎……</string>
+	<string id="1927">那麼，帶上這把鑰匙吧。</string>
+	<string id="1931">山上的神殿聽說在很久以前
+被稱為『薩爾蒙神殿』。</string>
+	<string id="1932">如果存在伊蘇之書的話……
+恐怕，會是在圣域#02神殿的地下#00吧。</string>
+	<string id="1933">雖然通往地下的入口被封印了
+但那個水晶應該會打開道路。</string>
+	<string id="1934">總之，不知道會發生什麼事。
+完全準備周全後再出發。</string>
+	<string id="1940">亞特魯……！</string>
+	<string id="1941">這個孩子的話，不用擔心哦。
+已經非常精神了。</string>
+	<string id="1942">好像只是因為疲憊而發燒了而已。</string>
+	<string id="1943">……對不起，亞特魯。</string>
+	<string id="1944">還沒道謝就倒下了……</string>
+	<string id="1945">真的非常感謝你……
+救了我。</string>
+	<string id="1956">這個孩子，暫時由我來照顧。</string>
+	<string id="1960">這樣嗎……
+真的在神殿中發現了伊蘇之書嗎。</string>
+	<string id="1962">命運的紡車……開始轉動了嗎……</string>
+	<string id="1963">…………</string>
+	<string id="1966">哦呀，怎麼了。
+你臉色有些差哦？</string>
+	<string id="1968">…………</string>
+	<string id="1969">……這樣嗎。</string>
+	<string id="1970">確實有過……不好的預感。</string>
+	<string id="1975">莎拉自己也有……
+覺悟到了自己的命運的跡象……</string>
+	<string id="1977">在意莎拉的事情嗎？
+那個孩子完全理解自己的命運。</string>
+	<string id="1978">有為她傷心的心的話
+還請幫著完成那個孩子留下的事情。</string>
+	<string id="1986">……為何，被困在
+那種地方……</string>
+	<string id="1987">對于現在的我來說……還不明了。</string>
+	<string id="1988">我所記得的只有在牢房內的一點記憶
+和自己的名字而已……</string>
+	<string id="1989">想要回想起以前的事情的話，
+就會覺得頭很痛……</string>
+	<string id="1991">一段時間內，會在潔瓦家
+受到照顧。</string>
+	<string id="1992">那個……空閑的時間就可以，
+能來見我的話會很高興的……</string>
+	<string id="1996">哦呀，是你嗎。
+菲娜的話，應該正在村子里散步。</string>
+	<string id="1997">……怎麼了。
+你臉色有些差哦？</string>
+	<string id="1999">…………</string>
+	<string id="2000">……這樣嗎。</string>
+	<string id="2001">確實有過……不好的預感。</string>
+	<string id="2003">莎拉自己也有……
+對自己的命運做好了覺悟的跡象……</string>
+	<string id="2004">…………</string>
+	<string id="2007">在意莎拉的事情嗎？
+那個孩子完全理解自己的命運。</string>
+	<string id="2008">有為她傷心的心的話
+還請幫著完成那個孩子留下的事情。</string>
+	<string id="2014">……聽說古代伊蘇王國由兩名女神和
+六名神官所治理。</string>
+	<string id="2015">我和莎拉是神官托瓦的後裔。
+特別是莎拉繼承了神官很強的力量……</string>
+	<string id="2018">……也不能一直
+悲傷下去呢。</string>
+	<string id="2019">為了繼承莎拉的遺志……
+請讓我盡可能地協助。</string>
+	<string id="2020">不管怎麼說，你都是
+那個孩子找出來的劍士。</string>
+	<string id="2021">那麼……總之先是『伊蘇之書』呢。</string>
+	<string id="2022">在莎拉不在了的情況下，
+能讀懂那古代文字的人
+恐怕只有我了吧。</string>
+	<string id="2033">這就是在神殿中的東西嗎……</string>
+	<string id="2037">這不是我們托瓦家丟失的
+伊蘇之書嗎……</string>
+	<string id="2041">原來在廢坑的深處……
+那種地方嗎。</string>
+	<string id="2044">寫在這本書里的內容，
+一定能指明這一連串的事件背後
+所隱藏著的真相才對。</string>
+	<string id="2045">暴風雨的結界……魔物的出現……
+銀制品的偷盜事件……</string>
+	<string id="2046">以及沙拉的死……</string>
+	<string id="2047">……這全部的事件肯定都是
+發生在同一條非常寬廣的
+河流之中的。</string>
+	<string id="2048">能解讀那個的人只有你吧。</string>
+	<string id="2057">剛才，村里的人說了奇怪的話。</string>
+	<string id="2058">說是能從草原吹來的風中
+聽到不可思議的聲音。</string>
+	<string id="2059">說不定，那個聲音的主人，
+會是草原中的雙子之樹『羅妲』。</string>
+	<string id="2060">聽說曾經，這片地方的人類，通過吃其種子，
+能夠和兩棵羅妲之樹進行對話。</string>
+	<string id="2064">伊蘇之書全部為六冊……</string>
+	<string id="2065">剩下的三冊肯定在#02達姆之塔#00中。</string>
+	<string id="2066">畢竟那裡是和神殿
+一樣古老的遺跡。</string>
+	<string id="2067">拜托我的兒子#02古邦#00
+幫你打開塔的入口吧。</string>
+	<string id="2068">你已經是獨當一面的劍士了。</string>
+	<string id="2069">雖說是莎拉所預言過的人……
+但真虧你能成長到這個程度。</string>
+	<string id="2072">達姆是意味著『魔』的
+古代的言語。</string>
+	<string id="2073">在那座塔中，最好不要相信
+自己的常識。</string>
+	<string id="2078">亞特魯聽了蕾雅的
+口琴了嗎？</string>
+	<string id="2079">我感覺……並不是第一次聽到……
+那個音色……</string>
+	<string id="2080">有種，特別懷念的心情……</string>
+	<string id="2082">最近，在跟潔瓦學習
+各種各樣的事情。</string>
+	<string id="2083">草藥的調和方法……
+占卜的方法……
+艾斯塔里亞的文化與歷史……</string>
+	<string id="2084">感覺每天都過得很充實。</string>
+	<string id="2085">在神殿的時候，成天都只是被
+自己是什麼人的不安所困擾……</string>
+	<string id="2086">……說實話，現在也有些恐懼。</string>
+	<string id="2087">但是那個時候……
+亞特魯拉住了我的手……</string>
+	<string id="2088">給予了我勇氣……</string>
+	<string id="2092">我不知道……亞特魯
+身處在什麼事件之中。</string>
+	<string id="2093">所以，不會說請你不要走。
+但是……希望能做個約定。</string>
+	<string id="2094">……求你，一定要平安無事……</string>
+	<string id="2111">哦哦……！</string>
+	<string id="2112">年輕人，從哪里來的？</string>
+	<string id="2113">……這樣嗎，從巴爾巴多而來啊。
+是布魯多殿下的相識的話就安心了。</string>
+	<string id="2114">稍微，有些不想讓村里的人
+知道的話……</string>
+	<string id="2115">這之後說的事情
+可以請你保密嗎？</string>
+	<string id="2120">這個村子的象征
+
+		#02銀鈴#00被盜賊偷走了。</string>
+	<string id="2121">不論如何也想要取回來。
+最壞的情況，可以付給他們金錢。</string>
+	<string id="2122">年輕人……
+可以幫忙和盜賊進行交涉嗎？
+實在是難以拜托村里的人……</string>
+	<string id="2127">是嗎，真是感謝！</string>
+	<string id="2128">#02盜賊的據點#00好像在
+村子北方的山道之上。</string>
+	<string id="2129">遇到首領後請幫我傳話。
+只要是能付出的范圍，就不惜花錢。</string>
+	<string id="2131">……那麼，就拜托你了。</string>
+	<string id="2136">請千萬不要將『銀鈴』被盜一事
+泄露給村子里的人。</string>
+	<string id="2138">這樣嗎……
+畢竟你也有自己的事情。</string>
+	<string id="2143">哦哦，你愿意……</string>
+	<string id="2144">聽我說話了嗎？</string>
+	<string id="2145">哦哦，你愿意幫忙……</string>
+	<string id="2146">和盜賊們
+進行交涉嗎？</string>
+	<string id="2148">怎麼會……
+偷走銀鈴的居然不是盜賊？</string>
+	<string id="2149">無法置信……！
+除了那些家伙誰會做這種事？</string>
+	<string id="2152">村里的人目擊到了身披
+黑色斗篷的男人爬上了
+山道啊！</string>
+	<string id="2154">如果偷走鈴鐺的人不是盜賊的話，
+究竟是誰……為了什麼……？</string>
+	<string id="2156">哦哦，那正是銀鈴……
+難道你盜賊那裡奪回它來了嗎？</string>
+	<string id="2157">……什麼，不是盜賊的所為？
+在神殿的地下？</string>
+	<string id="2158">嗯嗯……真是莫名其妙。</string>
+	<string id="2159">總之，要答謝你才行。</string>
+	<string id="2160">……對了。
+拿上這個戒指吧。</string>
+	<string id="2165">那是我家代代相傳的家寶。
+應該能進一步喚醒你的力量。</string>
+	<string id="2167">受到了你很大的關照。
+好好休息吧。</string>
+	<string id="2188">真是不要命的小子呢。
+到這種地方干什麼來了？</string>
+	<string id="2190">不會是一個人，
+來整治盜賊來了吧。</string>
+	<string id="2193">……我們在四處騷擾城鎮？</string>
+	<string id="2194">呵，別開玩笑了。</string>
+	<string id="2195">不要誤會了。
+不法之徒也有規定。</string>
+	<string id="2196">雖然會從無德的財主那裡撈錢，
+但絕不會從流淌著血汗掙錢的人
+手中偷盜。</string>
+	<string id="2197">不止如此……
+我們這裡也在丟東西。
+而且也盡是銀制品。</string>
+	<string id="2200">你拿著很有趣的東西嘛。
+那個面具是在神殿中發現的吧？</string>
+	<string id="2204">那是『托瓦之章』……</string>
+	<string id="2205">這樣嗎……
+莎拉所說的劍士
+就是指的你嗎……</string>
+	<string id="2206">……莎拉的事情聽說了。</string>
+	<string id="2207">雖然也流傳著我們是犯人的傳言，
+但找錯門也要有個限度。</string>
+	<string id="2210">莎拉……
+是我的表妹……</string>
+	<string id="2211">殺害莎拉的一定是『那家伙』才對。</string>
+	<string id="2212">黑色斗篷的男人……
+在艾斯塔里亞各地強搶銀制品
+裝成是我們的所為的男人。</string>
+	<string id="2213">明明還差一點就能抓到尾巴了……</string>
+	<string id="2216">從老媽那裡聽說了。
+說是要去達姆之塔尋找伊蘇之書對吧。</string>
+	<string id="2217">自從出現了暴風雨的結界，
+那個塔中開始徘徊起大量的魔物士兵。</string>
+	<string id="2218">我們盜賊團雖然想要從塔鐘打盡魔物，
+但反而遭到了回擊。</string>
+	<string id="2219">光士兵的話就算了……
+但面對巨大怪物毫無還手之力。</string>
+	<string id="2220">我的右腕叫做#02多奇#00的男人也失蹤了……
+大概已經不在世上了吧。</string>
+	<string id="2221">達姆之塔就是如此危險的地方。</string>
+	<string id="2222">不可以放半桶水的家伙進去。</string>
+	<string id="2226">嗯……</string>
+	<string id="2227">能夠熟練運用那個銀盾和
+銀鎧甲以及銀劍的話，
+說不定能成功……</string>
+	<string id="2228">……好吧。
+給你開門。</string>
+	<string id="2232">稍微等下！
+你所持有的翅膀……</string>
+	<string id="2233">達姆之塔的周圍，
+被張開了強力的結界。</string>
+	<string id="2234">不小心使用後，不會飛到外邊
+而會陷入墻壁之中或墮落深淵。</string>
+	<string id="2239">那裡的石造門是單程的，
+進去之後就無法從對面
+打開了。</string>
+	<string id="2240">而且，聲音也會被阻隔起來。
+所以不能簡單地放你出來。</string>
+	<string id="2241">但是，在塔之中
+最多也就能待上一天吧。</string>
+	<string id="2242">所以，明天早晨……
+就算沒有得到伊蘇之書，
+也一定要回到門前。</string>
+	<string id="2243">那個時候，給你開門。</string>
+	<string id="2246">憑你的裝備的話，
+恐怕無法和塔里的魔物相抗衡吧。</string>
+	<string id="2247">就算是莎拉找出來的劍士
+但也太過勉強了。</string>
+	<string id="2249">在達姆之塔，失去了眾多的部下。
+不能讓你踏上後塵。</string>
+	<string id="2250">不行……放棄吧。</string>
+	<string id="2251">在塔的上方，
+還有不得了的怪物……</string>
+	<string id="2258">什麼……
+你說我們偷了『銀鈴』？</string>
+	<string id="2259">那真是天大的誤會。</string>
+	<string id="2260">我們也知道『銀鈴』
+是澤辟庫村的象征。</string>
+	<string id="2264">我們還沒有落魄到偷那種東西，
+踐踏別人的心靈。</string>
+	<string id="2265">雖然信不信由你，
+但那確實不是我們的所為。</string>
+	<string id="2266">雖然信不信由你。</string>
+	<string id="2269">你說什麼……黑斗篷的男人？</string>
+	<string id="2270">那家伙和我們沒有任何關系。
+不光如此，我們也在尋找那家伙的所在。</string>
+	<string id="2271">信不信是你和村長的自由。</string>
+	<string id="2272">…………</string>
+	<string id="2273">你所持有的就是『銀鈴』。
+如何，解開懷疑了嗎？</string>
+	<string id="2274">不過話說……
+你說藏在神殿的地下？</string>
+	<string id="2278">不認為魔物們有那樣的智慧。
+這也是『那家伙』的所為嗎……</string>
+	<string id="2282">我年輕的時候，聽說過
+在這片土地傳承的古文書的傳聞。
+說是那之中記載著很久以前從災難中
+拯救了這個國家的女神的事情。</string>
+	<string id="2287">少年啊，請聽我說！</string>
+	<string id="2288">那是在這個湖畔的棧橋發生的事。
+教一名美麗的少女用草吹笛子的方法後，
+對方非常地高興。</string>
+	<string id="2293">以前，在我還在銀礦山工作的時候，
+在坑道的深處發現了奇妙的房間。
+那裡被藍白色的光芒所充斥著，
+內部放有兩座美麗的女神像。</string>
+	<string id="2294">因為過於神圣了，
+所以大家說一定是礦山的守護神，
+我們礦工每天都有
+進行祈禱……</string>
+	<string id="2298">潔瓦家里來了年輕的姑娘呢。
+試著搭過一次話，是個很有禮貌的
+感覺很有溫和的小姐。</string>
+	<string id="2305">雖然大家都很厭惡盜賊的樣子，
+但身為首領的古邦可是個了不起的男人。</string>
+	<string id="2310">哦，和古邦說了話嗎。
+看不出來只是一般的盜賊吧？</string>
+	<string id="2315">不可以靠近山上的神殿。
+聽說有戴著頭巾的亡靈出現。</string>
+	<string id="2318">什麼……你打到了在山上神殿中的
+戴著頭巾的亡靈了嗎？</string>
+	<string id="2320">雖然好像沒有神殿的亡靈了……
+但這次好像在換到草原有不可思議的現象了。</string>
+	<string id="2324">因為這個村子里有很多上年紀的人，
+所以要是被魔物襲擊了的話，
+會不堪一擊吧。</string>
+	<string id="2330">『達姆之塔』的旁邊
+不知何時出現了盜賊的據點。
+而且，聽說特意擋住了
+塔的入口。</string>
+	<string id="2333">你好，亞特魯。</string>
+	<string id="2334">拖了亞特魯的服，
+能夠讓村里的各位聽到
+我的口琴聲了。</string>
+	<string id="2335">真的是非常感謝。
+請讓我再次向你道謝。</string>
+	<string id="2336">那麼，我就此失禮了。
+希望……能夠再次相見。</string>
+	<string id="2339">在向西擴展的草原上，
+生長著２棵巨大的樹哦。</string>
+	<string id="2340">一棵位于從這裡向南行走的地方，
+另一棵在銀礦山的西側的對面。</string>
+	<string id="2345">能聽到蕾雅下次的口琴
+會是在什麼時候了呢……</string>
+	<string id="2346">好像一個人在艾斯塔里亞城鎮和村落
+之間四處演奏著……
+真擔心會不會被魔物襲擊。</string>
+	<string id="2350">這之前，看到了可疑的家伙。
+披著黑色斗篷的
+感覺非常悶熱的打扮，
+快步從村子北口出去了。</string>
+	<string id="2357">盧達那家伙，
+又不見了嗎……
+讓那麼美麗的夫人擔心，
+真是罪孽深重的家伙啊。</string>
+	<string id="2359">知道嗎？
+現在村子里有著非常
+漂亮的女子哦。</string>
+	<string id="2363">村長的樣子很奇怪。
+發著呆
+徘徊在村子里。</string>
+	<string id="2365">村長哼著小曲在村里
+散步來著。</string>
+	<string id="2370">蕾雅小姐的口琴
+真是美妙啊……</string>
+	<string id="2374">這個村子里有著叫做『潔瓦』的
+不可思議的老婆婆。</string>
+	<string id="2379">啊，你就是亞特魯吧？
+從菲娜那裡聽說了。
+你救了她是吧。</string>
+	<string id="2385">米內亞真是夠嗆呢。
+聽說盜賊們
+四處出沒騷擾啊。</string>
+	<string id="2391">去湖畔的岸邊看過了嗎？
+是非常漂亮的地方
+最好去看看吧。</string>
+	<string id="2396">菲娜姐姐真是美人呢。
+而且感覺很溫暖，溫柔……</string>
+	<string id="2403">……今天從天空下魚了。
+艾斯塔里亞真是不可思議的國家……</string>
+	<string id="2406">今早，醒來之後
+到處都看不到
+丈夫盧達的身影。</string>
+	<string id="2411">誒……
+盧達曾待在
+巴爾巴多城鎮！？</string>
+	<string id="2412">啊啊神啊，感謝您……！</string>
+	<string id="2413">……那麼，盧達現在呢？</string>
+	<string id="2422">不過話說，
+『那家伙』還真是神出鬼沒啊……</string>
+	<string id="2424">頭領心情不好得讓人感到恐怖呢。
+……不過，也沒有辦法嗎。</string>
+	<string id="2427">其實，頭領也很想闖入
+達姆之塔才是。</string>
+	<string id="2428">但是我們必須抓住
+殺害了莎拉小姐
+的家伙。</string>
+	<string id="2435">達姆之塔全是魔物。
+還有用劍和鎧甲武裝起來的家伙。</string>
+	<string id="2437">你是從暴風雨的結界外來的對吧。
+我們的同伴多奇也是從大陸渡海
+而來的。</string>
+	<string id="2440">沒想到會讓你這樣的孩子
+進到達姆之塔之內啊……
+真是猜不透頭領怎麼想的。</string>
+	<string id="2441">聽好，覺得危險的時候就逃到外邊的回廊。
+應該很少會有魔物追過來。</string>
+	<string id="2446">……真的可以嗎？
+自警團的人也說過，
+有空的時候會護送到澤辟庫村。</string>
+	<string id="2447">不需要您擔心。
+能想辦法一個人回去。</string>
+	<string id="2448">也想快點
+讓妻子安心下來……</string>
+	<string id="2449">是嗎，我明白了。</string>
+	<string id="2450">夢游癥嗎……
+我真是沒轍了。
+真是不好意思啊。</string>
+	<string id="2451">才不會。
+真的是非常感謝。</string>
+	<string id="2456">哦哦，亞特魯君。
+還精神嗎？</string>
+	<string id="2457">什麼，剛才的人嗎？
+是澤辟庫村的盧達君。</string>
+	<string id="2460">嗯嗯……
+夢游癥還真是麻煩呢。</string>
+	<string id="2464">剛才的先生，明明還很年輕，
+卻有妻子了。</string>
+	<string id="2465">早上起來發現丈夫不在身邊……
+妻子一定會擔心得
+坐立不安吧。</string>
+	<string id="2466">但是，從澤辟庫村來到這裡的路上
+沒有被魔物所襲擊真是太好了呢。</string>
+	<string id="2473">非、非常感謝。
+雖然不知道您是什麼人，
+但真是救了我一命。</string>
+	<string id="2475">哦，記得……
+在巴爾巴多的醫院見過您。</string>
+	<string id="2476">……說晚了。
+我是澤辟庫村的盧達＝潔瑪。</string>
+	<string id="2478">是這樣嗎……
+又讓她擔心了呢。</string>
+	<string id="2479">很慚愧，我好像
+有夢游癥的樣子。</string>
+	<string id="2480">變成現在這樣是在半年前左右……
+從出現了『暴風雨的結界』的時開始。</string>
+	<string id="2481">哦……
+又在不知不覺間
+來到了這種地方。</string>
+	<string id="2487">擔心你是不是被
+魔物襲擊了……？</string>
+	<string id="2489">如您所見，什麼事也沒有。</string>
+	<string id="2491">是這樣嗎……</string>
+	<string id="2493">亞特魯……
+請允許我在此告辭了。</string>
+	<string id="2498">讓妻子擔心了。
+真的是充滿了內疚之情。</string>
+	<string id="2499">但是，我認為這個夢游癥
+是不是有著什麼意義。</string>
+	<string id="2500">……在夢中，聽到了不可思議的聲音。</string>
+	<string id="2501">晶瑩透亮的年輕的女性的聲音，
+如同，在引導我去向哪里一般……</string>
+	<string id="2502">我有著……必須回應
+其呼喚的義務。</string>
+	<string id="2505">承蒙亞特魯的關照了。</string>
+	<string id="2507">盧達真是
+不懂人心……！</string>
+	<string id="2508">『雖然說不定又會發生夢游癥，
+　但一定會回來的，所以不用擔心。』
+……什麼的……</string>
+	<string id="2524">嗚哦！</string>
+	<string id="2525">別、別嚇唬我啊。
+還以為是魔物士兵呢……</string>
+	<string id="2526">沒有見過的面孔……
+不是魔物們的同伴吧？</string>
+	<string id="2529">……對不起，
+現在沒有理會你的功夫。</string>
+	<string id="2531">哦哦……！
+那個偶像不是我的嗎！</string>
+	<string id="2532">這樣嗎，多奇拜托的嗎。
+感謝你送過來。</string>
+	<string id="2533">我的名字叫做拉瓦。</string>
+	<string id="2534">也算是個學者。
+半年前，為了調查古代遺跡，
+來到了艾斯塔里亞。</string>
+	<string id="2535">但是，在調查這座塔的時候
+突然涌現出了魔物。</string>
+	<string id="2536">那之後，就被關在了這裡。</string>
+	<string id="2537">……這個像是我的救生索。
+秘藏有各種不可思議的力量。</string>
+	<string id="2539">帶在身上的話，
+可以完全去除掉自己的氣息。</string>
+	<string id="2540">正因為有這個，
+才能活到現在。</string>
+	<string id="2541">……那麼，年輕人。
+為什麼進入到了這座塔中呢？</string>
+	<string id="2542">看起來，準備了像樣的裝備呢。
+有什麼目的才來的吧？</string>
+	<string id="2544">……這樣嗎……</string>
+	<string id="2545">果然，是那樣的嗎！</string>
+	<string id="2546">『伊蘇』這個名字，
+在大陸的古文書中
+也會經常登場。</string>
+	<string id="2547">通過被稱為『魔法』的不可思議的力量
+和閃著白銀光芒的金屬而極度繁榮過的國家。</string>
+	<string id="2548">但是，古代王國『伊蘇』的名字
+以某個時期為界限，從歷史上消失了身影。</string>
+	<string id="2549">事到如今，
+已經連曾經所在的位置都不知道了。</string>
+	<string id="2550">在我們學者之間，
+也只是將這個名字作為了
+常見的理想鄉傳說而已。</string>
+	<string id="2551">但是，那個『伊蘇』確實在
+這片艾斯塔里亞大地上存在過。
+我的假說是正確的……！</string>
+	<string id="2552">……根據傳達了伊蘇消失的
+信息的少數文獻，當時也發生了
+像是『暴風雨的結界』似的東西。</string>
+	<string id="2553">持續數年的暴風雨的結界消失後，
+『伊蘇』面目全非，在荒蕪的大地上
+聳立著直入云霄的巨大的塔。</string>
+	<string id="2554">艾斯塔里亞的傳送典故的部族是這麼說的……
+突然，現身出來的魔物的軍團，蹂躪了國土，
+一夜之間，國土和國民消失了一半。</string>
+	<string id="2555">然後，剩下的魔物們建造了
+這個『達姆之塔』。</string>
+	<string id="2556">但是，塔建成後沒多久
+魔物們就消失了，災難也過去了。</string>
+	<string id="2557">那之後，經過數百年……
+這片土地的人們已經忘記了過去的災難。</string>
+	<string id="2558">……但是災難，
+並不是真的過去了。</string>
+	<string id="2559">你也有感覺到吧？
+現在這個塔中存在著什麼人的意志。</string>
+	<string id="2560">被統率的魔物士兵以及邪惡的陷阱……
+肯定有人在背後操縱著這一切才對。</string>
+	<string id="2562">那個人的目的是什麼……
+感覺有必要查明這點。</string>
+	<string id="2564">……事情先說到這裡，
+話說你打算就這樣探索塔內嗎？</string>
+	<string id="2565">那麼，帶上這個吧。</string>
+	<string id="2583">……看來是注意到了呢。</string>
+	<string id="2584">你好，初次見面。
+我是住在澤辟庫村的
+叫做盧達＝潔瑪的人。</string>
+	<string id="2585">很慚愧，
+我有夢游癥。
+回過神來，就彷徨在這座塔中了。</string>
+	<string id="2586">勉強躲開魔物士兵的視線，
+四處逃竄來著……</string>
+	<string id="2589">亞特魯……
+沒想到會在這種地方見面……</string>
+	<string id="2590">我好像有發生了夢游癥。
+回過神來，就彷徨在這座塔中了。</string>
+	<string id="2592">亞特魯
+憑自己的意識進入到這座塔中的嗎？
+怎麼說呢……真是亂來的人呢。</string>
+	<string id="2593">但是，很不可思議呢。
+看不到你眼中有任何迷茫。</string>
+	<string id="2594">和我不同，不是純粹地被什麼所引導，
+而是靠自己的意志來到這裡……讓人能感到那份堅強。</string>
+	<string id="2595">……對了，這座塔里好像
+還有我們以外的人哦。</string>
+	<string id="2599">年輕人，來幫助你嘍。</string>
+	<string id="2600">我叫做多奇，請多指教了！</string>
+	<string id="2601">詳細的事情之後再問
+總之，先快點逃離這裡吧。</string>
+	<string id="2602">……話雖如此，這座塔里
+設置有許多陰險的陷阱。
+隨便亂跑的話，又會被抓住。</string>
+	<string id="2603">向上３層左右02在#並排著石像的通路#00叫做
+
+		#02拉瓦#00的老人藏在那裡。</string>
+	<string id="2604">是對這座塔非常詳細的老爺爺。
+見到他試著問問話吧。</string>
+	<string id="2610">請你先逃。</string>
+	<string id="2613">給我適可而止啊！！
+破壞這個墻壁也是很幸苦的啊。</string>
+	<string id="2616">真是的，給我適可而止啊！！
+多次破壞這個墻壁是很幸苦的啊。</string>
+	<string id="2620">喲，又見面了呢。
+是我啊，多奇。</string>
+	<string id="2621">如此大張旗鼓地行動，
+虧你沒事啊。</string>
+	<string id="2622">話說，你……
+為什麼，來到了這麼危險的地方？</string>
+	<string id="2624">……是那樣嗎。
+也見到了古邦頭領嗎。</string>
+	<string id="2625">讓頭領和伙伴擔心了呢……</string>
+	<string id="2626">見到拉瓦了吧？
+雖然是有點奇怪的老爺子，
+但確實是我的救命恩人。</string>
+	<string id="2627">在快要被魔物殺掉的時候，
+用那偶像的力量救助了我。</string>
+	<string id="2628">為了報恩，在協助調查的時候
+一不注意錯過了回去的機會。</string>
+	<string id="2633">說來……
+在那裡應該有個杖，上邊的裝飾
+和你持有的水晶的裝飾十分相似。</string>
+	<string id="2634">有聽說過想要去塔的上層的話
+需要那個杖。</string>
+	<string id="2637">不過，亞特魯……
+真是挺努力的樣子呢。</string>
+	<string id="2638">有什麼我能幫忙的事情盡管說。
+力量活的話，可是很拿手的？</string>
+	<string id="2640">……是嗎，頭領他……</string>
+	<string id="2641">明白了，受傷了的人們
+由我來背送到出口吧。</string>
+	<string id="2642">在拉德之塔內的女孩子
+也有我負責帶領到出口去。</string>
+	<string id="2643">所以，你就安心毆打
+在塔頂端的黑幕去吧。</string>
+	<string id="2646">……受傷了的人們
+由我來背送到出口吧。</string>
+	<string id="2648">那把杖是……</string>
+	<string id="2649">頭領的老娘所說的
+大概就是那把杖吧。</string>
+	<string id="2650">拿著它的話，
+應該就可以去到塔的上層了。</string>
+	<string id="2651">但是，上層中應該有著
+更兇惡的魔物。</string>
+	<string id="2655">喲，是你嗎……</string>
+	<string id="2656">真是慚愧，被魔物發現後，
+被關在了這種地方。</string>
+	<string id="2657">那個偶像也被魔物……
+砸壞了。</string>
+	<string id="2658">快點逃？
+你不知道『惡魔的回廊』的機關嗎？
+那個聲音會侵蝕人類的生氣。</string>
+	<string id="2660">年輕的你先不說，
+對我這樣老東西來說是辦不到的。</string>
+	<string id="2662">那個惡魔的旋律，
+是通過從外邊進來的風而響起來的。</string>
+	<string id="2663">看來，#02在外邊的一個柱子#00起著
+引入風的通風管的作用。</string>
+	<string id="2668">亞特魯……
+是我，盧達＝潔瑪。</string>
+	<string id="2669">雖然去了拉瓦老人所在的地方，
+但被魔物們發現了……</string>
+	<string id="2670">雖然想辦法逃了過來……
+但腳稍微……受了點傷。</string>
+	<string id="2671">我的話沒事的……
+傷勢並沒有看上去那麼嚴重。</string>
+	<string id="2672">比起那個，從老人那裡聽說了，
+好像有一名少女被帶進了這座塔里。</string>
+	<string id="2678">太好了……
+她沒事的嗎。</string>
+	<string id="2680">但是，明明沒有見過面，
+為什麼會這麼在意那個女孩的事情呢。
+……自己都感到很不可思議。</string>
+	<string id="2683">說來，你所持有的
+那個皮面的書……</string>
+	<string id="2684">我以前有在自己家里見過
+和其類似的書。</string>
+	<string id="2689">哦，那個皮面的書……</string>
+	<string id="2690">你為什麼會有『潔瑪之章』？
+那是我的先祖記錄下的東西。</string>
+	<string id="2691">在我小的時候遺失了，
+一直都不明行蹤。</string>
+	<string id="2692">……很久以前，
+父親跟我講過這樣的話。</string>
+	<string id="2693">收集全六冊伊蘇之書的人
+會得到讓這片土地恢復和平的力量……</string>
+	<string id="2694">……亞特魯。</string>
+	<string id="2696">這是從古相傳于我家的物品。
+還請你收下。</string>
+	<string id="2699">腳傷感覺比想象中還要嚴重……</string>
+	<string id="2700">腳傷感覺比想象中還要嚴重……
+雖然已經輕松了很多……</string>
+	<string id="2701">看來是離不開這裡了。
+請你不要管我先走吧。</string>
+	<string id="2703">亞特魯……
+是我，盧達＝潔瑪。</string>
+	<string id="2704">雖然去了拉瓦老人所在的地方，
+但被魔物們發現了……</string>
+	<string id="2707">雖然想辦法逃了過來……
+但腳稍微……受了點傷。</string>
+	<string id="2710">是你停下了回廊的曲子吧？
+跟你道謝……多虧了你我獲得了自由。</string>
+	<string id="2711">雖然因為沒有像偶像，輕易地被魔物發現
+落到了這個下場……</string>
+	<string id="2712">沒什麼……不需要擔心我的事情。
+比起那個，發生了非常嚴重的事情。</string>
+	<string id="2713">３層之上的回廊連接著叫做
+
+		#02拉德之塔#00的地方。</string>
+	<string id="2714">是個幽閉用的小塔。
+剛才一個姑娘被關在了那裡。</string>
+	<string id="2715">關有姑娘的房間的門，說是只有
+
+		#02邪惡之徒#00才能打開。</string>
+	<string id="2716">能請你想辦法找到打開門的方法，
+救救姑娘嗎？</string>
+	<string id="2717">…………呵。</string>
+	<string id="2721">關有姑娘的房間的門，雖然聽說只有
+
+		#02邪惡之徒#00才能打開……
+但感覺是你的話，能找到打開的方法吧。</string>
+	<string id="2724">這樣嗎，姑娘沒事嗎。
+……稍微放心了。</string>
+	<string id="2725">我……在這裡休息。
+你去尋找伊蘇之書吧。</string>
+	<string id="2729">……什麼，觸摸最上層的門後，
+被火花似的東西彈開了？</string>
+	<string id="2730">嗯……
+看來有強力的結界呢。</string>
+	<string id="2731">雖然我的首飾也秘藏有破邪的力量，
+但是為了打開最上層的門，
+說不定需要秘藏有更強力量的物品才行。</string>
+	<string id="2732">……說來，叫做盧達的青年拿著
+用和首飾相同的礦石做成的護符呢。</string>
+	<string id="2736">那個護符的話，說不定……</string>
+	<string id="2737">……什麼嘛，不是已經有了嗎。</string>
+	<string id="2738">嗯，那個護符的話
+說不定能夠解除施加在
+最上層的門上的結界。</string>
+	<string id="2739">……恐怕最上層存在著
+支配塔的一切事件的元兇。</string>
+	<string id="2740">雖然不知道是什麼人，但最好別認為
+可以用正統的方法與之抗衡。</string>
+	<string id="2744">從盧達君那裡要到了護符嗎……</string>
+	<string id="2748">啊啊……是亞特魯對吧。</string>
+	<string id="2749">好久不見了……我是詩人蕾雅。</string>
+	<string id="2750">一直都相信著你會來到這裡。</string>
+	<string id="2751">其實有想要告訴你的事情，
+……我故意被魔物所捕獲的。</string>
+	<string id="2752">將我關在這裡的是
+
+		#02達爾克＝法克特#00……</string>
+	<string id="2753">是個披著漆黑斗篷的恐怖的男人。</string>
+	<string id="2754">他利用魔物的力量，
+打算將這個艾斯塔里亞化為己有。</string>
+	<string id="2755">不止如此，甚至想要君臨世界……</string>
+	<string id="2756">亞特魯……
+你拿著『伊蘇之書』吧？</string>
+	<string id="2757">全部的伊蘇之書落到他的手里之後，
+這個世界會受到大災難吧。</string>
+	<string id="2758">……還請拜托了。
+請阻止達爾克＝法克特的野心吧。</string>
+	<string id="2759">伊蘇之書只有限定的人物
+才能閱讀。</string>
+	<string id="2760">你有閱讀的權利。</string>
+	<string id="2761">請拿上這個物品。
+閱讀伊蘇文字需要用到它。</string>
+	<string id="2764">……閱讀了六冊伊蘇之書後，
+全部都會真相大白吧。</string>
+	<string id="2766">達姆之塔，
+明明是這麼恐怖的地方……
+卻有種……十分懷念的感覺。</string>
+	<string id="2767">……亞特魯，我這之後
+有著必須要去做的事情。</string>
+	<string id="2768">請不要在意我，
+請……先行前進吧。</string>
+	<string id="2769">然後，還請千萬要小心
+達爾克＝法克特。</string>
+	<string id="2770">他所披著的漆黑的斗篷上編入了叫做
+
+		#02克萊利亞#00的金屬。</string>
+	<string id="2772">#03哦……
+你就是那個占卜師找出來的劍士嗎。</string>
+	<string id="2773">#03虧您能將書收集到那個程度。
+值得夸獎。</string>
+	<string id="2774">#03但是，被得知隱藏在伊蘇之書內的秘密的話，
+我的計劃將會回到起點。</string>
+	<string id="2775">#03為了將『達爾克＝法克特』這個名字流傳于世
+需要你死在這裡。</string>
+	<string id="2783">作為冥界的禮物告訴你件好事吧。
+你從神殿救助的姑娘
+是潔瑪之章中記錄的伊蘇之國的女神。
+她為了封印惡魔
+數百年之間，在地下持續沉睡著。</string>
+	<string id="458">和布魯多對話</string>
+	<string id="459">和護士對話</string>
+	<string id="460">希望得到恢復</string>
+	<string id="461">想要得到藥物</string>
+	<string id="462">停止對話</string>
+	<string id="477">……因為過於疼痛快要流出眼淚了。</string>
+	<string id="493">和布魯多對話</string>
+	<string id="494">和護士對話</string>
+	<string id="495">希望得到恢復</string>
+	<string id="496">想要得到藥物</string>
+	<string id="497">停止對話</string>
+	<string id="556">亞特魯傳達了人們將艾斯塔里亞
+看作是被詛咒了的國家的事情。</string>
+	<string id="564">巴爾巴多</string>
+	<string id="565">艾斯塔里亞</string>
+	<string id="566">暴風雨的結界</string>
+	<string id="567">自警團</string>
+	<string id="568">並沒有什麼</string>
+	<string id="610">亞特魯傳達了想要親眼
+確認事實的想法。</string>
+	<string id="646">亞特魯跟史拉夫講述了以
+出現了巨大的魔物為首的一連串的事件。</string>
+	<string id="649">亞特魯跟史拉夫講述了
+一連串的事件。</string>
+	<string id="650">在尋找『伊蘇之書』的事情。
+以及在神殿發生的不可思議的體驗……</string>
+	<string id="672">亞特魯告訴了史拉夫
+要闖入達姆之塔一事。</string>
+	<string id="863">亞特魯報上了自己的姓名。</string>
+	<string id="882">亞特魯將信交給了蕾雅。</string>
+	<string id="910">知道</string>
+	<string id="911">不知道</string>
+	<string id="915">同意</string>
+	<string id="916">拒絕</string>
+	<string id="972">和店主對話</string>
+	<string id="973">想要挖掘物</string>
+	<string id="974">來賣東西了</string>
+	<string id="975">離開店鋪</string>
+	<string id="1012">藍寶石的戒指</string>
+	<string id="1013">翅膀</string>
+	<string id="1014">鏡子</string>
+	<string id="1015">什麼也不買</string>
+	<string id="1023">購買</string>
+	<string id="1024">不買</string>
+	<string id="1050">購買</string>
+	<string id="1051">不買</string>
+	<string id="1071">購買</string>
+	<string id="1072">不買</string>
+	<string id="1099">紅寶石</string>
+	<string id="1100">項鏈</string>
+	<string id="1101">金臺座</string>
+	<string id="1102">什麼也不賣</string>
+	<string id="1110">販賣</string>
+	<string id="1111">不賣</string>
+	<string id="1134">販賣</string>
+	<string id="1135">不賣</string>
+	<string id="1157">販賣</string>
+	<string id="1158">不賣</string>
+	<string id="1174">和店主對話</string>
+	<string id="1175">購買武器</string>
+	<string id="1176">離開店鋪</string>
+	<string id="1205">短劍</string>
+	<string id="1206">長劍</string>
+	<string id="1207">塔瓦烏茲彎刀</string>
+	<string id="1208">什麼也不買</string>
+	<string id="1212">購買</string>
+	<string id="1213">不買</string>
+	<string id="1223">購買</string>
+	<string id="1224">不買</string>
+	<string id="1234">購買</string>
+	<string id="1235">不買</string>
+	<string id="1243">和店主對話</string>
+	<string id="1244">購買鎧甲</string>
+	<string id="1245">購買盾牌</string>
+	<string id="1246">離開店鋪</string>
+	<string id="1259">鎖甲</string>
+	<string id="1260">鎧甲</string>
+	<string id="1261">反傷甲</string>
+	<string id="1262">什麼也不買</string>
+	<string id="1266">購買</string>
+	<string id="1267">不買</string>
+	<string id="1277">購買</string>
+	<string id="1278">不買</string>
+	<string id="1284">購買</string>
+	<string id="1285">不買</string>
+	<string id="1290">小盾</string>
+	<string id="1291">中盾</string>
+	<string id="1292">大盾</string>
+	<string id="1293">什麼也不買</string>
+	<string id="1297">購買</string>
+	<string id="1298">不買</string>
+	<string id="1304">購買</string>
+	<string id="1305">不買</string>
+	<string id="1311">購買</string>
+	<string id="1312">不買</string>
+	<string id="1321">和護士對話</string>
+	<string id="1322">想治療傷口</string>
+	<string id="1323">想得到藥物</string>
+	<string id="1324">停止對話</string>
+	<string id="1344">獲得治療</string>
+	<string id="1345">果然還是算了</string>
+	<string id="1358">購買</string>
+	<string id="1359">不買</string>
+	<string id="1370">和主人對話</string>
+	<string id="1371">和肌肉男對話</string>
+	<string id="1372">和獨眼男對話</string>
+	<string id="1373">離開</string>
+	<string id="1398">一起喝</string>
+	<string id="1399">不必了</string>
+	<string id="1423">問</string>
+	<string id="1424">不問</string>
+	<string id="1801">亞特魯報上自己的姓名
+說明了來訪神殿的原因。</string>
+	<string id="1838">被關在牢里的少女的事情
+讓人在意。</string>
+	<string id="1840">菲娜沒有跟過來。
+好像扔在了後邊。</string>
+	<string id="1844">有通往地下的階梯。</string>
+	<string id="1846">有通往地下的階梯。</string>
+	<string id="1949">和潔瓦對話</string>
+	<string id="1950">和菲娜對話</string>
+	<string id="1951">停止對話</string>
+	<string id="1961">潔瓦的眼神有些寂寞。</string>
+	<string id="1967">亞特魯將莎拉的死訊傳達給了潔瓦。</string>
+	<string id="1981">和潔瓦對話</string>
+	<string id="1982">和菲娜對話</string>
+	<string id="1983">讓幫著讀書</string>
+	<string id="1984">停止對話</string>
+	<string id="1998">亞特魯將莎拉的死訊傳達給了潔瓦。</string>
+	<string id="2011">和潔瓦對話</string>
+	<string id="2012">讓幫著讀書</string>
+	<string id="2013">停止對話</string>
+	<string id="2028">哈達爾之章</string>
+	<string id="2029">托瓦之章</string>
+	<string id="2030">達比之章</string>
+	<string id="2031">停止閱讀</string>
+	<string id="2052">和潔瓦對話</string>
+	<string id="2053">和菲娜對話</string>
+	<string id="2054">讓幫著讀書</string>
+	<string id="2055">停止對話</string>
+	<string id="2102">哈達爾之章</string>
+	<string id="2103">托瓦之章</string>
+	<string id="2104">達比之章</string>
+	<string id="2105">停止閱讀</string>
+	<string id="2118">是</string>
+	<string id="2119">否</string>
+	<string id="2125">同意</string>
+	<string id="2126">拒絕</string>
+	<string id="2181">和盜賊的首領對話</string>
+	<string id="2182">進行交涉</string>
+	<string id="2183">離開此地</string>
+	<string id="2184">因為害怕而停止</string>
+	<string id="2477">亞特魯報上自己的姓名
+傳達了夫人在四下尋找的事情。</string>
+	<string id="2510">掠過草原的涼風
+溫柔地搖動著大樹的梢頭。</string>
+	<string id="2512">掠過草原的涼風
+溫柔地搖動著大樹的梢頭。</string>
+	<string id="2514">掠過草原的涼風
+溫柔地搖動著大樹的梢頭。</string>
+	<string id="2517">掠過草原的涼風
+溫柔地搖動著大樹的梢頭。</string>
+	<string id="2543">亞特魯敘說了為了尋找伊蘇之書
+侵入進了達姆之塔的事情。</string>
+	<string id="2570">回過神來，已經處在牢房之中。</string>
+	<string id="2572">回過神來，又是處在牢房之中。</string>
+	<string id="2623">亞特魯將侵入到塔內的經過
+跟多奇進行了說明。</string>
+	<string id="2639">亞特魯傳達了古邦明早會打開
+塔的出口的情報，並將傷員的
+救出活動拜托給了對方。</string>
+	<string id="2805">使用了大理石鑰匙。</string>
+	<string id="2814">削掉堅硬的表皮，
+啃了果肉的部分。</string>
+
+
+
+
+	<string id="MENUCONFIG_PREFERENCES">《環境設定》</string>
+	<string id="MENUCONFIG_GRAPHICS">畫面</string>
+	<string id="MENUCONFIG_SOUND">聲音</string>
+	<string id="MENUCONFIG_ETC">移動設定</string>
+	<string id="MENUDIALOG_EXIT">結束游戲</string>
+	<string id="MENUDIALOG_RETURNQUESTION">返回主選單嗎</string>
+	<string id="MENUDIALOG_OK">是</string>
+	<string id="MENUDIALOG_CANCEL">否</string>
+	<string id="MENU_SELECTMODE">請選擇模式</string>
+	<string id="MENU_CHRONICLESMODE">編年史模式</string>
+	<string id="MENU_ORIGINALMODE">原創模式</string>
+	<string id="MENU_SELECTDIFFICULTY">請選擇難易度</string>
+    <string id="MENU_BACK">返回</string>
+	<string id="TEXT_DIARY_BULDO">住在巴爾巴多港口城市的醫生。 
+為被卷入暴風雨的結界之中
+漂流到白色牧神海灘的亞特魯 
+進行了治療。 
+和兒子史拉夫都是頑固的人，
+但好像在護士愛拉面前 
+抬不起頭來。</string>
+	<string id="TEXT_DIARY_IRA">住在巴爾巴多的港口城市的護士。 
+在亞特魯的傷勢治癒之前，親切地
+為其護理。雖然平常很溫柔，
+但好像生氣後會很恐怖， 
+布魯多和史拉夫也無法反抗她的
+話語。順帶一提，現在正在募集
+男朋友。</string>
+	<string id="TEXT_DIARY_STEPHEN">住在巴爾巴多港口城市的青年。 
+雖然是自警團的成員之一，但並 
+不是特別拘泥于保護城鎮的理念。 
+是冷靜地分析事物的類型，
+認為和魔物的戰鬥中，
+偶爾也需要不勉強自己， 
+有敢撤退的勇氣。</string>
+	<string id="TEXT_DIARY_JACOB">住在巴爾巴多港口城市的青年。 
+為了不看丟魔物的動向， 
+一直在屋頂注意著城鎮 
+周圍。 
+勤勉且有耐性，
+作為史拉夫的左膀右臂
+守護著巴爾巴多的安全。</string>
+	<string id="TEXT_DIARY_DRAKE">住在巴爾巴多港口城市的青年。 
+作為自警團的一員在護衛去往 
+米內亞城鎮與澤辟庫村的居民。
+喜歡年長的女性，
+好像對米內亞里的舞者 
+有意思，
+又好像沒有。</string>
+	<string id="TEXT_DIARY_GEORGE">住在巴爾巴多港口城市的老人。 
+有著穩健熟思的性格，
+會給不知該做什麼的年輕人
+各種各樣的啟發。 
+而且好像並不是禿頭， 
+而是每天都在刮。</string>
+	<string id="TEXT_DIARY_FRAN">住在巴爾巴多港口城市的女性。 
+因為銀的交易而喧囂的港口城市
+一瞬間就變回了原來的鄉下小鎮，
+導致心情消沉。 
+偷偷地在每天晚上祈禱
+暴風雨的結界能快點消失。</string>
+	<string id="TEXT_DIARY_PASTOR">住在巴爾巴多港口城市的老人。 
+代代相承的奶酪畜牧家庭，
+主要飼育這皮卡德。 
+因為魔物變得無法放牧了，
+所以現在在城鎮的廣場
+進行飼育。</string>
+	<string id="TEXT_DIARY_MARCO">住在巴爾巴多港口城市的青年。 
+擁有符合年輕人的野心和行動力，
+在港口城市因為貿易充滿活力的時期，
+為了擴展交易范圍而努力過，
+現在因為暴風雨的結界 
+而無法進行貿易， 
+導致心情消沉。</string>
+	<string id="TEXT_DIARY_TRANCE">住在巴爾巴多港口城市的男性。 
+因為突然的災難而心神不定，
+總是在想著一堆悲觀的事情。 
+雖然想一家人移居到
+擁有堅固城墻的米內亞，
+但想到途中被怪物襲擊，
+就很難下定決心。</string>
+	<string id="TEXT_DIARY_REBECCA">住在巴爾巴多港口城市的女性。 
+特蘭斯的妻子，達尼的母親。 
+生在巴爾巴多，成長在巴爾巴多的
+純海濱人，
+在迷惑要不要為了孩子的安全而
+移居到擁有城墻的米內亞。</string>
+	<string id="TEXT_DIARY_DANNY">住在巴爾巴多港口城市的男孩子。 
+正是淘氣時候的孩子，對城鎮外 
+興趣勃勃。想在長大後加入自警團 
+趕走魔物。
+和鄰居的謝利爾關系很好， 
+總是在一起玩。</string>
+	<string id="TEXT_DIARY_BANOA">住在巴爾巴多港口城市的女孩子。 
+雖然父親想要返回大陸， 
+但是自己不想離開有朋友在的
+艾斯塔里亞。 
+其實比達尼還要淘氣，
+甚至計劃通過有魔物的
+街道前去米內亞玩。</string>
+	<string id="TEXT_DIARY_MAYSON">住在巴爾巴多港口城市的貿易商。 
+雖然原本住在都會，但因為銀的交易
+想要投機轉筆錢，帶著家人來到了
+艾斯塔里亞。 
+目的落空，被暴風雨的結界
+困起來後，一直想著返回大陸
+的事情。</string>
+	<string id="TEXT_DIARY_SILVIA">住在巴爾巴多港口城市的女性。 
+梅宋的妻子，謝利爾的母親。 
+雖然表面穩重，但內心堅強， 
+代替不冷靜的丈夫支撐著
+一家人。 
+在被暴風雨的結界所困中之後
+仍然向前看地生活著。</string>
+	<string id="TEXT_DIARY_GERALD">住在巴爾巴多港口城市的男性。 
+雖然在經營酒館，但因為暴風雨
+的結界沒客人來了，而處于開店 
+休業狀態。 
+一邊會想曾經船員們一起
+熱鬧的時期，一邊寂寞地
+度過余下來的時間。</string>
+	<string id="TEXT_DIARY_KARRIN">住在巴爾巴多港口城市的少女。 
+酒館的女服務員， 但是因為
+沒有客人，非常閑。
+為了有效活用時間和
+解除沒有活力的問題，
+考慮要不要加入自警團中。</string>
+	<string id="TEXT_DIARY_REAH">在米內亞城鎮相遇的少女。 
+吹奏口琴的吟游詩人，
+不知從何時起開始出現在了
+米內亞街角。 
+通過音樂加深和城鎮居民的
+心之交流，被男女老少全部人
+所敬慕。</string>
+	<string id="TEXT_DIARY_PRIM">住在米內亞城鎮的女孩子。 
+尤里烏斯和法娜的獨生女， 
+和占卜師師莎拉關系很好。 
+莎拉在尋求「旅行的劍士」， 
+所以看到外表符合條件的人，
+就會搭話讓其去拜訪
+占卜師。</string>
+	<string id="TEXT_DIARY_BANGOR">住在米內亞城鎮的木匠師傅。 
+在尋找翹班的獨眼男・ 
+多尼斯。
+明明工作非常忙， 
+還敢偷懶的家伙，
+準備找到之後暴打一頓
+帶回去。</string>
+	<string id="TEXT_DIARY_DONIS">在米內亞的酒館里的獨眼男。 
+雖然面相兇險，但好像內心很
+淳樸，丟失了重要的東西非常 
+困擾中。 
+翹班喝得酩酊大醉，
+預料被師傅發現後
+會遭到暴打。</string>
+	<string id="TEXT_DIARY_FRANZ">住在米內亞城鎮的老人。 
+對艾斯塔里亞的古代傳承
+非常詳細，當作童話故事
+講給孫子盧卡。和占卜師莎拉 
+是朋友關系，對最近在
+艾斯塔里亞所發生的災難
+感到有不詳的氣息。</string>
+	<string id="TEXT_DIARY_THEODORE">在米內亞的醫院里的青年。 
+因為被里波爾襲擊而受傷入院中。
+逃到聳立在草原上的大樹下，
+獲得了九死一生。 
+不知為何，魔物不去靠近 
+大樹附近。</string>
+	<string id="TEXT_DIARY_BRON">在米內亞的醫院里的青年。 
+想要展示力量
+而去對抗出現在礦山的魔物，
+結果被遭到反擊入院中。 
+雖然受到了重傷，
+卻做著香甜的淫夢，
+看來是有著相當幸福的性格。</string>
+	<string id="TEXT_DIARY_PIM">住在米內亞城鎮的商人。 
+經營著買賣各種各樣的商品的
+交易所，偷盜物品也好遺失物品
+也好只要能賣就不在意。 
+雖然極少同意討價還價， 
+但好像耐心持續交涉下去，
+會有讓步的情況。</string>
+	<string id="TEXT_DIARY_BUCK">住在米內亞城鎮的男性。 
+雖然以前曾在礦山工作，
+但因為出現的魔物現在失業中。 
+雖然大家拼命地進行了抵抗，
+但完全沒有還手之力，
+對廢坑的魔物的恐怖程度
+有了沁入心脾的認識。</string>
+	<string id="TEXT_DIARY_LYDIA">住在米內亞城鎮的女性。 
+佩特魯老人的年輕獨生女。 
+在募集戀人，美形的話
+多少有些怪異的男人也ＯＫ。 
+但是不可以比自己小。 
+看到附近出現過黑色斗篷的
+男人。</string>
+	<string id="TEXT_DIARY_HARRISON">住在米內亞城鎮的老人。 
+夏洛特的父親，艾皮的祖 
+父。雖然曾經一直住在
+拉斯丁村，但村子某天被
+從礦山涌現出來的蝙蝠
+毀滅了。在村子毀滅之時，
+失去了妻子和女婿。</string>
+	<string id="TEXT_DIARY_SARAH">住在米內亞城鎮的占卜師。 
+評價非常高，這次的暴風雨的
+結界和魔物的出現也被預言 
+到了。 
+在從艾斯塔里亞外部前來到此的 
+亞特魯身上看出了什麼， 
+引導其前往有關伊蘇的冒險。</string>
+	<string id="TEXT_DIARY_JEVAH">住在澤辟庫村的老婆婆。 
+是米內亞城鎮的占卜師莎拉
+姨母，對艾斯塔里亞的文化
+與歷史造詣很深。 
+也精通于藥草與占卜的知識，
+受到周圍的村民的
+尊敬。</string>
+	<string id="TEXT_DIARY_LINDA">住在澤辟庫村的女性。 
+就算周圍的狀況改變了，
+也保持一如既往的生活腳步
+的主婦。以「更加舒心的家庭」 
+為座右銘度過著每一天。
+是艾魯巴特的妻子，
+馬克的母親。</string>
+	<string id="TEXT_DIARY_CORBO">住在澤辟庫村的老人。 
+以前，被魔物襲擊了的時候
+得到了救助，
+從此評價古邦 
+算是一個人物，
+無法相信驚擾世間的盜賊
+騷動會是他的所為。</string>
+	<string id="TEXT_DIARY_GOBAN">在盜賊的據點內的盜賊團的首領。 
+雖然被人們所恐懼著， 
+但以「不搶奪弱者的東西」
+為信條，在達姆之塔的腳下
+建立著據點。如信條所言， 
+是個注重道義受到部下信任
+的人。</string>
+	<string id="TEXT_DIARY_LUTHER">住在澤辟庫村的吟游詩人。 
+自從開始出現魔物以後， 
+被夢游癥所困擾，
+在自己毫不知情的時候， 
+彷徨于各種地方。</string>
+	<string id="TEXT_DIARY_DOGI">在塔的地下牢房相遇的男人。 
+擁有豪爽的性格和強大的怪力， 
+將被幽閉在地下牢的亞特魯 
+和盧達，通過擊碎石墻的方法
+救了出來。 
+是盜賊團的一員，古邦的 
+右臂。</string>
+	<string id="TEXT_DIARY_RAUBA">在塔的隱藏房間相遇的學者。
+半年前，為了調查古代遺跡
+來到了艾斯塔里亞。
+那之後，在調查達姆之塔時，
+涌現出魔物，被關在了
+塔中。</string>
+	<string id="TEXT_DIARY_MONS_CURLOYD">棲息于草原的小人族。 
+雖然看起來很瘆人恐怖， 
+但力量很弱不是強力的對手。 
+就算如此，最初可能還是會
+苦戰一番，稍微積累一些經驗後 
+徒手也能打倒吧。</string>
+	<string id="TEXT_DIARY_MONS_RHEBOLL">奔跑在草原的紅色猛犬。 
+是襲擊漂流而來的亞特魯，
+將其送入醫院的仇敵。
+動作靈活會成群襲擊過來，
+很需要注意。最好整理好裝備
+在于其戰鬥。</string>
+	<string id="TEXT_DIARY_MONS_NUBRROW">出沒于廢坑的怪物。 
+雖然外表奇特，個別地方
+還有些滑稽，但和草原的魔物
+完全不是一個強度。 
+不鍛煉到一定程度的話， 
+會被瞬殺的，要小心。</string>
+	<string id="TEXT_DIARY_SLAGHF">住在巴爾巴多港口城市的青年。 
+在白色牧神海灘，救了被
+里波爾襲擊的亞特魯。
+在魔物開始徘徊之後，
+建立自警團想要保護
+城鎮。 
+布魯多的獨生子。</string>
+	<string id="TEXT_DIARY_PETERO">住在巴爾巴多港口城市的漁家。 
+雖然因為暴風雨的結界貿易斷絕了， 
+但積極向上的認為能捕到魚
+暫時就不會餓死。 
+因為本來就是腳踏實地的生活，
+所以好像並不是很在意
+景氣的變動。</string>
+	<string id="TEXT_DIARY_ARSIA">住在巴爾巴多港口城市的女性。 
+自從街道開始出現魔物後，和住在
+米內亞城鎮的朋友沒有了通信，
+十分擔心。 
+現在在考慮要不要拜托自警團
+護衛自己到米內亞。</string>
+	<string id="TEXT_DIARY_DARIA">住在巴爾巴多港口城市的老婆婆。 
+被在米內亞城鎮中兒子夫婦
+勸誘一起同居，但是因為沒有
+離開故鄉巴爾巴多的打算， 
+拒絕了。 
+只是很擔心貪玩的孫子 
+有沒有亂來。</string>
+	<string id="TEXT_DIARY_FANA">住在米內亞城鎮的女性。 
+最近，附近接連出現偷盜現象，
+對盜賊加強了警戒。 
+一邊對有城墻保護感到
+安心，一邊對周圍的變化 
+感到漠然的不安。</string>
+	<string id="TEXT_DIARY_JURIUS">住在米內亞城鎮的男性。 
+為了防止孩子們去到
+危險的外邊，而監視在
+入口附近。最近，看到 
+可疑的斗篷男，感覺到 
+不祥的預感。</string>
+	<string id="TEXT_DIARY_URSCHELL">住在米內亞城鎮的少年。 
+和夸耀力量的哥哥兩人生活， 
+哥哥布隆在礦山受傷 
+入院中。 
+只剩自己一人後也沒有
+特別悲觀，一邊看望哥哥 
+一邊度過每一天。</string>
+	<string id="TEXT_DIARY_AURORA">住在米內亞城鎮的女性。 
+鎮長的女兒，在銀的交易
+盛行的時期，以購物為愛好。 
+不同于外表，性格很堅強，
+在物價飛漲之後， 
+節制了購物，
+正在尋找新的樂趣。</string>
+	<string id="TEXT_DIARY_CORNELL">住在米內亞城鎮的青年。 
+是鎮長的兒子，不知道 
+是不是因為好生活過慣了的緣故，
+比實際年齡要孩子氣。 
+聽聞占卜師莎拉的災難預言後，
+無法抑制住不安之情。</string>
+	<string id="TEXT_DIARY_JOHAN">住在米內亞城鎮的男孩子。 
+開始出現魔物之後 ，
+無法前去中意的巨樹那裡玩了，
+感到非常不滿。 
+好像一度爬過草原北方的
+巨樹後，就無法滿足于城鎮
+街道的樹木了。</string>
+	<string id="TEXT_DIARY_HANS">住在米內亞城鎮的青年。 
+對在城鎮里經營交易所的皮姆多尼斯
+的做法無話可說。在艾斯塔里亞 
+住民之間互相幫助是最基本的 
+常識，面對將遺失的物品都當 
+商品賣的厚顏無恥的程度感到 
+啞口無言。</string>
+	<string id="TEXT_DIARY_HAYSTACK">住在米內亞城鎮的木匠。 
+是因為最近遷居的人變多了嗎， 
+木匠的工作十分繁忙。 
+每次看到巨大的達姆之塔， 
+都會對其無法想象的做工
+感到欽佩。</string>
+	<string id="TEXT_DIARY_LUCCA">住在米內亞城鎮的男孩子。 
+很中意祖父費蘭慈老人講給 
+自己聽的「銀色之劍」的童話。
+想著有一天，
+揮舞那把劍， 
+趕走魔物群。</string>
+	<string id="TEXT_DIARY_OHMAN">米內亞城鎮的酒館的主人。 
+在大陸作為傭兵活躍過的 
+強壯的男人。引退後， 
+開了酒館，但聽聞接連發生
+銀制品偷盜事件，計劃在 
+之後進行一番整治盜賊的 
+活動。</string>
+	<string id="TEXT_DIARY_GARECK">米內亞的酒館內的戰士。 
+為了政治盜賊被酒館的 
+主人所雇用。 
+云游各地享受美食 
+是其畢生事業，在
+艾斯塔里亞尋找
+「羅妲之果」中。</string>
+	<string id="TEXT_DIARY_RICARDO">米內亞的酒館內的青年。 
+和賽扎魯相對而坐，
+一邊說著無關緊要的話，
+一邊喝酒。 
+最近，中意的吟游詩人沒有
+吹奏曲子了的事情讓他有些
+在意。</string>
+	<string id="TEXT_DIARY_CESAR">米內亞的酒館內的醉鬼。 
+雖然以前多喝淡色啤酒和燒酒，
+但最近對啤酒覺醒了， 
+每天都在比喝酒。 
+無比愛酒的24歲。 
+順帶一提預定近期結婚。</string>
+	<string id="TEXT_DIARY_DOUG">米內亞的酒館內的青年。 
+曾在銀礦山工作，魔物
+出現後沒了工作，成天 
+自暴自棄地喝著酒。 
+工作的時候以「今天也
+努力了一天了」為理由 
+在喝酒。</string>
+	<string id="TEXT_DIARY_CHEST">米內亞的酒館內的青年。 
+曾作為艾斯塔里亞的向導， 
+魔物出現後，落到失業的慘痛下場。 
+在發生暴風雨的結界之前， 
+好像帶學者去過山上的遺跡。 
+樂天的性格，讓他在失業中也 
+奇怪地特別開朗。</string>
+	<string id="TEXT_DIARY_NICO">米內亞的酒館內的舞者。 
+雖然通過化妝看起來很有大人味， 
+但還只是剛剛到二十歲而已。 
+討厭消沉的氣氛，為了大家能 
+享受酒館的快樂，在細節上也 
+很為他人著想。</string>
+	<string id="TEXT_DIARY_CLAUSE">住在米內亞城鎮的醫師。 
+魔物出現後變得非常繁忙，
+大多情況反而不在醫院里。 
+城鎮里的人尊敬他是個名醫，
+為了不辜負大家的期待， 
+每天，
+四處奔波。</string>
+	<string id="TEXT_DIARY_LISA">住在米內亞城鎮的護士。 
+代替經常出門的庫拉澤 
+一手包辦入院患者的 
+護理事項。 
+好像患者之中還有
+為了讓莉莎護理祈禱傷勢  
+想慢點恢復的人。</string>
+	<string id="TEXT_DIARY_MASH">在米內亞的醫院里的老人。 
+好像被騷擾城鎮的強盜襲擊了， 
+受到從背後的毆打
+而入院。 
+好像從古傳承的銀之盾也被
+偷了， 
+只能自認倒霉。</string>
+	<string id="TEXT_DIARY_CANE">在米內亞的醫院里的青年。 
+在想從澤辟庫村來到米內亞
+的途中，被里波爾狂追， 
+受了傷。 
+被襲擊的情景好像成了
+陰影，在夢中也被里波爾
+所追趕著。</string>
+	<string id="TEXT_DIARY_CHARM">住在米內亞城鎮的女性。 
+費蘭慈老人的女兒， 
+盧卡的母親。因為父親的影響
+對古老傳承很詳細。據她所言 
+以前曾想過要在米內亞的城墻上
+建造南門來著，但因為墻壁太結實 
+而沒能成功。</string>
+	<string id="TEXT_DIARY_TABITHA">住在米內亞城鎮的女性。 
+巴克的妻子。 
+在擔心身為父親的澤辟庫村
+的村長。 
+好像抱著一副深刻的表情 
+吐露出「不能跟村里的人說」 
+這樣的言語。</string>
+	<string id="TEXT_DIARY_MARCEL">米內亞城鎮的鎮長。 
+被鎮里的大家所信賴的德高望重的人。 
+自從出現魔物之後，不斷出現問題， 
+讓其感到十分心痛。 
+認為光是堅固的城墻可能無法 
+保護好大家， 
+每天都在苦惱。</string>
+	<string id="TEXT_DIARY_PAMELA">米內亞城鎮的鎮長夫人。 
+一邊對襲擊城鎮的難題感到不安， 
+一邊支持著身為丈夫的鎮長。 
+據她而言，作為米內亞的象征的 
+城墻並不是最近才建造而成的，
+而是從很久很久以前就存在了
+的。</string>
+	<string id="TEXT_DIARY_ROSETTI">米內亞城鎮的武器店。 
+在艾斯塔里亞長年經營 
+武器店的出色中年。 
+不光是武器，對戰鬥方法 
+也有很深的造詣，還能看出
+使用者的實力。 
+防具店的迪歐斯的父親。</string>
+	<string id="TEXT_DIARY_DIOS">米內亞城鎮的防具店。 
+從正面否定
+攻擊是最強的防御一說的 
+防具迷。認為活下來才是 
+勝利，會根據使用人提供 
+合適的防具。 
+武器店的洛澤提的兒子。</string>
+	<string id="TEXT_DIARY_BETHEL">住在米內亞城鎮的老人。 
+可能多虧庫拉澤醫生的處方， 
+也頗為精神。 
+雖然最近腰腿變軟弱了， 
+不敢亂來了，但年輕的時候， 
+好像曾攀登到過大樹的 
+天邊。</string>
+	<string id="TEXT_DIARY_FREDDY">住在米內亞城鎮的男性。 
+達莉婭婆婆的獨生子。 
+勸說在巴爾巴多的母親， 
+一起來米內亞住， 
+但是對方不聽勸， 
+很困擾。</string>
+	<string id="TEXT_DIARY_MARTHA">住在米內亞城鎮的女性。 
+弗雷迪的妻子，約翰的母親。 
+自從開始出現魔物之後， 
+讓人呼吸困難的氣氛 
+讓她有些頭痛。 
+好像並不是說被城墻所保護著
+就可以安心了。</string>
+	<string id="TEXT_DIARY_CHARLOTTE">住在米內亞城鎮的女性。 
+雖然之前住在拉斯丁村， 
+但村落在某天被從礦山 
+涌現出的魔物毀滅了。 
+雖然一時間失去了生存的 
+勇氣，但聽到女兒艾皮和蕾雅 
+的演奏聲後奪回了生存的力量。</string>
+	<string id="TEXT_DIARY_EPI">住在米內亞城鎮的女孩子。 
+因為還很年幼，所以沒有 
+理解拉斯丁村被襲擊了的 
+慘劇。 
+祈愿著有一天返回拉斯丁村， 
+大家一起過上和以前 
+一樣的生活。</string>
+	<string id="TEXT_DIARY_ROBERTH">澤辟庫村的村長。 
+代代相傳的「銀鈴」
+是村子的象征。 
+好像抱有著嚴重的麻煩， 
+在尋找村民以外的 
+可以依靠的人。</string>
+	<string id="TEXT_DIARY_MARK">住在澤辟庫村的男孩子。 
+雖然是村里唯一的孩子， 
+但完全不在意這種事，
+精神地和大自然一起玩耍。 
+非常喜歡湖， 
+總是在享受垂釣和曬太陽的
+樂趣。</string>
+	<string id="TEXT_DIARY_EDDA">住在澤辟庫村的老婆婆。 
+喜歡采集山菜與水果的
+婆婆。明明以前能從聳立 
+在草原的大樹上采到美味
+的果實的，但最近不結果了，
+因此感到非常遺憾。 
+艾魯巴特的母親。</string>
+	<string id="TEXT_DIARY_IRIS">住在澤辟庫村的女性。 
+丈夫盧達突然消失身影，
+很擔心去沒去危險的 
+地方。 
+聽說是患了夢游病，
+不知道自己去了 
+哪里。</string>
+	<string id="TEXT_DIARY_CLIVE">住在澤辟庫村的男性。 
+雖然一張老年， 
+但勉強還在二十幾歲。最近，
+開始覺得獨身一人很寂寞了。 
+雖然在募集女友，但澤辟庫村
+多為老人，很少有邂逅的機會，
+讓他很是煩惱。</string>
+	<string id="TEXT_DIARY_ROHAN">住在澤辟庫村的老人。 
+認為既然真有魔物的話， 
+那麼曾經拯救了艾斯塔里亞 
+的存在應該也是真的吧， 
+期待著記錄在古文書上的
+「女神」的出現 。</string>
+	<string id="TEXT_DIARY_PARMA">住在澤辟庫村的少女。 
+因為是老人比較多的村落， 
+所以一直都很擔心有沒有人 
+身體不適。 
+因為村長的樣子很奇怪， 
+所以很擔心是不是身體 
+哪里出了問題。</string>
+	<string id="TEXT_DIARY_KRONEN">住在澤辟庫村的老人。 
+年輕的時候，作為礦工 
+曾在銀礦上工作來著。 
+說是當時，在礦山的深處 
+安置有兩座女神像，
+但不知何時
+少了一座。</string>
+	<string id="TEXT_DIARY_DEMI">住在澤辟庫村的女性。 
+雖然性格內斂，但對誰 
+都很溫柔，被大家所仰慕。 
+有想要詢問的事情的話， 
+會推薦你去尋找叫做潔瓦的 
+博聞強識的人。</string>
+	<string id="TEXT_DIARY_PABLO">住在澤辟庫村的老人。 
+在棧橋垂下釣線是 
+每天的功課，戰果 
+基本都是零蛋。 
+雖然不知道是在釣魚 
+還是在曬太陽，但本人 
+根本無所謂的樣子。</string>
+	<string id="TEXT_DIARY_LUCIA">住在澤辟庫村的老婆婆。 
+深信宗教的性格，堅信
+是村子的寶物「銀鈴」 
+在保護村子免受魔物侵襲。 
+實際上銀鈴釋放的清脆的 
+音色中確實有著什麼裨益 
+的樣子。</string>
+	<string id="TEXT_DIARY_ELBERT">住在澤辟庫村的青年。 
+作為少數的村子里的年輕人， 
+為防止魔物入侵澤辟庫村 
+在巡邏。不久前，目擊到
+黑色斗篷的可疑男子去了北方。 
+琳達的丈夫， 
+馬克的父親。</string>
+	<string id="TEXT_DIARY_SOYA">住在澤辟庫村的老婆婆。 
+喜歡怪談，有什麼不可思議
+的事的話，立刻就說是幽靈 
+作祟。雖然會忠告人說神殿 
+中棲息著頭巾的亡靈， 
+但不親眼見證一下的話， 
+也不知道真假。</string>
+	<string id="TEXT_DIARY_TOVE">住在澤辟庫村的老婆婆。 
+上年紀後也不失豁達的 
+精神的老婆婆。 
+認為魔物和盜賊
+都是一樣的，
+「完全不知道他們在想什麼」 。</string>
+	<string id="TEXT_DIARY_RUGANG">在盜賊的據點內的瘦男人。 
+說話難聽，性格更差， 
+但絕對不會背叛有義氣的 
+人。 
+雖然年輕，但是和古邦交往 
+的時間最長的老盜賊了。</string>
+	<string id="TEXT_DIARY_MORGAN">在盜賊的據點內的胖男人。 
+雖然外表像是粗暴的人， 
+但內心是個重人情的溫厚的人。 
+在礦工之間的糾紛中 
+差點喪命的時候， 
+被古邦所救。</string>
+	<string id="TEXT_DIARY_FEENA">幽閉在神殿地下的圣域中 
+的少女。 
+失去了名字以外的記憶， 
+不知道為什麼會被關在
+這種地方。</string>
+	<string id="TEXT_DIARY_MONS_PICARD">在艾斯塔里亞從以前就被
+飼養著的家畜。肉很有滋味， 
+燒煮都很美味。除了被養育 
+在巴爾巴多以外， 
+還有一部分野生群體
+棲息在草原上。</string>
+	<string id="TEXT_DIARY_MONS_OACROT">出沒于草原的木人。 
+邪惡的力量寄宿在枯萎的 
+樹木中的怪物。因為水分不足
+行動遲緩，冷靜應對的話，
+不是可怕的對手。熟練的人 
+能夠以一擊打倒它。</string>
+	<string id="TEXT_DIARY_MONS_UNUGUN">徘徊在神殿周邊的魔物。 
+本來是守護著神殿的戰士 
+的遺骸，被邪惡的力量 
+所復活。鎧甲內部的肉體 
+是干枯的，接近後可以聞到 
+刺鼻的腐臭。</string>
+	<string id="TEXT_DIARY_MONS_UHNOS">出沒于神殿地下的怪物。 
+有著牛的頭蓋骨和
+人的下半身，縱橫揮舞
+巨大的刀刃。浮現在黑暗中
+的白色身姿，擁有讓軟弱的 
+人失去意識的恐怖感。</string>
+	<string id="TEXT_DIARY_MONS_BOLNER">棲息于神殿地下的妖蟲。 
+光是巨大的蟲就已經讓人 
+在生理上感到厭惡了，
+而且還會嘰嘰地叫著 
+沙沙地接近過來， 
+叫人不起雞皮疙瘩都難。</string>
+	<string id="TEXT_DIARY_MONS_LOOTER">徘徊于神殿地下的死靈。 
+身纏怨念的黑色火焰， 
+時刻準備著將還活著的人 
+拉入同伴行列。</string>
+	<string id="TEXT_DIARY_MONS_RESCOYD">出沒于神殿地下的怪物。 
+雖然被說是巨人族的頭部，
+但真身並不確定。蒼白的 
+肌膚上浮現出血管，充血 
+的眼球為尋找獵物，閃閃地 
+發著光。</string>
+	<string id="TEXT_DIARY_MONS_LYUS">棲息于神殿地下的魔獸。 
+兇猛的本性在發現獵物後 
+會用爪牙在一瞬之間將其 
+化為肉片。豐盈的鬃毛被 
+沾滿污水和血脂，將餿臭 
+味散播于周圍。</string>
+	<string id="TEXT_DIARY_MONS_DINVEL">神殿最下層的魔物。 
+時刻等待著用經過魔力強化 
+過的劍將侵入者切個粉碎。 
+雖然被斗篷包裹著的真身 
+不明，
+但預料是高位的魔族。</string>
+	<string id="TEXT_DIARY_MONS_GRYEL">潛藏在廢坑的半透明生命體。 
+擁有富于彈力的膠狀肉體， 
+溶化掉抱住的獵物。 
+砍中身體也會立刻恢復， 
+只能通過破壞眼珠來打倒 
+它了。</string>
+	<string id="TEXT_DIARY_MONS_OTHCLOS">徘徊于廢坑的妖蟲。 
+光滑的身體彈開劍刃， 
+銳利的牙齒扯破鎧甲。 
+光砍幾下的話是不會死的， 
+必須將它大分八塊， 
+完全停止起活動才行。</string>
+	<string id="TEXT_DIARY_MONS_DYNICK">出沒于廢坑的怪物。 
+巨大的嘴揮灑著唾液
+逼近過來的身姿，讓人 
+做夢都會夢到。雖然
+預測是個大胃王， 但永遠
+不知道吃掉的東西會去到哪里。</string>
+	<string id="TEXT_DIARY_MONS_MENON">四處飛竄于廢坑的魔物。 
+雖然身體很小，但擁有 
+靈敏強韌的身體，小看
+它的話，一瞬間就會被 
+反殺。在視野不好的廢坑中
+最需要注意的敵人之一。</string>
+	<string id="TEXT_DIARY_MONS_KARON">徘徊于廢坑的怪物。 
+用右手的短槍和頭部的犄角
+將敵人刺穿。是神殿中的
+吾諾絲上位魔物，可能是 
+因為這個原因，姿態異常得好。 
+長尾巴是其魅力點。</string>
+	<string id="TEXT_DIARY_MONS_CHELASKEN">棲息于廢坑中的魔鳥。 
+明明是鳥卻棲息在不是天空 
+的黑暗廢坑之中，肯定是 
+有著什麼理由吧。雖然身纏火焰， 
+但周圍卻不會變得明亮， 
+是不是也是因為同一個理由呢。</string>
+	<string id="TEXT_DIARY_MONS_LIMENDY">棲息于廢坑中的怪物。 
+同時擁有蟲子和人類特性的魔物，
+縱橫地揮舞巨大的刀刃。 
+外骨骼的身體以敏捷和強韌 
+為榮，半桶水的攻擊會被 
+反彈回去。</string>
+	<string id="TEXT_DIARY_MONS_BRAYZAL">徘徊于廢坑最下層的魔物。 
+用厚重的鎧甲包住全身， 
+會無視掉一定程度的傷害 
+突擊過來。不能避開那份 
+重壓的人，將在黑暗之中 
+被碾壓死。</string>
+	<string id="TEXT_DIARY_MONS_REFRYGUN">出沒于達姆之塔１層附近。 
+雙手持劍，以驚人的攻擊力 
+為榮，但防御力比廢坑的魔物 
+要低不少。不大意的話， 
+就算只有弱武器， 
+也能夠打倒。</string>
+	<string id="TEXT_DIARY_MONS_JESTONA">出沒于達姆之塔３層附近。 
+以紅色的鎧甲和敏捷的動作
+為特征，防御力沒什麼了不起。 
+小心不要被包圍，一只一只地 
+打倒的話，也不會那麼被逼入 
+絕境吧。</string>
+	<string id="TEXT_DIARY_MONS_ACUMATE">棲息于達姆之塔６層。 
+雖然動作遲鈍，但是攻擊力超強， 
+要是從正面戰鬥的話，需要做好
+相當大的覺悟吧。只存在于６層 
+的一部分領域，不戰鬥直接繞行 
+也可以吧。</string>
+	<string id="TEXT_DIARY_MONS_NORMASS">達姆之塔９層。 
+同樣姿態的石像被放置在 
+塔的多處，大意地認為它 
+不會動的話，會遭到襲擊。 
+不只是強力，而且很陰險的 
+對手。</string>
+	<string id="TEXT_DIARY_MONS_ZINOYD">棲息于達姆之塔７層附近。 
+流著太古的巨人族的血的魔物， 
+以符合其特征的強大力量為榮。 
+相對的，因為沒有裝備防具， 
+防御力並不是很強。 
+守護著銀之劍和盾。</string>
+	<string id="TEXT_DIARY_MONS_XOMACK">棲息于達姆之塔１０層。 
+屬于伢九梅特一族，雖然力量 
+有所降低，但是敏捷性大大 
+提升。明明是同族卻和伢九梅特 
+關系不好的樣子，在塔中也是 
+分開生活著的。</string>
+	<string id="TEXT_DIARY_MONS_VILVAN">徘徊于達姆之塔・鏡之間。 
+身體由菌纖維摻和到一起 
+而成，一邊揮動觸手， 
+一邊蹣跚行走。
+觸手會分泌神經毒， 
+切勿大意接近它。</string>
+	<string id="TEXT_DIARY_MONS_WILEWARER">出沒于達姆之塔・鏡之間。 
+雖然穿著厚重的鎧甲， 
+但是至今為止的敵人中 
+最敏捷的。在鏡之迷宮中 
+守護著銀之鎧甲， 
+對侵入者揮下無情的斬擊。</string>
+	<string id="TEXT_DIARY_MONS_IREBOWG">達姆之塔１５層附近。 
+在鋼鐵鎧甲中
+寄宿著邪惡的意志的 
+無魂重士兵。
+被命令守護拉德之塔，
+迅速排除一切接近塔
+的人。</string>
+	<string id="TEXT_DIARY_MONS_MOLFES">徘徊于拉德之塔的粘體。 
+就算是魔物接近也會纏住 
+消化吸收掉。 
+擁有和外表不服的敏捷性
+和強韌度，被其他魔物所 
+恐懼著。</string>
+	<string id="TEXT_DIARY_MONS_KELMAREL">棲息于達姆之塔１７層。 
+在一條長路上，時刻等待著 
+刺殺侵入者。 
+從正面戰鬥的話會很不利， 
+想要前進需要花費一番 
+工夫。</string>
+	<string id="TEXT_DIARY_MONS_SELNURGE">出沒于達姆之塔１８層。 
+從里夫利剛之中被選中的
+精英中的精英。 
+在魔物中以最為華麗的劍技 
+為榮，通過輕快的步伐玩弄 
+對手。</string>
+	<string id="TEXT_DIARY_MONS_CHRYOLOS">徘徊于達姆之塔１９層。 
+雙臂持有巨大的鉤爪的
+戰鬥生物。包裹身體的鎧甲
+也是皮膚硬化而成的， 
+不會妨礙到動作靈敏度。
+在達姆之塔的一角守護著最強的鎧甲。</string>
+	<string id="TEXT_DIARY_MONS_TOWARS">出沒于達姆之塔２０層。 
+以其他魔物完全不能相提並論 
+的戰鬥力為榮的最強戰士。 
+同時應對復數對手，純粹是自殺。 
+在隱藏的一間房間內守護著
+守護著最強的劍。</string>
+	<string id="TEXT_DIARY_MONS_EUCHREAS">出沒于達姆之塔・鏡之間。
+阻擋在通往塔頂的道路上的魔法劍士。
+身裹帶有魔力的斗篷，
+手持泛著紅光的魔劍。
+在鏡之迷宮自在移動，
+玩弄入侵者。</string>
+	<string id="TEXT_DIARY_MONS_BORDISH">出沒于達姆之塔・鏡之間。
+以被鍛煉出來的肉體為武器的
+鮮紅的戰鬼。一度抓到的對手
+直到化為肉片為止決不放開。
+不需要魔力的援助就有著凌駕
+尤庫里斯的戰鬥力。</string>
+	<string id="TEXT_DIARY_MONS_TOROBER">出沒于達姆之塔・鏡之間。
+阻擋在通往塔頂的道路上的魔法劍士。
+身裹帶有魔力的斗篷，
+手持泛著紅光的魔劍。
+在鏡之迷宮自在移動，
+玩弄入侵者。</string>
+	<string id="TEXT_DIARY_MONS_GODOLEB">出沒于達姆之塔・鏡之間。
+以被鍛煉出來的肉體為武器的
+鮮紅的戰鬼。一度抓到的對手
+直到化為肉片為止決不放開。
+不需要魔力的援助就有著凌駕
+尤庫里斯的戰鬥力。</string>
+	<string id="TEXT_DIARY_MONS_JENOCRES">在神殿的深處封印著通往 
+地下的道路的魔道師。 
+自在操縱火焰和瞬間移動， 
+阻擋在想要深入下去的人面前。 
+從左右被迫近的火焰所包圍的話， 
+一瞬間， 
+便會被燒成白骨。</string>
+	<string id="TEXT_DIARY_MONS_NYGTILGER">在被多重封印的神殿地
+守護著伊蘇之書的怪物。 
+出現侵入者後會現出真身， 
+利用高大的身體襲擊向 
+侵入者。 
+想要打倒它需要一邊躲開 
+高速襲來的尖牙，一邊斬斷 
+柔軟的關節部分。</string>
+	<string id="TEXT_DIARY_MONS_VAGULLION">出現于廢坑的最下層的魔物。 
+半年前，在一夜之間毀滅了
+拉斯丁村。分身成無數蝙蝠
+包圍住敵人。 
+只有在出現真身的時候才能 
+給予其傷害，想要打倒它的話，
+需要看清極限距離的 
+勇氣。</string>
+	<string id="TEXT_DIARY_MONS_PICTIMOS">出現于達姆之塔８層的巨大 
+的魔物。巢中四散著犧牲者 
+的遺骸。
+通過高速飛翔的鐮刀
+切碎接近的人。 
+想要打倒它的話，需要看穿 
+鐮刀飛行的軌跡，利用短暫 
+的漏洞進行攻擊才行。</string>
+	<string id="TEXT_DIARY_MONS_KHONSCLARD">出現于達姆之塔１４層的巖 
+石怪物。在真身鮮紅的光 
+球周圍漂浮著無數的巖石塊。
+就算害怕危險而遠離它， 
+也會成為飛來的石彈的 
+餌料。想要活下來的話， 
+必須拿出勇氣踏入巖石的 
+暴風雨之中才行。</string>
+	<string id="TEXT_DIARY_MONS_YOGLEKS">時刻等待在鏡之間的深處的魔物。
+二個中的一個是幻影，
+砍下去也不會造成
+傷害。
+真身被攻擊後，會在一瞬間
+和幻影交換，需要有進行
+長期戰鬥的覺悟。</string>
+	<string id="TEXT_DIARY_MONS_DALKFUKT">坐在達姆之塔最上層的人物。
+六神官之一，法克特的子孫，
+被魔的力量所魅惑，
+給艾斯塔里亞帶來了
+各種各樣的災難。
+為了收集齊六冊伊蘇之書，
+將古代王國的力量化為己有
+而在暗中活動。</string>
+
+
+
+
+	<string id="CHR_NONE"> </string>
+	<string id="CHR_BULDO">醫生布魯多</string>
+	<string id="CHR_IRA">愛拉</string>
+	<string id="CHR_SLAGHF">史拉夫</string>
+	<string id="CHR_VIGILANTE1">斯特凡</string>
+	<string id="CHR_VIGILANTE2">杰伊科布</string>
+	<string id="CHR_VIGILANTE3">德雷克</string>
+	<string id="CHR_BBD_OLDMAN">蓋歐魯古老人</string>
+	<string id="CHR_BBD_FISHER">漁家佩特羅</string>
+	<string id="CHR_BBD_WOMAN1">弗蘭</string>
+	<string id="CHR_BBD_WOMAN2">阿西亞</string>
+	<string id="CHR_BBD_BUTCHAR">帕斯特魯老人</string>
+	<string id="CHR_BBD_MAN1">馬魯克</string>
+	<string id="CHR_BBD3_MAN">特蘭斯</string>
+	<string id="CHR_BBD3_WOMAN">蕾貝卡</string>
+	<string id="CHR_BBD_BOY">達尼</string>
+	<string id="CHR_BBD_GIRL">謝利爾</string>
+	<string id="CHR_BBD1_MARCHANT">貿易商梅宋</string>
+	<string id="CHR_BBD1_WOMAN">西魯比亞</string>
+	<string id="CHR_BBD_BARMASTER">杰拉爾德</string>
+	<string id="CHR_RIMU">卡琳</string>
+	<string id="CHR_BBD2_OLDWOMAN">達莉婭婆婆</string>
+	<string id="CHR_REAH">蕾雅</string>
+	<string id="CHR_MIN_GIRL1">普里姆</string>
+	<string id="CHR_MIN_WOMAN1">法娜</string>
+	<string id="CHR_MIN_MAN1">尤里烏斯</string>
+	<string id="CHR_MIN_BOY1">阿謝爾</string>
+	<string id="CHR_MIN_WOMAN2">歐羅拉</string>
+	<string id="CHR_MIN_MAN2">科內爾</string>
+	<string id="CHR_MIN_BOY2">約翰</string>
+	<string id="CHR_MIN_MAN3">漢斯</string>
+	<string id="CHR_MIN_MAN4">黑絲塔克</string>
+	<string id="CHR_MIN_BOY3">盧卡</string>
+	<string id="CHR_MIN_MASTER">班戈爾頭目</string>
+	<string id="CHR_OHMAN">歐曼</string>
+	<string id="CHR_DONIS">多尼斯</string>
+	<string id="CHR_GARECK">亞蕾克</string>
+	<string id="CHR_DRUNKER1">里卡魯德</string>
+	<string id="CHR_DRUNKER2">賽扎魯</string>
+	<string id="CHR_DRUNKER3">礦工達古</string>
+	<string id="CHR_DRUNKER4">切斯特</string>
+	<string id="CHR_NAZOZIZY">費蘭慈老人</string>
+	<string id="CHR_NICO">舞者尼克</string>
+	<string id="CHR_CLAUSE">醫生庫拉澤</string>
+	<string id="CHR_LISA">莉莎</string>
+	<string id="CHR_PATIENT1">賽歐德亞</string>
+	<string id="CHR_PATIENT2">布隆</string>
+	<string id="CHR_PATIENT3">馬修老人</string>
+	<string id="CHR_PATIENT4">凱因</string>
+	<string id="CHR_PIM">皮姆多尼斯</string>
+	<string id="CHR_MIN3_WOMAN">夏露穆</string>
+	<string id="CHR_MIN1_MAN">巴克</string>
+	<string id="CHR_MIN1_WOMAN">塔比薩</string>
+	<string id="CHR_MIN5_CHIEF">瑪魯賽爾鎮長</string>
+	<string id="CHR_MIN5_OLDWOMAN">帕梅拉</string>
+	<string id="CHR_ROSETTI">洛澤提</string>
+	<string id="CHR_DIOS">迪歐斯</string>
+	<string id="CHR_MIN4_OLDMAN">佩特魯老人</string>
+	<string id="CHR_MIN4_WOMAN">伊蒂雅</string>
+	<string id="CHR_MIN2_MAN">弗雷迪</string>
+	<string id="CHR_MIN2_WOMAN">瑪薩</string>
+	<string id="CHR_RST_OLDMAN">哈里森老人</string>
+	<string id="CHR_RST_WOMAN">夏洛特</string>
+	<string id="CHR_RST_GIRL">艾皮</string>
+	<string id="CHR_SARAH">莎拉</string>
+	<string id="CHR_JEVAH">潔瓦</string>
+	<string id="CHR_ZPK_CHIEF">羅貝盧斯村長</string>
+	<string id="CHR_ZPK1_WOMAN">琳達</string>
+	<string id="CHR_ZPK1_BOY">馬克</string>
+	<string id="CHR_ZPK1_OLDWOMAN">艾達婆婆</string>
+	<string id="CHR_JOHANNA">愛麗絲</string>
+	<string id="CHR_ZPK_MAN2">庫賴布</string>
+	<string id="CHR_ZPK_OLDMAN1">拉翰老人</string>
+	<string id="CHR_ZPK_WOMAN1">帕爾瑪</string>
+	<string id="CHR_ZPK_OLDMAN2">庫洛內恩老人</string>
+	<string id="CHR_ZPK_WOMAN2">德米</string>
+	<string id="CHR_TURIZIZY">帕布羅老人</string>
+	<string id="CHR_ZPK_OLDWOMAN2">露琪亞婆婆</string>
+	<string id="CHR_ZPK_MAN1">艾魯巴特</string>
+	<string id="CHR_ZPK_OLDWOMAN3">索亞婆婆</string>
+	<string id="CHR_ZPK_OLDWOMAN1">特備婆婆</string>
+	<string id="CHR_ZPK_OLDMAN3">克虜伯老人</string>
+	<string id="CHR_GOBAN">古邦</string>
+	<string id="CHR_BANDIT1">盜賊盧剛</string>
+	<string id="CHR_BANDIT2">盜賊魔鋼</string>
+	<string id="CHR_FEENA">菲娜</string>
+	<string id="CHR_LUTHER">盧達＝潔瑪</string>
+	<string id="CHR_DOGI">多奇</string>
+	<string id="CHR_RAUBA">拉瓦</string>
+	
+	
+	
+	
+	<string id="MONS_PICARD">皮卡德</string>
+	<string id="MONS_CURLOYD">卡洛伊德</string>
+	<string id="MONS_OACROT">奧克羅德</string>
+	<string id="MONS_RHEBOLL">里波爾</string>
+	<string id="MONS_UNUGUN">惡奴剛</string>
+	<string id="MONS_UHNOS">吾諾絲</string>
+	<string id="MONS_BOLNER">布爾娜</string>
+	<string id="MONS_LOOTER">魯塔</string>
+	<string id="MONS_RESCOYD">萊斯柯德</string>
+	<string id="MONS_LYUS">萊雅斯</string>
+	<string id="MONS_DINVEL">丁貝爾</string>
+	<string id="MONS_NUBRROW">納布羅</string>
+	<string id="MONS_GRYEL">葛莉艾露</string>
+	<string id="MONS_OTHCLOS">奧斯克羅斯</string>
+	<string id="MONS_DYNICK">迪尼克</string>
+	<string id="MONS_MENON">美濃</string>
+	<string id="MONS_KARON">卡隆</string>
+	<string id="MONS_CHELASKEN">克萊斯凱</string>
+	<string id="MONS_LIMENDY">里門狄</string>
+	<string id="MONS_BRAYZAL">布雷澤魯</string>
+	<string id="MONS_REFRYGUN">里夫利剛</string>
+	<string id="MONS_JESTONA">杰斯特娜</string>
+	<string id="MONS_ACUMATE">伢九梅特</string>
+	<string id="MONS_NORMASS">諾瑪斯</string>
+	<string id="MONS_ZINOYD">基諾義德</string>
+	<string id="MONS_XOMACK">左馬克</string>
+	<string id="MONS_VILVAN">威爾班</string>
+	<string id="MONS_WILEWARER">崴爾瓦拉</string>
+	<string id="MONS_IREBOWG">埃爾伯格</string>
+	<string id="MONS_MOLFES">默爾費斯</string>
+	<string id="MONS_KELMAREL">凱爾瑪勒爾</string>
+	<string id="MONS_SELNURGE">塞魯納格</string>
+	<string id="MONS_CHRYOLOS">庫利歐羅斯</string>
+	<string id="MONS_TOWARS">圖瓦斯</string>
+	<string id="MONS_EUCHREAS">尤庫里斯</string>
+	<string id="MONS_BORDISH">博帝修</string>
+	<string id="MONS_JENOCRES">杰諾庫勒斯</string>
+	<string id="MONS_NYGTILGER">泥古緹魯嘎</string>
+	<string id="MONS_VAGULLION">八九隆</string>
+	<string id="MONS_PICTIMOS">皮克提莫絲</string>
+	<string id="MONS_KHONSCLARD">空斯庫拉德</string>
+	<string id="MONS_YOGLEKS">尤古＆歐姆魯</string>
+	<string id="MONS_DALKFUKT">達爾克＝法克特</string>
+
+	
+	
+
+	<string id="DCONTROL_UPDOWN">↓↑：選擇角色</string>
+	<string id="DCONTROL_SIDES">←→：切換頁面</string>
+	<string id="DCONTROL_X">×：返回</string>
+	<string id="DCONTROL_LR">ＬＲ：切換筆記</string>
+	<string id="DCONTROL_R">Ｒ：人物筆記</string>
+	<string id="DCONTROL_L">Ｌ：魔物筆記</string>
+	<string id="MENUMAIN_SAVEGAME">記錄</string>
+	<string id="MENUMAIN_LOADGAME">讀取</string>
+	<string id="MENUMAIN_DELETEGAME">刪除</string>
+	<string id="MENUMAIN_EQUIPMENT">裝備</string>
+	<string id="MENUMAIN_INVENTORY">道具</string>
+	<string id="MENUMAIN_TITLE">標題</string>
+	<string id="MENUMAIN_QUIT">結束</string>
+	<string id="MENUMAIN_NOTE">筆記</string>
+	<string id="MENUMAIN_OPTIONS">選項</string>
+	<string id="MENURESTART_LOADMENU">讀取</string>
+	<string id="MENURESTART_TITLE">標題</string>
+    <string id="MENULOADSTART_CONTINUE">繼續</string>
+	<string id="MENULOADSTART_NEW">新游戲</string>
+	<string id="MENULOADSTART_LOAD">讀取</string>
+	<string id="MENULOADSTART_TIMEATTACK">競速</string>
+	<string id="MENULOADSTART_ENV">選項</string>
+	<string id="MENULOADSTART_END">主選單</string>
+	<string id="MENUGRAPHICS_SHOWEXP">顯示經驗值</string>
+	<string id="MENUGRAPHICS_MAPSTRANPARENCY">角色的疊加</string>
+	<string id="MENUGRAPHICS_SHOWMONSTERINFO">顯示魔物的能力值</string>
+	<string id="MENUGRAPHICS_BLOODY">流血表現</string>
+	<string id="MENUUI_JOYBUTTON">設定平板按鍵</string>
+	<string id="MENUUI_POPMENU">選單條</string>
+	<string id="MENUUI_DASHMETHOD">沖刺</string>
+	<string id="MENUUI_FORCE4DIR">移動方向</string>
+	<string id="MENUUI_ENABLEJOYSTICK">手柄</string>
+	<string id="MENUUI_FORCEFEEDBACK">力量反饋</string>
+	<string id="MENUETC_RUN_WALK">通常移動</string>
+	<string id="MENUETC_RUN_FREE">移動方向</string>
+	<string id="MENUSOUND_BGM_TYPE">BGM選擇</string>	
+	<string id="MENUSOUND_TYPE_CHRONICLES">編年史</string>	
+	<string id="MENUSOUND_TYPE_ORIGINAL">原創</string>	
+	<string id="MENUSOUND_TYPE_PC-88">PC-88</string>
+	
+	
+	
+	
+	<string id="MENUGAMMA_DEFAULT">還原標準</string>
+	<string id="DASH_HITTWICE">狀態</string>	
+	<string id="DASH_SHIFT">奔跑</string>
+	<string id="DASH_REVSHIFT">步行</string>
+    <string id="SELECTBOOK_CAPTION">伊蘇之書</string>
+    <string id="CWNDCONFIG_CAPTION">設定環境</string>
+    <string id="CWNDSOUND_CAPTION">聲音</string>
+	<string id="SLIDERSOUND_CAPTION">背景音樂</string>	
+	<string id="SLIDERSOUND_CAPTION2">效果音</string>
+	<string id="SYSTEMDIALOGWINDOW">結束游戲，返回主選單嗎？</string>
+	<string id="MENUGRAPHICSTXT1">累計</string>
+	<string id="MENUGRAPHICSTXT2">距離下個等級</string>
+	<string id="MENUGRAPHICSTXT3">通常</string>
+	<string id="MENUGRAPHICSTXT4">點描</string>
+	<string id="MENUGRAPHICSTXT5">關</string>
+	<string id="MENUGRAPHICSTXT6">開</string>
+	<string id="MENUGRAPHICSTXT7">無</string>
+	<string id="MENUGRAPHICSTXT8">有</string>	
+	<string id="CWNDGRAPHICS_CAPTION">畫面</string>
+	<string id="CWNDGAMMA_CAPTION">畫面的明亮度</string>
+	<string id="CWNDUITXT1">方向按2次</string>
+	<string id="CWNDUITXT2">切換奔跑</string>
+	<string id="CWNDUITXT3">切換步行</string>
+	<string id="CWNDUITXT4">隨時出現</string>
+	<string id="CWNDUITXT5">首領戰不出現</string>
+	<string id="CWNDUITXT6">不出現</string>
+	<string id="CWNDUITXT7">自由</string>
+	<string id="CWNDUITXT8">8方向</string>
+	<string id="CWNDUITXT9">無</string>
+	<string id="CWNDUITXT10">不使用</string>
+	<string id="CWNDUITXT11">使用</string>
+	<string id="CWNDUI_CAPTION">輸入</string>
+	<string id="CWNDJOYCNF_TXT1">好</string>
+	<string id="CWNDJOYCNF_TXT2">取消・道具使用</string>
+	<string id="CWNDJOYCNF_TXT3">呼叫出選單</string>
+	<string id="CWNDETC_TXT1">奔跑</string>
+	<string id="CWNDETC_TXT2">步行</string>
+	<string id="CWNDETC_TXT3">自由</string>
+	<string id="CWNDETC_TXT4">８方向</string>
+	<string id="CWNDETC_CAPTION">設定移動</string>
+
+	
+	
+
+	<string id="MENUFILES_SAVE">記錄</string>
+	<string id="MENUFILES_LOAD">讀取</string>
+	<string id="MENUFILES_ERASE">清除</string>
+	<string id="MENUFILES_TITLE">標題</string>
+	<string id="MENUFILES_QUIT">主選單</string>
+	<string id="MENUMAIN_FILES">文檔</string>
+	<string id="MENUMAIN_EQUIPMENT">裝備</string>
+	<string id="MENUMAIN_INVENTORY">道具</string>
+	<string id="MENUMAIN_NOTE">筆記</string>
+	<string id="MENUDIALOG_0">好</string>
+	<string id="MENUDIALOG_1">取消</string>
+	<string id="MENUDIALOG_2">取消</string>
+	<string id="MENUDIALOG_3">取消</string>
+	<string id="JISMENUDIALOG_0">是</string>
+	<string id="JISMENUDIALOG_1">否</string>
+	<string id="JISMENUDIALOG_2">否</string>
+	<string id="JISMENUDIALOG_3">否</string>
+	<string id="FILES_CAPTION">文檔</string>
+	<string id="EXIT_DIALOG">結束游戲，返回標題畫面嗎？</string>
+
+
+
+
+	<string id="JIS_SC_MINEATOWN">米內亞城鎮</string>
+	<string id="SC_MINEATOWN">Minea Town</string>
+	<string id="JIS_SC_RAMPART">城壁</string>
+	<string id="SC_RAMPART">Rampart</string>
+	<string id="JIS_SC_FORTUNETELLER_SARAH">占卜師沙拉的店鋪</string>
+	<string id="SC_FORTUNETELLER_SARAH">Fortuneteller Sarah</string>
+	<string id="JIS_SC_CLAUSECLINIC">庫拉澤的醫院</string>
+	<string id="SC_CLAUSECLINIC">Clause's clinic</string>
+	<string id="JIS_SC_OHMANPUB">歐曼的酒館</string>
+	<string id="SC_OHMANPUB">Ohman's pub</string>
+	<string id="JIS_SC_ROSETTIWEAPONRY">洛澤提的武器店</string>
+	<string id="SC_ROSETTIWEAPONRY">Rosetti's weaponry</string>
+	<string id="JIS_SC_DIOSARMORY">迪歐斯的防具店</string>
+	<string id="SC_DIOSARMORY">Dios's armory</string>
+	<string id="JIS_SC_PIMBARTER">皮姆多尼斯的交易所</string>
+	<string id="SC_PIMBARTER">Pim the Barter</string>
+	<string id="JIS_SC_BUCKHOME">巴克的家</string>
+	<string id="SC_BUCKHOME">Buck's home</string>
+	<string id="JIS_SC_FREDDYHOME">弗雷迪的家</string>
+	<string id="SC_FREDDYHOME">Freddy's home</string>
+	<string id="JIS_SC_CHARMHOME">夏露穆的家</string>
+	<string id="SC_CHARMHOME">Charm's home</string>
+	<string id="JIS_SC_BETELHOME">貝特爾的家</string>
+	<string id="SC_BETELHOME">貝特爾的家</string>
+	<string id="JIS_SC_MAYORHOME">鎮長的家</string>
+	<string id="SC_MAYORHOME">Mayor's home</string>
+	<string id="JIS_SC_HARRISONHOME">鎮長的家</string>
+	<string id="SC_HARRISONHOME">Mayor's home</string>
+	<string id="JIS_SC_PORTBARBADO">巴爾巴多港口城市</string>
+	<string id="SC_PORTBARBADO">Port Barbado</string>
+	<string id="JIS_SC_BULDOCLINIC">布魯多的醫院</string>
+	<string id="SC_BULDOCLINIC">Buldo's clinic</string>
+	<string id="JIS_SC_JERALDPUB">杰拉爾德的酒館</string>
+	<string id="SC_JERALDPUB">Jerald's pub</string>
+	<string id="JIS_SC_MASONHOUSE">梅宋的家</string>
+	<string id="SC_MASONHOUSE">Mason's home</string>
+	<string id="JIS_SC_VIGILANTEARMORY">自警團的武器庫</string>
+	<string id="SC_VIGILANTEARMORY">Vigilantes' armory</string>
+	<string id="JIS_SC_DAHLIAHOME">達莉婭的家</string>
+	<string id="SC_DAHLIAHOME">Dahlia's home</string>
+	<string id="JIS_SC_TRANSHOME">特蘭斯的家</string>
+	<string id="SC_TRANSHOME">Trans's home</string>
+	<string id="JIS_SC_VIGILANTEOFFICE">自警團的據點</string>
+	<string id="SC_VIGILANTEOFFICE">Vigilantes' office</string>
+	<string id="JIS_SC_WAREHOUSEF2">倉庫 2層</string>
+	<string id="SC_WAREHOUSEF2">Warehouse F2</string>
+	<string id="JIS_SC_PLAIN">草原</string>
+	<string id="SC_PLAIN">Plain</string>
+	<string id="JIS_SC_ZEPTIKVILLAGE">澤辟庫村</string>
+	<string id="SC_ZEPTIKVILLAGE">Zeptik village</string>
+	<string id="JIS_SC_JEVAHOME">潔瓦的家</string>
+	<string id="SC_JEVAHOME">Jevah's home</string>
+	<string id="JIS_SC_VILLAGELEADERHOME">村長的家</string>
+	<string id="SC_VILLAGELEADERHOME">Village leader's home</string>
+	<string id="JIS_SC_LUTHERHOME">盧達的家</string>
+	<string id="SC_LUTHERHOME">Luther's home</string>
+	<string id="JIS_SC_EDDAHOME">艾達的家</string>
+	<string id="SC_EDDAHOME">Edda's home</string>
+	<string id="JIS_SC_SHRINE">神殿</string>
+	<string id="SC_SHRINE">Shrine</string>
+	<string id="JIS_SC_SHRINEB1">神殿 地下1層</string>
+	<string id="SC_SHRINEB1">Shrine B1</string>
+	<string id="JIS_SC_SHRINEB2">神殿 地下2層</string>
+	<string id="SC_SHRINEB2">Shrine B2</string>
+	<string id="JIS_SC_SHRINEB3">神殿 地下3層</string>
+	<string id="SC_SHRINEB3">Shrine B3</string>
+	<string id="JIS_SC_MOUNTAINPATH">山道</string>
+	<string id="SC_MOUNTAINPATH">Mountain path</string>
+	<string id="JIS_SC_BANDITSTRONGHOLD">盜賊的據點</string>
+	<string id="SC_BANDITSTRONGHOLD">Bandit's stronghold</string>
+	<string id="JIS_SC_PASSAGETOWARDPANDEM">前往魔窟的通路</string>
+	<string id="SC_PASSAGETOWARDPANDEM">Passage toward Pandemonium</string>
+	<string id="JIS_SC_ABANDONEDMINE1">廢坑 第1層</string>
+	<string id="SC_ABANDONEDMINE1">Abandoned mine Lv1</string>
+	<string id="JIS_SC_ABANDONEDMINE2">廢坑 第2層</string>
+	<string id="SC_ABANDONEDMINE2">Abandoned mine Lv2</string>
+	<string id="JIS_SC_ABANDONEDMINE3">廢坑 第3層</string>
+	<string id="SC_ABANDONEDMINE3">Abandoned mine Lv3</string>
+	<string id="JIS_SC_PITLEVEL1">第1坑道</string>
+	<string id="SC_PITLEVEL1">Pit of the 1st level</string>
+	<string id="JIS_SC_PITLEVEL2">第2坑道</string>
+	<string id="SC_PITLEVEL2">Pit of the 2nd level</string>
+	<string id="JIS_SC_MYSTICCHAMBER">礦山的最深處</string>
+	<string id="SC_MYSTICCHAMBER">Mystic chamber</string>
+	<string id="SC_DAHMTOWER">Dahm tower </string>
+	<string id="JIS_SC_DAHMTOWER1">達姆之塔 1層</string>
+	<string id="SC_DAHMTOWER1">Dahm tower F1</string>
+	<string id="JIS_SC_DAHMTOWER2">達姆之塔 2層</string>
+	<string id="SC_DAHMTOWER2">Dahm tower F2</string>
+	<string id="JIS_SC_DAHMTOWER3">達姆之塔 3層</string>
+	<string id="SC_DAHMTOWER3">Dahm tower F3</string>
+	<string id="JIS_SC_DAHMTOWER4">達姆之塔 4層</string>
+	<string id="SC_DAHMTOWER4">Dahm tower F4</string>
+	<string id="JIS_SC_DAHMTOWER5">達姆之塔 5層</string>
+	<string id="SC_DAHMTOWER5">Dahm tower F5</string>
+	<string id="JIS_SC_DAHMTOWER6">達姆之塔 6層</string>
+	<string id="SC_DAHMTOWER6">Dahm tower F6</string>
+	<string id="JIS_SC_DAHMTOWER7">達姆之塔 7層</string>
+	<string id="SC_DAHMTOWER7">Dahm tower F7</string>
+	<string id="JIS_SC_DAHMTOWER8">達姆之塔 8層</string>
+	<string id="SC_DAHMTOWER8">Dahm tower F8</string>
+	<string id="JIS_SC_DAHMTOWER9">達姆之塔 9層</string>
+	<string id="SC_DAHMTOWER9">Dahm tower F9</string>
+	<string id="JIS_SC_DAHMTOWER10">達姆之塔 10層</string>
+	<string id="SC_DAHMTOWER10">Dahm tower F10</string>
+	<string id="JIS_SC_DAHMTOWER11">達姆之塔 11層</string>
+	<string id="SC_DAHMTOWER11">Dahm tower F11</string>
+	<string id="JIS_SC_DAHMTOWER12">達姆之塔 12層</string>
+	<string id="SC_DAHMTOWER12">Dahm tower F12</string>
+	<string id="JIS_SC_DAHMTOWER13">達姆之塔 13層</string>
+	<string id="SC_DAHMTOWER13">Dahm tower F13</string>
+	<string id="JIS_SC_DAHMTOWER14">達姆之塔 14層</string>
+	<string id="SC_DAHMTOWER14">Dahm tower F14</string>
+	<string id="JIS_SC_DAHMTOWER15">達姆之塔 15層</string>
+	<string id="SC_DAHMTOWER15">Dahm tower F15</string>
+	<string id="JIS_SC_DAHMTOWER16">達姆之塔 16層</string>
+	<string id="SC_DAHMTOWER16">Dahm tower F16</string>
+	<string id="JIS_SC_DAHMTOWER17">達姆之塔 17層</string>
+	<string id="SC_DAHMTOWER17">Dahm tower F17</string>
+	<string id="JIS_SC_DAHMTOWER18">達姆之塔 18層</string>
+	<string id="SC_DAHMTOWER18">Dahm tower F18</string>
+	<string id="JIS_SC_DAHMTOWER19">達姆之塔 19層</string>
+	<string id="SC_DAHMTOWER19">Dahm tower F19</string>
+	<string id="JIS_SC_DAHMTOWER20">達姆之塔 20層</string>
+	<string id="SC_DAHMTOWER20">Dahm tower F20</string>
+	<string id="JIS_SC_DAHMTOWER21">達姆之塔 21層</string>
+	<string id="SC_DAHMTOWER21">Dahm tower F21</string>
+	<string id="JIS_SC_DAHMTOWER22">達姆之塔 22層</string>
+	<string id="SC_DAHMTOWER22">Dahm tower F22</string>
+	<string id="JIS_SC_DAHMTOWER23">達姆之塔 23層</string>
+	<string id="SC_DAHMTOWER23">Dahm tower F23</string>
+	<string id="JIS_SC_DAHMTOWER24">達姆之塔 24層</string>
+	<string id="SC_DAHMTOWER24">Dahm tower F24</string>
+	<string id="JIS_SC_DAHMTOWER25">達姆之塔 25層</string>
+	<string id="SC_DAHMTOWER25">Dahm tower F25</string>
+	<string id="JIS_SC_DAHMTOWERB1">達姆之塔 地下1層</string>
+	<string id="SC_DAHMTOWERB1">Dahm tower B1</string>
+	<string id="JIS_SC_MINEABYPATH">米內亞的小路</string>
+	<string id="SC_MINEABYPATH">Minea bypath</string>
+	<string id="JIS_SC_CONNECTBRIDGE">回廊</string>
+	<string id="SC_CONNECTBRIDGE">Connect bridge</string>
+	<string id="JIS_SC_LADOTOWER1">拉德之塔 1層</string>
+	<string id="SC_LADOTOWER1">Lado tower F1</string>
+	<string id="JIS_SC_LADOTOWER3">拉德之塔 3層</string>
+	<string id="SC_LADOTOWER3">Lado tower F3</string>
+	<string id="JIS_SC_SPIRALSTAIR">螺旋階梯</string>
+	<string id="SC_SPIRALSTAIR">Spiral staircase</string>
+	<string id="JIS_SC_LAKESHORE">湖畔</string>
+	<string id="SC_LAKESHORE">Lakeshore</string>
+	<string id="JIS_SC_OPENING">開頭</string>
+	<string id="JIS_SC_TITLE">標題</string>
+	<string id="JIS_SC_ENDING">結尾</string>
+	<string id="JIS_SC_STAFF">成員</string>
+	
+	
+	
+	
+	<string id="SC_END">The END</string>
+	<string id="SC_LOGO">logo</string>
+	<string id="SC_OPMOVIE">OpMovie</string>
+	<string id="SC_AUTOLOAD">AutoLoad</string>
+	<string id="SAVEDIALOG">正在記錄系統數據。\n請不要拔出記憶卡。</string>
+	<string id="IDTXT_SHORT_SWORD">Short sword</string>
+	<string id="IDTXT_LONG_SWORD">Long sword</string>
+	<string id="IDTXT_TALWARL">Talwarl</string>
+	<string id="IDTXT_SILVER_SWORD">Silver sword</string>
+	<string id="IDTXT_FLAME_SWORD">Flame sword</string>
+	<string id="IDTXT_SMALL_SHIELD">Small shield</string>
+	<string id="IDTXT_MIDDLE_SHIELD">Middle shield</string>
+	<string id="IDTXT_LARGE_SHIELD">Large shield</string>
+	<string id="IDTXT_SILVER_SHIELD">Silver shield</string>
+	<string id="IDTXT_BATTLE_SHIELD">Battle shield</string>
+	<string id="IDTXT_CHAIN_MAIL">Chain mail</string>
+	<string id="IDTXT_PLATE_MAIL">Plate mail</string>
+	<string id="IDTXT_REFLEX">Reflex</string>
+	<string id="IDTXT_SILVER_ARMOR">Silver armor</string>
+	<string id="IDTXT_BATTLE_ARMOR">Battle armor</string>
+	<string id="IDTXT_POWER_RING">Power ring</string>
+	<string id="IDTXT_RING_MAIL">Ring mail</string>
+	<string id="IDTXT_TIMER_RING">Timer ring</string>
+	<string id="IDTXT_HEAL_RING">Heal ring</string>
+	<string id="IDTXT_EVIL_RING">Evil ring</string>
+	<string id="IDTXT_BOOK_HADAL">Ys Book, Hadal</string>
+	<string id="IDTXT_BOOK_TOVAH">Ys Book, Tovah</string>
+	<string id="IDTXT_BOOK_DABBY">Ys Book, Dabby</string>
+	<string id="IDTXT_BOOK_MESSA">Ys Book, Messa</string>
+	<string id="IDTXT_BOOK_GEMMA">Ys Book, Gemma</string>
+	<string id="IDTXT_BOOK_FUKT">Ys Book, Fukt</string>
+	<string id="IDTXT_TREASUREBOX_K">Treasure box key</string>
+	<string id="IDTXT_PRISON_KEY">Prison key</string>
+	<string id="IDTXT_SHRINE_KEY">Shrine key</string>
+	<string id="IDTXT_IVORY_KEY">Ivory key</string>
+	<string id="IDTXT_MARBLE_KEY">Marble key</string>
+	<string id="IDTXT_DAHM_KEY">Dahm key</string>
+	<string id="IDTXT_CRYSTAL">Sarah's Crystal</string>
+	<string id="IDTXT_SEED_OF_RODA">Seed of Roda</string>
+	<string id="IDTXT_SILVER_BELL">Silver bell</string>
+	<string id="IDTXT_SILVER_HARMON">Silver harmonica</string>
+	<string id="IDTXT_IDOL">Idol</string>
+	<string id="IDTXT_ROD">Rod</string>
+	<string id="IDTXT_GLASSES">Glasses</string>
+	<string id="IDTXT_BLUE_AMULET">Blue amulet</string>
+	<string id="IDTXT_RUBY">Ruby</string>
+	<string id="IDTXT_SAPPHIRE_RING">Sapphire ring</string>
+	<string id="IDTXT_NECKLACE">Necklace</string>
+	<string id="IDTXT_GOLDEN_VASE">Golden pedestal</string>
+	<string id="IDTXT_HEAL_PORTION">Heal portion</string>
+	<string id="IDTXT_WING">Wing</string>
+	<string id="IDTXT_HAMMER">Hammer</string>
+	<string id="IDTXT_MIRROR">Mirror</string>
+	<string id="IDTXT_MASK_OF_EYES">Mask of eyes</string>
+	<string id="IDTXT_BLUE_NECKLACE">Blue necklace</string>
+	<string id="IDTXT_BESTIARY_TONIC">Bestiary portion</string>
+	<string id="IDTXT_REAH_PAPER">A piece of paper</string>
+	<string id="IDTXT_GOLDEN_PENDANT">Golden pendant</string>
+    <string id="GAMERANK_DIALOG">#02請選擇難易度</string>
+    <string id="TATTACK_STARTDIALOG">開始</string>
+    <string id="GRAPHICS_TYPEDIALOG">#02請選擇模式</string>
+    <string id="SAVE_CLOSE_CAPTION">保存後結束</string>
+    <string id="END_CAPTION">結束</string>
+    <string id="RANK_EASY">簡單</string>
+    <string id="RANK_NORMAL">普通</string>
+    <string id="RANK_HARD">困難</string>
+    <string id="RANK_NIGHTMARE">噩夢</string>
+    <string id="SC_DAHMTOWERF_INT">Dahm tower %d</string>
+    <string id="JIS_SC_DAHMTOWERF_INT">達姆之塔 %d層</string>
+    <string id="DOUBLE_DAMAGE">+ 雙重傷害.</string>
+    <string id="HALF_DAMAGE">+ 傷害減半.</string>
+    <string id="SLOW_ENEMY">+ 減速敵人.</string>
+    <string id="RECOVER_HITPOINTS">+ 恢復傷害.</string>
+    <string id="MORTAL_SINS">+ 人之罪孽.</string>
+    <string id="FENYS_TOVAH">弗恩斯=托瓦</string>
+    <string id="REDEMPTION_POWER">力量的救贖</string>
+    <string id="SEM_HADAL">西姆=哈達爾</string>
+    <string id="REDEMPTION_EARTH">大地的救贖</string>
+    <string id="GULBA_DADDY">古拉巴=達比</string>
+    <string id="REDEMPTION_LIGHT">光明的救贖</string>
+    <string id="MANAL_MESSA">馬娜=梅薩</string>
+    <string id="REDEMPTION_TIME">時間的救贖</string>
+    <string id="GRACK_GEMMA">戈拉克=潔瑪</string>
+    <string id="REDEMPTION_WISDOM">智慧的救贖</string>
+    <string id="AMUDA_FAD_FUKT">阿穆達=法克特和費得=法克特</string>
+    <string id="REDEMPTION_MIND">心靈的救贖</string>
+    <string id="SAVE_DIALOG">記錄確認</string>
+    <string id="LOAD_DIALOG">刪除確認</string>
+    <string id="RUINED">衰亡的 \"伊蘇神官\"</string>
+    <string id="DIARY_INSTRUCTIONS_1">左右滑動: 翻頁</string>
+    <string id="DIARY_INSTRUCTIONS_2">上下滑動: 切換日記</string>
+	    <string id="YS_BOOK_1">哈達爾之章
+        
+很久以前伊蘇國盛產克萊利亞
+薩爾蒙神殿用它
+作為繁榮的豐碑
+但是突然間災厄降臨
+在繁榮的陰影里面邪惡正在滋生
+並帶來的痛苦的惡果
+激怒者被引來了
+緊隨其後的還有魔民
+甚至連美麗的塞爾塞塔大陸
+也都化為了灰燼
+盡管所有的一切都被毀滅了
+但雙子樹和雙月
+就像是繁榮與痛苦
+會永遠注視著這片大地</string>
+    <string id="YS_BOOK_2">托瓦之章
+        
+伊蘇國
+被雙子女神以及六神官所統治
+女神是我們大地的精神象征
+她們啟迪了我們的生命
+一位代表著秩序
+另一位則代表著自由
+如果我們失去她們的話
+我們的努力與成就
+很可能就化為烏有
+我們也就不會
+再擁有和平
+不能失去女神
+要不惜任何代價
+直到永遠</string>
+    <string id="YS_BOOK_3">達比之章
+        
+現在我來講述一下伊蘇的災難
+他突然爆發並攻擊我們的城市
+而且還從地心召喚出熔巖石
+燒毀我們的土地
+讓這裡變成一片火海
+這十分可怕
+我們引以為傲的國家一個接一個
+就像蠟燭一樣被熄滅
+黑暗與混沌漸漸控制我們的世界
+毫無疑問克萊利亞就是起因
+難道這就是黑暗到來的預兆嗎
+于是我們將克萊利亞封印在地下
+這樣的話希望就會再次綻放光芒
+千萬別忘記，永遠不要去發掘它</string>
+    <string id="YS_BOOK_4">梅薩之章
+        
+我們在薩爾蒙神殿被逼到絕路
+六大巨型惡魔步步逼近
+很快就要追上我們了
+帶著終有一天再度回來的希望
+我們決定暫時先離開這片土地
+與我們分開的人們啊
+要時刻提防
+接下來將要面臨的
+是顛沛流離的痛苦時刻
+但不要失去希望
+指引者注定將在
+時間的引導下到來
+人們啊
+不要嘆息</string>
+    <string id="YS_BOOK_5">潔瑪之章
+        
+他率領著他的魔物們過來了
+就在我們深陷黑暗與恐懼之時
+女神們失蹤了
+自此以後我們再也沒有見過女神
+難道我們被拋棄了嗎
+我們潔瑪一族
+知曉一個古老的傳說
+據說利用晶瑩的藍水晶
+可以製成一種護身符
+這種傳聞中的護身符
+具備破除惡魔詛咒的力量
+謹記這一點
+利用它來爭取時間
+開拓智慧吧，危險無處不在</string>
+    <string id="YS_BOOK_6">法克特之章
+ 
+他在旭日的照耀下突然停止圍攻
+沒有人知道為什麼會這樣
+慶幸的是我們的苦日子到頭了
+為了確保他不會再回來
+我們封印了伊蘇的力量
+此力量就在這六本書里面
+能集齊六本書的人就能擁有它
+同時作為指引者帶領我們走向和平
+但閱讀此書的人需注意
+行使惡魔之力的人終會被反噬
+繁榮的深處不過是個謊言
+他終將展現出邪惡的姿態
+所有的事物，如同珠寶和堅石那般
+都是寬容的女神賜予我們的寶藏</string>
+    <string id="END_TEXT">清晨的太陽開始升起
+天空漸漸明亮
+塔的輪廓如同幻境般地閃爍
+仿佛從囚禁中獲得了自由
+鳥兒開始合唱晨曲
+魔物像退潮一樣離去
+
+亞特魯從內心感受到旅途的充實
+世界都和平了
+仿佛伊蘇漫長的歷史都歷歷在目
+充滿了他的雙眼與靈魂
+
+書中所寫的內容逐漸消失
+女神的姿態開始呈現出來
+盡管並不熟悉她們的面孔
+但亞魯特感覺
+自己早就認識她們了
+
+當亞特魯俯視地面時
+他看到了潔瓦靜靜地站著
+他還在想
+菲娜的記憶恢復了沒有
+並且決定在他回去以後
+立刻告訴菲娜自己的所見所聞
+
+耀眼的光芒似乎從四面八方出現
+將亞特魯沐浴在光輝之中
+他感受得到
+這些光芒是在祝福他平安
+祝福他好運</string>
+    <string id="EV_REAH">東方的天空染成了紅色
+西方的天空仍是蔚藍色
+在光與影的交錯之間
+我的夢重獲新生
+
+我聽著鳥鳴的旋律
+我嘗著新鮮的春風
+我看到沉默的羅妲樹
+感覺到自己曾來過這裡
+明明看到的是曾經的景象
+而我卻淚流滿面
+
+雙月逐漸落下
+太陽亦在升起
+我抬頭仰望空中廣闊的群星
+並說了一段禱詞感謝它們</string>
+    <string id="EV_TEXTP">你能聽懂我說的話...
+我的名字是羅妲
+是女神在伊蘇時代
+創造的雙子樹...
+我能聽到一個悅耳的聲音...
+它足夠喚醒
+永恒沉睡中的古樹...
+它提醒我時間的流逝...
+去找我的弟弟吧
+在它的腳邊沉睡著一把
+白銀之劍
+啊！
+你就是救世主...
+將世界帶離不幸
+將伊蘇從噩夢中喚醒
+現在是時候啟程了！
+銀色的光芒會帶來希望
+和毀滅
+不要猶豫
+不要迷茫
+遵從你的內心...
+...伊蘇...
+......女神...
+...薩爾...蒙...
+...啊...
+...達姆...
+......黑...珍珠...
+...克萊利亞............
+.........恐懼...</string>
+    <string id="MENUMAIN_CONTINUE">繼續</string>
+	<string id="MENUETC_VIRTUALPADLOCKED">鎖定方向鍵</string>
+    
+    
+    <string id="2820">離開城鎮之前需要得到刀。
+跟史拉夫對話看看吧</string>
+    <string id="2821">沒有等級３以上的話無法入內。</string>
+    <string id="2822">警告！無法回頭！
+請整備好銀的裝備。</string>
+    <string id="2823">需要購入新的道具！</string>
+    <string id="2824">沒有等級８以上的話無法入內。</string>
+    
+    
+    <string id="HINT_TITLE">提示</string>
+    <string id="HINT__GO_TO_MINEA">Let's go to Minea!</string>
+    <string id="HINT__TALK_TO_SARA">Talk to Sarah</string>
+    <string id="HINT__TALK_TO_JEBA">Go find Jevah in Zeptik</string>
+    <string id="HINT__GO_TO_SHRINE">Find Salomon Shrine</string>
+    <string id="HINT__GET_1ST_YS_BOOK">Find the book of Ys in the basement</string>
+    <string id="HINT__GET_2ND_YS_BOOK">Go back to Sarah in Minea</string>
+    <string id="HINT__GET_3RD_YS_BOOK">Find the book of Ys in the mine</string>
+    <string id="HINT__TALK_TO_JEBA_AND_FEENA">Find Jevah and Feena in Zeptik</string>
+    <string id="HINT__GO_TO_DAHM_TOWER">Enter Dahm Tower in bandits'lair</string>
+    <string id="HINT__LOOK_FOR_4TH_YS_BOOK">Find the 4th book of Ys</string>
+    <string id="HINT__TALK_TO_RABA">Search for Raba</string>
+    <string id="HINT__GET_4TH_YS_BOOK">Find the 4th book of Ys</string>
+    <string id="HINT__PASS_DEVIL_CORRIDOR">Find a way to pass the Devil's Corridor</string>
+    <string id="HINT__GET_5TH_YS_BOOK">Find the 5th book of Ys</string>
+    <string id="HINT__GET_6TH_YS_BOOK">Find the 6th book of Ys</string>
+    
+    
+    <string id="TUTO_HUD_LIFEBAR">生命</string>
+    <string id="TUTO_HUD_EXP_BAR">經驗</string>
+    <string id="TUTO_HUD_ITEMS_MENU">道具選單</string>
+    <string id="TUTO_HUD_EQUIP_MENU">裝備選單</string>
+
+	
+    <string id="YS_ACH_001">篝火</string>
+	<string id="YS_ACH_002">蛇</string>
+	<string id="YS_ACH_003">海爾巴特</string>
+	<string id="YS_ACH_004">蔓緹斯</string>
+	<string id="YS_ACH_005">搖滾我的世界</string>
+	<string id="YS_ACH_006">奪面雙雄</string>
+	<string id="YS_ACH_007">默示錄</string>
+	<string id="YS_ACH_008">吸人魅力</string>
+	<string id="YS_ACH_009">雨啊下吧</string>
+	<string id="YS_ACH_010">光與影</string>
+	<string id="YS_ACH_011">去阻止</string>
+	<string id="YS_ACH_012">地獄之鈴</string>
+	<string id="YS_ACH_013">怪物員工</string>
+	<string id="YS_ACH_014">全抓起來</string>
+	<string id="YS_ACH_015">不害怕</string>
+	<string id="YS_ACH_016">忍者</string>
+	<string id="YS_ACH_017">瀟灑的做法</string>
+	<string id="YS_ACH_018">來這邊</string>
+	<string id="YS_ACH_019">神模式</string>
+	<string id="YS_ACH_020">恐慌</string>
+	<string id="YS_ACH_021">真的？！</string>
+	<string id="YS_ACH_022">驕傲</string>
+	<string id="YS_ACH_023">書蟲</string>
+	<string id="YS_ACH_024">動物行動學者</string>
+	<string id="YS_ACH_025">戰鬥之神</string>
+
+	
+	<string id="ios_rate_popup_title">為了能讓游戲變的更好還請幫忙。在軟件商店進行評價！</string>
+	<string id="ios_rate_popup_rate">請給予評價！</string>
+	<string id="ios_rate_popup_later">請在之後通知</string>
+	<string id="ios_rate_popup_cancel">不，算了 </string>
+
+	<string id="android_rate_popup1_title">感覺本社的軟件如何呢?</string>
+    <string id="android_rate_popup1_btn1">您還中意嗎!</string>
+    <string id="android_rate_popup1_btn2">中意</string>
+    <string id="android_rate_popup1_btn3">普通</string>
+    <string id="android_rate_popup1_btn4">不好</string>
+    <string id="android_rate_popup1_cancel">取消</string>
+    <string id="android_rate_popup2_title">請協助改良這個游戲! 在商店進行評價!</string>
+
+	<string id="falcom_copyright"></string>
+</dict>
